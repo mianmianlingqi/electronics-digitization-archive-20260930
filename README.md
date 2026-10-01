@@ -46,3 +46,7 @@ python tools/restore_snapshot.py --assets downloaded_assets --verify-only
 ```
 
 恢复工具会核对ZIP和每个文件的SHA256，已有不同内容的文件会停止覆盖。它只恢复文件，不运行原项目中的制作或台账初始化脚本。
+
+## 归档核验结果
+
+全部70,958个快照文件已从ZIP读回并逐个通过SHA256；17个Release附件均经GitHub返回的大小和SHA256核对；194份当前Word/PDF已与GitHub文件树及权威验收哈希核对。原始输入ZIP的85个成员与提取源文件逐个按哈希集合核对一致。详见[上传与完整性核验记录](records/archive_upload_verification.json)。

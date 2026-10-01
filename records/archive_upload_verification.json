@@ -1,0 +1,146 @@
+{
+  "snapshot_file_count": 70958,
+  "snapshot_total_bytes": 11533821106,
+  "release_asset_count": 17,
+  "release_asset_bytes": 11124485565,
+  "source_files_matched_authoritative_sha256": 85,
+  "current_docx_pdf_files_matched_authoritative_sha256": 194,
+  "original_zip_members": 85,
+  "original_zip_crc_verified": true,
+  "original_zip_members_matched_source_sha256": 85,
+  "digitization_remains_paused": true,
+  "exclusions": [
+    "tmp/math_docx_requirement_analysis_20260930",
+    "work/math_digitization_20260930",
+    "output/blue-archive-gpt25-20260923"
+  ],
+  "all_snapshot_zip_contents_verified": true,
+  "upload_complete": true,
+  "remote_asset_size_and_sha256_verified": 17,
+  "direct_output_files_verified_against_github_tree": 194,
+  "repository_private": true,
+  "repository_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930",
+  "release_tag": "snapshot-20260930",
+  "verified_utc": "2026-10-01T11:31:15.110524+00:00",
+  "remote_assets": [
+    {
+      "name": "deliverables-01.zip",
+      "asset_id": 602562644,
+      "bytes": 899255330,
+      "digest": "sha256:5f7af24a67d20dbf4f72d29e21a8b70482bdf395f3774cb798c9afc82c628b57",
+      "state": "uploaded"
+    },
+    {
+      "name": "deliverables-02.zip",
+      "asset_id": 602562642,
+      "bytes": 853252910,
+      "digest": "sha256:0bab2bd4738eb728f326b544e480bf0fcf63cfe04ef623a108f2154307c09beb",
+      "state": "uploaded"
+    },
+    {
+      "name": "deliverables-03.zip",
+      "asset_id": 602562720,
+      "bytes": 836536362,
+      "digest": "sha256:3c7876fbce948e5b22a21057d1fc0afb925b82a62b731c7a05661225cdf63a58",
+      "state": "uploaded"
+    },
+    {
+      "name": "deliverables-04.zip",
+      "asset_id": 603072018,
+      "bytes": 684172503,
+      "digest": "sha256:322a7ef7b7ee97a098c42d788ad40803a78ce47367c8a357283f451bb63c1147",
+      "state": "uploaded"
+    },
+    {
+      "name": "deliverables-05.zip",
+      "asset_id": 602327058,
+      "bytes": 175771733,
+      "digest": "sha256:99352682051fcfb0a06472aa2b38b63192bfee407207a3ba06e721176b284895",
+      "state": "uploaded"
+    },
+    {
+      "name": "original-electronics-input.zip",
+      "asset_id": 602562652,
+      "bytes": 1512607026,
+      "digest": "sha256:6a62faf731b916eab84bd21fbd60e687c328586fcf11709fb1f25f6ea0fa5ec9",
+      "state": "uploaded"
+    },
+    {
+      "name": "output-01.zip",
+      "asset_id": 603072031,
+      "bytes": 673198365,
+      "digest": "sha256:493487c180015a33b099db6932023f9985627fe614e1a9733da5d8814e1e4084",
+      "state": "uploaded"
+    },
+    {
+      "name": "output-02.zip",
+      "asset_id": 602608499,
+      "bytes": 736430814,
+      "digest": "sha256:695c4de0dec1efaea01fd7f13fcfe2a363a4b50d08eff960b945c8741864fa49",
+      "state": "uploaded"
+    },
+    {
+      "name": "output-03.zip",
+      "asset_id": 603114423,
+      "bytes": 49500432,
+      "digest": "sha256:18e979a7ad916b27bfdbd94bc412ff4a92ab969fcfc02cc55a89ffb80ff0ae15",
+      "state": "uploaded"
+    },
+    {
+      "name": "project-01.zip",
+      "asset_id": 602308402,
+      "bytes": 856962376,
+      "digest": "sha256:e6addb91d0aa6c590990fa98a1eab8724bd15d39815c8ba3651f14266cb6cc63",
+      "state": "uploaded"
+    },
+    {
+      "name": "project-02.zip",
+      "asset_id": 602312955,
+      "bytes": 75618019,
+      "digest": "sha256:1d37eae7011d94000046bb88d15a69b199e08a37b69e312945b380694ff0da8a",
+      "state": "uploaded"
+    },
+    {
+      "name": "work-01.zip",
+      "asset_id": 603072094,
+      "bytes": 494429797,
+      "digest": "sha256:a93c11720ff13dc2a6d0289f4f0653fa2c2e23017882b9b5de7bf4f6b88cc816",
+      "state": "uploaded"
+    },
+    {
+      "name": "work-02.zip",
+      "asset_id": 603103305,
+      "bytes": 405166636,
+      "digest": "sha256:7628b7c48c5057a3168d3168dfa52b7494163ea3442590020303fd207af3b4d9",
+      "state": "uploaded"
+    },
+    {
+      "name": "work-03.zip",
+      "asset_id": 602610356,
+      "bytes": 708903159,
+      "digest": "sha256:b4be665379b008ff3425ca5a0844bb3849ac5b8bfd040a5cc30aa33dec39cfb2",
+      "state": "uploaded"
+    },
+    {
+      "name": "work-04.zip",
+      "asset_id": 602635798,
+      "bytes": 694082062,
+      "digest": "sha256:08e4c439811eb2c23d56b41eb288234903d7648d6a90df6043fe37dcef5d6686",
+      "state": "uploaded"
+    },
+    {
+      "name": "work-05.zip",
+      "asset_id": 602608087,
+      "bytes": 785592917,
+      "digest": "sha256:9447201191508297c1277fa90ab214f1ab5b79ecb2d29ae8b9b19a19875926c5",
+      "state": "uploaded"
+    },
+    {
+      "name": "work-06.zip",
+      "asset_id": 603072019,
+      "bytes": 683005124,
+      "digest": "sha256:2fbd39a4fed8a3584a3d7c1ad16e432e3f79a54d01114fc5f39e11f0e3d5722d",
+      "state": "uploaded"
+    }
+  ]
+}
