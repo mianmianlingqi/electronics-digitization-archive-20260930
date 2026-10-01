@@ -1,0 +1,139 @@
+[
+  {
+    "name": "project-01.zip",
+    "bytes": 856962376,
+    "sha256": "e6addb91d0aa6c590990fa98a1eab8724bd15d39815c8ba3651f14266cb6cc63",
+    "files": 2418,
+    "uncompressed_bytes": 890689688,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/project-01.zip"
+  },
+  {
+    "name": "project-02.zip",
+    "bytes": 75618019,
+    "sha256": "1d37eae7011d94000046bb88d15a69b199e08a37b69e312945b380694ff0da8a",
+    "files": 1646,
+    "uncompressed_bytes": 78440305,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/project-02.zip"
+  },
+  {
+    "name": "deliverables-01.zip",
+    "bytes": 899255330,
+    "sha256": "5f7af24a67d20dbf4f72d29e21a8b70482bdf395f3774cb798c9afc82c628b57",
+    "files": 1743,
+    "uncompressed_bytes": 885410566,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/deliverables-01.zip"
+  },
+  {
+    "name": "deliverables-02.zip",
+    "bytes": 853252910,
+    "sha256": "0bab2bd4738eb728f326b544e480bf0fcf63cfe04ef623a108f2154307c09beb",
+    "files": 5718,
+    "uncompressed_bytes": 891223757,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/deliverables-02.zip"
+  },
+  {
+    "name": "deliverables-03.zip",
+    "bytes": 836536362,
+    "sha256": "3c7876fbce948e5b22a21057d1fc0afb925b82a62b731c7a05661225cdf63a58",
+    "files": 6841,
+    "uncompressed_bytes": 891072383,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/deliverables-03.zip"
+  },
+  {
+    "name": "deliverables-04.zip",
+    "bytes": 684172503,
+    "sha256": "322a7ef7b7ee97a098c42d788ad40803a78ce47367c8a357283f451bb63c1147",
+    "files": 9383,
+    "uncompressed_bytes": 888675811,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/deliverables-04.zip"
+  },
+  {
+    "name": "deliverables-05.zip",
+    "bytes": 175771733,
+    "sha256": "99352682051fcfb0a06472aa2b38b63192bfee407207a3ba06e721176b284895",
+    "files": 561,
+    "uncompressed_bytes": 175307207,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/deliverables-05.zip"
+  },
+  {
+    "name": "work-01.zip",
+    "bytes": 494429797,
+    "sha256": "a93c11720ff13dc2a6d0289f4f0653fa2c2e23017882b9b5de7bf4f6b88cc816",
+    "files": 7286,
+    "uncompressed_bytes": 890936552,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/work-01.zip"
+  },
+  {
+    "name": "work-02.zip",
+    "bytes": 405166636,
+    "sha256": "7628b7c48c5057a3168d3168dfa52b7494163ea3442590020303fd207af3b4d9",
+    "files": 2793,
+    "uncompressed_bytes": 891040211,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/work-02.zip"
+  },
+  {
+    "name": "work-03.zip",
+    "bytes": 708903159,
+    "sha256": "b4be665379b008ff3425ca5a0844bb3849ac5b8bfd040a5cc30aa33dec39cfb2",
+    "files": 12041,
+    "uncompressed_bytes": 889075338,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/work-03.zip"
+  },
+  {
+    "name": "work-04.zip",
+    "bytes": 694082062,
+    "sha256": "08e4c439811eb2c23d56b41eb288234903d7648d6a90df6043fe37dcef5d6686",
+    "files": 821,
+    "uncompressed_bytes": 775965527,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/work-04.zip"
+  },
+  {
+    "name": "work-05.zip",
+    "bytes": 785592917,
+    "sha256": "9447201191508297c1277fa90ab214f1ab5b79ecb2d29ae8b9b19a19875926c5",
+    "files": 374,
+    "uncompressed_bytes": 817786612,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/work-05.zip"
+  },
+  {
+    "name": "work-06.zip",
+    "bytes": 683005124,
+    "sha256": "2fbd39a4fed8a3584a3d7c1ad16e432e3f79a54d01114fc5f39e11f0e3d5722d",
+    "files": 716,
+    "uncompressed_bytes": 770042579,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/work-06.zip"
+  },
+  {
+    "name": "output-01.zip",
+    "bytes": 673198365,
+    "sha256": "493487c180015a33b099db6932023f9985627fe614e1a9733da5d8814e1e4084",
+    "files": 13713,
+    "uncompressed_bytes": 880236040,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/output-01.zip"
+  },
+  {
+    "name": "output-02.zip",
+    "bytes": 736430814,
+    "sha256": "695c4de0dec1efaea01fd7f13fcfe2a363a4b50d08eff960b945c8741864fa49",
+    "files": 4254,
+    "uncompressed_bytes": 865716078,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/output-02.zip"
+  },
+  {
+    "name": "output-03.zip",
+    "bytes": 49500432,
+    "sha256": "18e979a7ad916b27bfdbd94bc412ff4a92ab969fcfc02cc55a89ffb80ff0ae15",
+    "files": 650,
+    "uncompressed_bytes": 52202452,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/output-03.zip"
+  },
+  {
+    "name": "original-electronics-input.zip",
+    "bytes": 1512607026,
+    "sha256": "6a62faf731b916eab84bd21fbd60e687c328586fcf11709fb1f25f6ea0fa5ec9",
+    "files": 85,
+    "uncompressed_bytes": null,
+    "download_url": "https://github.com/mianmianlingqi/electronics-digitization-archive-20260930/releases/download/snapshot-20260930/original-electronics-input.zip",
+    "role": "original_input_archive"
+  }
+]
