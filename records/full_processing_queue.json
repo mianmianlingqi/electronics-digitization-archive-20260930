@@ -1,0 +1,3321 @@
+[
+  {
+    "source_id": "S001",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S001\\30000.pdf",
+    "archive_path": "电子信息转word/无水印需要答案和解析/30000.pdf",
+    "category": "混合",
+    "pages": 188,
+    "status": "未全源完成：完整覆盖89页、页内部分0页、通过89页；原稿残损/保守待核0页",
+    "next": {
+      "source_id": "S001",
+      "chapter": 13,
+      "title": "戴维南定理",
+      "question": 717,
+      "source_pdf_page": 118,
+      "source_printed_page": 112,
+      "source_page": 118
+    },
+    "remaining_digitization_pages": 99,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 99,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S002",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S002\\300001.pdf",
+    "archive_path": "电子信息转word/无水印需要答案和解析/300001.pdf",
+    "category": "混合",
+    "pages": 207,
+    "status": "未全源完成：完整覆盖69页、页内部分0页、通过69页；原稿残损/保守待核0页",
+    "next": {
+      "source_id": "S002",
+      "source_file": "300001.pdf",
+      "chapter": 37,
+      "title": "集成运算放大器",
+      "original_number": 332,
+      "source_pdf_page": 76,
+      "source_printed_page": 250,
+      "source_boundary_actually_viewed": true,
+      "source_page": 76
+    },
+    "remaining_digitization_pages": 138,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 138,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S003",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S003\\xr2026题目(1).pdf",
+    "archive_path": "电子信息转word/无水印需要答案和解析/xr2026题目(1).pdf",
+    "category": "题库试卷习题",
+    "pages": 185,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 185,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 185,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S004",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S004\\强化决胜1600题.pdf",
+    "archive_path": "电子信息转word/无水印需要答案和解析/强化决胜1600题.pdf",
+    "category": "题库试卷习题",
+    "pages": 308,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 308,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 308,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S005",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S005\\模拟电路.pdf",
+    "archive_path": "电子信息转word/无水印需要答案和解析/模拟电路.pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S006",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S006\\2025冲刺卷1～20.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/2025冲刺卷1～20.pdf",
+    "category": "题库试卷习题",
+    "pages": 158,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 158,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 158,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S007",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S007\\26年基础过关330题.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/26年基础过关330题.pdf",
+    "category": "题库试卷习题",
+    "pages": 87,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": {
+      "source_id": "S007",
+      "source_page": 1,
+      "action": "全卷题目审计已闭合；独立忠实稿须从封面/前言/目录/原第1题制作，先恢复各已登记差异并重建原图"
+    },
+    "remaining_digitization_pages": 87,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 87,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S008",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S008\\【题目】电子信息类专业课—理论冲刺5套卷（代码01） 2026-2-24 131553 2.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/【题目】电子信息类专业课—理论冲刺5套卷（代码01） 2026-2-24 131553 2.pdf",
+    "category": "题库试卷习题",
+    "pages": 32,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 32,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 32,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S009",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S009\\【题目】电子信息类专业课—理论冲刺5套卷（代码02） 2026-2-24 131553 1.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/【题目】电子信息类专业课—理论冲刺5套卷（代码02） 2026-2-24 131553 1.pdf",
+    "category": "题库试卷习题",
+    "pages": 49,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 49,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 49,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S010",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S010\\2025冲刺卷1～20.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/2025冲刺卷1～20.pdf",
+    "category": "题库试卷习题",
+    "pages": 158,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 158,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 158,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S011",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S011\\26年基础过关330题.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/26年基础过关330题.pdf",
+    "category": "题库试卷习题",
+    "pages": 87,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": {
+      "source_id": "S011",
+      "source_page": 1,
+      "action": "全卷题目审计已闭合；独立忠实稿须从封面/前言/目录/原第1题制作，先恢复各已登记差异并重建原图"
+    },
+    "remaining_digitization_pages": 87,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 87,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S012",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S012\\【题目】电子信息类专业课—理论冲刺5套卷（代码01） 2026-2-24 131553 2.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/【题目】电子信息类专业课—理论冲刺5套卷（代码01） 2026-2-24 131553 2.pdf",
+    "category": "题库试卷习题",
+    "pages": 32,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 32,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 32,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S013",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S013\\【题目】电子信息类专业课—理论冲刺5套卷（代码02） 2026-2-24 131553 1.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/【题目】电子信息类专业课—理论冲刺5套卷（代码02） 2026-2-24 131553 1.pdf",
+    "category": "题库试卷习题",
+    "pages": 49,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 49,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 49,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S014",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S014\\实操复习全书.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/实操复习全书.pdf",
+    "category": "混合",
+    "pages": 166,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 166,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 166,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S015",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S015\\实操教材.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/实操教材.pdf",
+    "category": "教材讲义",
+    "pages": 239,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 239,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 239,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S016",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S016\\查缺补漏卷(1).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/查缺补漏卷(1).pdf",
+    "category": "混合",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖8页、页内部分0页、通过7页；原稿残损/保守待核1页",
+    "next": {
+      "action": "原可见全范围已转录；残损继续仅据同版原证据恢复，转下一源"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S016-L01",
+            "description": "单选第5题原只给题干及电路，未见选项；未改为填空题或编造选项。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\frozen_evidence\\b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2_normalized_acceptance.json",
+              "sha256": "b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\released_native_s016_R01\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 1,
+    "partial_pages": [],
+    "residual_pages": [
+      1
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S016-L01",
+            "description": "单选第5题原只给题干及电路，未见选项；未改为填空题或编造选项。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\frozen_evidence\\b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2_normalized_acceptance.json",
+              "sha256": "b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\released_native_s016_R01\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S017",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S017\\模拟卷(3).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/模拟卷(3).pdf",
+    "category": "题库试卷习题",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": {
+      "source_id": "S017",
+      "source": "模拟卷(3).pdf",
+      "archive_path": "电子信息转word/有水印需要答案和解析/去水印/模拟卷(3).pdf",
+      "source_page": 1,
+      "position": "按旧审计逐源核验并制作全部8页忠实卷；特别恢复旧册被删改8/15/30/38/42及卷头、原答题区域；全部技术图重建或内容核验复用，禁止新添答案。",
+      "action": "按该源实际类型接续；已预检或草稿不等于页验收",
+      "next_evidence": {
+        "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\released_native_s016_R01\\normalized_acceptance.json",
+        "sha256": "b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2"
+      }
+    },
+    "remaining_digitization_pages": 8,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 8,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S018",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S018\\江苏专转本数电模电基础复习全书.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/江苏专转本数电模电基础复习全书.pdf",
+    "category": "教材讲义",
+    "pages": 316,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 316,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 316,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S019",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S019\\江苏专转本电路基础复习全书.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/江苏专转本电路基础复习全书.pdf",
+    "category": "教材讲义",
+    "pages": 224,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 224,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 224,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S020",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S020\\电子信息专业课模拟冲刺卷.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/电子信息专业课模拟冲刺卷.pdf",
+    "category": "题库试卷习题",
+    "pages": 92,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 92,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 92,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S021",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S021\\默默学电子大类押题卷1-试卷-龙老师.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/默默学电子大类押题卷1-试卷-龙老师.pdf",
+    "category": "题库试卷习题",
+    "pages": 11,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 11,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 11,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S022",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S022\\默默学电子大类押题卷2-试卷-龙老师.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/默默学电子大类押题卷2-试卷-龙老师.pdf",
+    "category": "题库试卷习题",
+    "pages": 11,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 11,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 11,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S023",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S023\\默默学电子大类押题卷3-试卷-龙老师.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/去水印/默默学电子大类押题卷3-试卷-龙老师.pdf",
+    "category": "题库试卷习题",
+    "pages": 12,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 12,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 12,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S024",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S024\\实操复习全书.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/实操复习全书.pdf",
+    "category": "混合",
+    "pages": 166,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 166,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 166,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S025",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S025\\实操教材.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/实操教材.pdf",
+    "category": "混合",
+    "pages": 239,
+    "status": "未全源完成：完整覆盖168页、页内部分0页、通过139页；原稿残损/保守待核29页",
+    "next": {
+      "source_id": "S025",
+      "source_page": 169,
+      "heading": "第4章 电子电路识图",
+      "start": "169章首先完整学习要点4条及三二维码/联系方式；170页实际标题4.1认识PCB、4.1.1印制电路板的分类，已实看边界但未制作。",
+      "status": "not_digitized",
+      "source_page_fully_accepted": false,
+      "first_learning_point": "（1）常用基本电路的组成和应用。涉及晶体管放大电路、运算放大电路、振荡电路、功率放大电路、电源电路、译码电路、计数器电路。了解单片机常用外围扩展电路。",
+      "following_verified_heading": {
+        "source_page": 170,
+        "heading": "4.1 认识PCB",
+        "subheading": "4.1.1 印制电路板的分类",
+        "status": "boundary_viewed_only_not_digitized"
+      }
+    },
+    "remaining_digitization_pages": 71,
+    "unresolved": [
+      {
+        "source_page": 10,
+        "issues": [
+          {
+            "id": "S025-P010-01",
+            "description": "含铅百分数被水印遮挡，未可靠恢复；原件数字不清占位已保留"
+          }
+        ]
+      },
+      {
+        "source_page": 27,
+        "issues": [
+          {
+            "id": "S025-p027-hidden-words-a",
+            "description": "发光二极管说明中“压”后至“管质量较好”前被图遮挡。",
+            "kind": "unrecoverable_missing_text",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938_S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+              "sha256": "4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+              "pointer": "",
+              "role": "source_content_and_visual_acceptance"
+            }
+          },
+          {
+            "id": "S025-p027-hidden-words-b",
+            "description": "“红表笔接的是”后至“接的是负极”前被图遮挡。",
+            "kind": "unrecoverable_missing_text",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938_S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+              "sha256": "4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+              "pointer": "",
+              "role": "source_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 42,
+        "issues": [
+          {
+            "id": "S025-p042-gain-subscripts",
+            "description": "Av 后分式上下均见 v，但两处下标被截；记录为 v〔下标缺〕。",
+            "kind": "unrecoverable_missing_symbols",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0_S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+              "sha256": "34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+              "pointer": "",
+              "role": "S025_frozen_final_content_and_visual_acceptance"
+            }
+          },
+          {
+            "id": "S025-p042-gain-subscripts",
+            "description": "Av 后分式上下均见 v，但两处下标被截；记录为 v〔下标缺〕。",
+            "kind": "unrecoverable_missing_symbols",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef_S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+              "sha256": "98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 45,
+        "issues": [
+          {
+            "id": "S025-p045-period-sentence",
+            "description": "周期选择说明止于“使\"周期”；源 46 页不接续该句。",
+            "kind": "original_incomplete_sentence",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0_S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+              "sha256": "34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+              "pointer": "",
+              "role": "S025_frozen_final_content_and_visual_acceptance"
+            }
+          },
+          {
+            "id": "S025-p045-period-sentence",
+            "description": "周期选择说明止于“使\"周期”；源 46 页不接续该句。",
+            "kind": "original_incomplete_sentence",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef_S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+              "sha256": "98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 59,
+        "issues": [
+          {
+            "id": "S025-p059-v4-source-detail",
+            "description": "触发示意屏原图小号状态读数模糊，波形/基线/触发位置已重绘，原截图另存证据；不猜填细字。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 60,
+        "issues": [
+          {
+            "id": "S025-p060-v4-source-detail",
+            "description": "右侧实物照片标注截为“触发菜”，原图边缘已裁切；按残缺保留。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 61,
+        "issues": [
+          {
+            "id": "S025-p061-v4-source-detail",
+            "description": "触发电平截图右侧菜单和触发数值过小模糊；已保留可辨CH2/2.00V/1.00000kHz及200μs，未猜剩余细字。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 63,
+        "issues": [
+          {
+            "id": "S025-p063-v4-source-detail",
+            "description": "校准截图底栏左侧2.00V已补入新R03；左通道标识模糊未猜，右CH2与第二个2.00V完整保留。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\bdf4835c46b09375893671fab814ab312ff3df6993d28e39bc108004ec654292_S025_第1章_07_示波器外部自检_源62页下部-63页上部_R03_acceptance.json",
+              "sha256": "bdf4835c46b09375893671fab814ab312ff3df6993d28e39bc108004ec654292",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_07_示波器外部自检_源62页下部-63页上部_R03_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 64,
+        "issues": [
+          {
+            "id": "S025-p064-v4-source-detail",
+            "description": "测电压/周期示意屏底部细字模糊；重绘波形、0基线、档位区域与可辨菜单，源截图单独留存，不推算填入。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 65,
+        "issues": [
+          {
+            "id": "S025-p065-v4-source-detail",
+            "description": "实物示波器屏幕小号自动测量数值不可可靠辨读；可辨教学图注、两通道波形及菜单关系完整重建，原照片保留。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 66,
+        "issues": [
+          {
+            "id": "S025-p066-v4-source-detail",
+            "description": "幅度光标截图两光标的细小位置/差值数字模糊；原截图保留证据，位置、波形和可辨菜单已重建。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 67,
+        "issues": [
+          {
+            "id": "S025-p067-v4-source-detail",
+            "description": "原时间光标菜单已补全可辨关闭项及S=-500.0μs；E为−1.后细小数字未能可靠辨读，保留缺标。R04同时据原图纠正0V基线到网格中间横线。旧R03误将本页列入完全合格，在替代记录中撤销；本页仍待核。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 73,
+        "issues": [
+          {
+            "id": "S025-p073-v4-source-detail",
+            "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 74,
+        "issues": [
+          {
+            "id": "S025-p074-v4-source-detail",
+            "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 75,
+        "issues": [
+          {
+            "id": "S025-p075-v4-source-detail",
+            "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 88,
+        "issues": [
+          {
+            "id": "S025-p088-sentence-end",
+            "description": "原句止于“最末”，未猜补缺失尾字。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\f23738bd01e9e09f0abef65b39cfc9be6bd915d4a7a08fcb0f91920958c03a50_S025_第2章_02_电阻_源81-91页_R03_acceptance.json",
+              "sha256": "f23738bd01e9e09f0abef65b39cfc9be6bd915d4a7a08fcb0f91920958c03a50",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_02_电阻_源81-91页_R03_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 93,
+        "issues": [
+          {
+            "id": "S025-p093-RP-designator-and-value",
+            "description": "位号尾字和微小参数均不能可靠确定。图中RP?问号为缺损标记；不确定数字未作为原文转录。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371_S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+              "sha256": "e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          },
+          {
+            "id": "S025-p093-cropped-bottom-line",
+            "description": "原截图底边截断下一行字符残迹，未提供可确认的完整端口、针脚号或连线。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371_S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+              "sha256": "e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 96,
+        "issues": [
+          {
+            "id": "S025-p096-varistor-voltage-subscript",
+            "description": "扫描中的U下标不能可靠辨认；1mA、I/U坐标、原点及正负支路可辨。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\dd36cecc58bd3f9d250d184ff83a7785163670486d8798378b3ae864159a8686_S025_第2章_04_敏感电阻与电位器_源95-98页_R02_acceptance.json",
+              "sha256": "dd36cecc58bd3f9d250d184ff83a7785163670486d8798378b3ae864159a8686",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_04_敏感电阻与电位器_源95-98页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 99,
+        "issues": [
+          {
+            "id": "S025-p099-clipped-variable-symbol-caption",
+            "description": "图题只见“可变电”；符号箭头右端亦被原图边界裁切。",
+            "handling": "正文和SVG保留可辨部分及截断标记，不补图题尾字/完整箭头。",
+            "tried": [
+              "S025全页与6倍局部",
+              "S015源99同位置仍截断",
+              "S025 xref398原始整页图像提取，未发现另一图层或隐藏文字"
+            ],
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+              "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+              "role": "final_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 102,
+        "issues": [
+          {
+            "id": "S025-p102-bridge-designator-subscripts",
+            "description": "右上D1可辨，其余三个下标无法可靠确认。",
+            "handling": "可见D保留为D?，问号为数字化缺损标记；四只管的可辨位置、导通方向和连线均保留，未按常见编号顺序补写。",
+            "tried": [
+              "S025源102全页和6倍局部",
+              "S015源102局部比较",
+              "S025 xref410原始图像对象无另一清晰层"
+            ],
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+              "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+              "role": "final_content_and_visual_acceptance"
+            }
+          },
+          {
+            "id": "S025-p102-wave-axis-end",
+            "description": "ω之后字形仅有裁切残笔，不能确认完整轴标。",
+            "handling": "SVG显示ω〔截断〕；π/2π/O/a/b及可见实线/虚线保留，不补推测t。",
+            "tried": [
+              "S025源102整图、局部",
+              "S015源102右边亦截断",
+              "原始图像对象检查"
+            ],
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+              "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+              "role": "final_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 105,
+        "issues": [
+          {
+            "id": "S025-p105-notch-name-obscured",
+            "description": "原水印覆盖缺口名称的部分字形，不能可靠确认。",
+            "handling": "正文“两个〔遮挡〕角形缺口”，未按常见封装外形补字。",
+            "tried": [
+              "S025源105全页、下半页、6倍局部",
+              "S015同位置被去水印涂抹",
+              "S025 xref422原始整页图像无文字/向量清晰层"
+            ],
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+              "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+              "role": "final_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 121,
+        "issues": [
+          {
+            "id": "S025-p121-dual-led-upper-right-pin",
+            "description": "端号只存残笔，不能可靠确认完整数字。",
+            "kind": "unrecoverable_original_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v7\\S025_第2章_08_发光二极管_源120-122页_R05_acceptance.json",
+              "sha256": "74e1c71138c1a7874ca690d832e78ac22fb98e296e2040efc8d80d39a9d07303",
+              "role": "final_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 131,
+        "issues": [
+          {
+            "id": "S025-p131-plcc-micro-pin-numbers",
+            "description": "可辨部分保留，模糊小编号未按连续数列推填。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\1e20080047a3719760918829b991d09effc61c2bf5fb63c660f9fc38a8328082_booklet10_acceptance_normalized.json",
+              "sha256": "1e20080047a3719760918829b991d09effc61c2bf5fb63c660f9fc38a8328082",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet10_acceptance_normalized.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 136,
+        "issues": [
+          {
+            "id": "S025-p136-control-capacitor-unit-tail",
+            "description": "0.01μ后末字符残缺，完整单位无法仅凭可见字形确认。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+              "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 137,
+        "issues": [
+          {
+            "id": "S025-p137-charge-control-capacitor-unit-tail",
+            "description": "上图0.01μ末字符残缺；下图0.01μF可辨。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+              "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 138,
+        "issues": [
+          {
+            "id": "S025-p138-tph-final-symbol",
+            "description": "末字仅余左弧，右部被裁。虽然上下文可推测，不作为原稿恢复证据。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+              "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 143,
+        "issues": [
+          {
+            "id": "S025-P143-v9-unresolved",
+            "description": "自复位按钮应用电路（a）的“5V”前有孤立弯笔，未能判明是符号还是扫描杂痕；图中保留可辨的5V，不猜补。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930_normalized_acceptance.json",
+              "sha256": "a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook_13_14_16_R01\\13\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 144,
+        "issues": [
+          {
+            "id": "S025-P144-v9-unresolved",
+            "description": "电磁继电器动作示意图（b）右侧固定触点支片及右端引脚原已裁断；重绘到可辨边界并标注“原图裁断”，未推补右端内容。对照原PDF图像对象及另一版同页，未发现可恢复的缺部。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930_normalized_acceptance.json",
+              "sha256": "a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook_13_14_16_R01\\13\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 148,
+        "issues": [
+          {
+            "id": "S025-P148-v9-color-labels",
+            "description": "填空第12题图（b）的第三、第四色环文字受原水印干扰，未能可靠辨认，重绘保留可辨位置并以“缺损”标识；未从阻值答案倒推色名。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4_normalized_acceptance.json",
+              "sha256": "ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook15_R01\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          },
+          {
+            "id": "S025-P148-v9-fill28",
+            "description": "填空第28题括注第二字被水印遮挡，原可辨“有”字保留，其后以“字被水印遮挡”标识。另一版本恰好擦除该句部分，不能作为恢复证据。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4_normalized_acceptance.json",
+              "sha256": "ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook15_R01\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 100,
+    "partial_pages": [],
+    "residual_pages": [
+      10,
+      27,
+      42,
+      45,
+      59,
+      60,
+      61,
+      63,
+      64,
+      65,
+      66,
+      67,
+      73,
+      74,
+      75,
+      88,
+      93,
+      96,
+      99,
+      102,
+      105,
+      121,
+      131,
+      136,
+      137,
+      138,
+      143,
+      144,
+      148
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 10,
+        "issues": [
+          {
+            "id": "S025-P010-01",
+            "description": "含铅百分数被水印遮挡，未可靠恢复；原件数字不清占位已保留"
+          }
+        ]
+      },
+      {
+        "source_page": 27,
+        "issues": [
+          {
+            "id": "S025-p027-hidden-words-a",
+            "description": "发光二极管说明中“压”后至“管质量较好”前被图遮挡。",
+            "kind": "unrecoverable_missing_text",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938_S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+              "sha256": "4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+              "pointer": "",
+              "role": "source_content_and_visual_acceptance"
+            }
+          },
+          {
+            "id": "S025-p027-hidden-words-b",
+            "description": "“红表笔接的是”后至“接的是负极”前被图遮挡。",
+            "kind": "unrecoverable_missing_text",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938_S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+              "sha256": "4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+              "pointer": "",
+              "role": "source_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 42,
+        "issues": [
+          {
+            "id": "S025-p042-gain-subscripts",
+            "description": "Av 后分式上下均见 v，但两处下标被截；记录为 v〔下标缺〕。",
+            "kind": "unrecoverable_missing_symbols",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0_S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+              "sha256": "34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+              "pointer": "",
+              "role": "S025_frozen_final_content_and_visual_acceptance"
+            }
+          },
+          {
+            "id": "S025-p042-gain-subscripts",
+            "description": "Av 后分式上下均见 v，但两处下标被截；记录为 v〔下标缺〕。",
+            "kind": "unrecoverable_missing_symbols",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef_S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+              "sha256": "98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 45,
+        "issues": [
+          {
+            "id": "S025-p045-period-sentence",
+            "description": "周期选择说明止于“使\"周期”；源 46 页不接续该句。",
+            "kind": "original_incomplete_sentence",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0_S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+              "sha256": "34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+              "pointer": "",
+              "role": "S025_frozen_final_content_and_visual_acceptance"
+            }
+          },
+          {
+            "id": "S025-p045-period-sentence",
+            "description": "周期选择说明止于“使\"周期”；源 46 页不接续该句。",
+            "kind": "original_incomplete_sentence",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef_S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+              "sha256": "98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 59,
+        "issues": [
+          {
+            "id": "S025-p059-v4-source-detail",
+            "description": "触发示意屏原图小号状态读数模糊，波形/基线/触发位置已重绘，原截图另存证据；不猜填细字。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 60,
+        "issues": [
+          {
+            "id": "S025-p060-v4-source-detail",
+            "description": "右侧实物照片标注截为“触发菜”，原图边缘已裁切；按残缺保留。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 61,
+        "issues": [
+          {
+            "id": "S025-p061-v4-source-detail",
+            "description": "触发电平截图右侧菜单和触发数值过小模糊；已保留可辨CH2/2.00V/1.00000kHz及200μs，未猜剩余细字。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 63,
+        "issues": [
+          {
+            "id": "S025-p063-v4-source-detail",
+            "description": "校准截图底栏左侧2.00V已补入新R03；左通道标识模糊未猜，右CH2与第二个2.00V完整保留。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\bdf4835c46b09375893671fab814ab312ff3df6993d28e39bc108004ec654292_S025_第1章_07_示波器外部自检_源62页下部-63页上部_R03_acceptance.json",
+              "sha256": "bdf4835c46b09375893671fab814ab312ff3df6993d28e39bc108004ec654292",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_07_示波器外部自检_源62页下部-63页上部_R03_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 64,
+        "issues": [
+          {
+            "id": "S025-p064-v4-source-detail",
+            "description": "测电压/周期示意屏底部细字模糊；重绘波形、0基线、档位区域与可辨菜单，源截图单独留存，不推算填入。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 65,
+        "issues": [
+          {
+            "id": "S025-p065-v4-source-detail",
+            "description": "实物示波器屏幕小号自动测量数值不可可靠辨读；可辨教学图注、两通道波形及菜单关系完整重建，原照片保留。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 66,
+        "issues": [
+          {
+            "id": "S025-p066-v4-source-detail",
+            "description": "幅度光标截图两光标的细小位置/差值数字模糊；原截图保留证据，位置、波形和可辨菜单已重建。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 67,
+        "issues": [
+          {
+            "id": "S025-p067-v4-source-detail",
+            "description": "原时间光标菜单已补全可辨关闭项及S=-500.0μs；E为−1.后细小数字未能可靠辨读，保留缺标。R04同时据原图纠正0V基线到网格中间横线。旧R03误将本页列入完全合格，在替代记录中撤销；本页仍待核。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 73,
+        "issues": [
+          {
+            "id": "S025-p073-v4-source-detail",
+            "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 74,
+        "issues": [
+          {
+            "id": "S025-p074-v4-source-detail",
+            "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 75,
+        "issues": [
+          {
+            "id": "S025-p075-v4-source-detail",
+            "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 88,
+        "issues": [
+          {
+            "id": "S025-p088-sentence-end",
+            "description": "原句止于“最末”，未猜补缺失尾字。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\f23738bd01e9e09f0abef65b39cfc9be6bd915d4a7a08fcb0f91920958c03a50_S025_第2章_02_电阻_源81-91页_R03_acceptance.json",
+              "sha256": "f23738bd01e9e09f0abef65b39cfc9be6bd915d4a7a08fcb0f91920958c03a50",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_02_电阻_源81-91页_R03_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 93,
+        "issues": [
+          {
+            "id": "S025-p093-RP-designator-and-value",
+            "description": "位号尾字和微小参数均不能可靠确定。图中RP?问号为缺损标记；不确定数字未作为原文转录。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371_S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+              "sha256": "e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          },
+          {
+            "id": "S025-p093-cropped-bottom-line",
+            "description": "原截图底边截断下一行字符残迹，未提供可确认的完整端口、针脚号或连线。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371_S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+              "sha256": "e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 96,
+        "issues": [
+          {
+            "id": "S025-p096-varistor-voltage-subscript",
+            "description": "扫描中的U下标不能可靠辨认；1mA、I/U坐标、原点及正负支路可辨。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\dd36cecc58bd3f9d250d184ff83a7785163670486d8798378b3ae864159a8686_S025_第2章_04_敏感电阻与电位器_源95-98页_R02_acceptance.json",
+              "sha256": "dd36cecc58bd3f9d250d184ff83a7785163670486d8798378b3ae864159a8686",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_04_敏感电阻与电位器_源95-98页_R02_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 99,
+        "issues": [
+          {
+            "id": "S025-p099-clipped-variable-symbol-caption",
+            "description": "图题只见“可变电”；符号箭头右端亦被原图边界裁切。",
+            "handling": "正文和SVG保留可辨部分及截断标记，不补图题尾字/完整箭头。",
+            "tried": [
+              "S025全页与6倍局部",
+              "S015源99同位置仍截断",
+              "S025 xref398原始整页图像提取，未发现另一图层或隐藏文字"
+            ],
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+              "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+              "role": "final_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 102,
+        "issues": [
+          {
+            "id": "S025-p102-bridge-designator-subscripts",
+            "description": "右上D1可辨，其余三个下标无法可靠确认。",
+            "handling": "可见D保留为D?，问号为数字化缺损标记；四只管的可辨位置、导通方向和连线均保留，未按常见编号顺序补写。",
+            "tried": [
+              "S025源102全页和6倍局部",
+              "S015源102局部比较",
+              "S025 xref410原始图像对象无另一清晰层"
+            ],
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+              "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+              "role": "final_content_and_visual_acceptance"
+            }
+          },
+          {
+            "id": "S025-p102-wave-axis-end",
+            "description": "ω之后字形仅有裁切残笔，不能确认完整轴标。",
+            "handling": "SVG显示ω〔截断〕；π/2π/O/a/b及可见实线/虚线保留，不补推测t。",
+            "tried": [
+              "S025源102整图、局部",
+              "S015源102右边亦截断",
+              "原始图像对象检查"
+            ],
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+              "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+              "role": "final_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 105,
+        "issues": [
+          {
+            "id": "S025-p105-notch-name-obscured",
+            "description": "原水印覆盖缺口名称的部分字形，不能可靠确认。",
+            "handling": "正文“两个〔遮挡〕角形缺口”，未按常见封装外形补字。",
+            "tried": [
+              "S025源105全页、下半页、6倍局部",
+              "S015同位置被去水印涂抹",
+              "S025 xref422原始整页图像无文字/向量清晰层"
+            ],
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+              "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+              "role": "final_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 121,
+        "issues": [
+          {
+            "id": "S025-p121-dual-led-upper-right-pin",
+            "description": "端号只存残笔，不能可靠确认完整数字。",
+            "kind": "unrecoverable_original_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v7\\S025_第2章_08_发光二极管_源120-122页_R05_acceptance.json",
+              "sha256": "74e1c71138c1a7874ca690d832e78ac22fb98e296e2040efc8d80d39a9d07303",
+              "role": "final_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 131,
+        "issues": [
+          {
+            "id": "S025-p131-plcc-micro-pin-numbers",
+            "description": "可辨部分保留，模糊小编号未按连续数列推填。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\1e20080047a3719760918829b991d09effc61c2bf5fb63c660f9fc38a8328082_booklet10_acceptance_normalized.json",
+              "sha256": "1e20080047a3719760918829b991d09effc61c2bf5fb63c660f9fc38a8328082",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet10_acceptance_normalized.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 136,
+        "issues": [
+          {
+            "id": "S025-p136-control-capacitor-unit-tail",
+            "description": "0.01μ后末字符残缺，完整单位无法仅凭可见字形确认。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+              "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 137,
+        "issues": [
+          {
+            "id": "S025-p137-charge-control-capacitor-unit-tail",
+            "description": "上图0.01μ末字符残缺；下图0.01μF可辨。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+              "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 138,
+        "issues": [
+          {
+            "id": "S025-p138-tph-final-symbol",
+            "description": "末字仅余左弧，右部被裁。虽然上下文可推测，不作为原稿恢复证据。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+              "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 143,
+        "issues": [
+          {
+            "id": "S025-P143-v9-unresolved",
+            "description": "自复位按钮应用电路（a）的“5V”前有孤立弯笔，未能判明是符号还是扫描杂痕；图中保留可辨的5V，不猜补。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930_normalized_acceptance.json",
+              "sha256": "a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook_13_14_16_R01\\13\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 144,
+        "issues": [
+          {
+            "id": "S025-P144-v9-unresolved",
+            "description": "电磁继电器动作示意图（b）右侧固定触点支片及右端引脚原已裁断；重绘到可辨边界并标注“原图裁断”，未推补右端内容。对照原PDF图像对象及另一版同页，未发现可恢复的缺部。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930_normalized_acceptance.json",
+              "sha256": "a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook_13_14_16_R01\\13\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 148,
+        "issues": [
+          {
+            "id": "S025-P148-v9-color-labels",
+            "description": "填空第12题图（b）的第三、第四色环文字受原水印干扰，未能可靠辨认，重绘保留可辨位置并以“缺损”标识；未从阻值答案倒推色名。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4_normalized_acceptance.json",
+              "sha256": "ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook15_R01\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          },
+          {
+            "id": "S025-P148-v9-fill28",
+            "description": "填空第28题括注第二字被水印遮挡，原可辨“有”字保留，其后以“字被水印遮挡”标识。另一版本恰好擦除该句部分，不能作为恢复证据。",
+            "kind": "unrecoverable_source_detail",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4_normalized_acceptance.json",
+              "sha256": "ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook15_R01\\normalized_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S026",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S026\\2024年江苏专转本考试电子类模拟卷②题目+答案_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/2024年江苏专转本考试电子类模拟卷②题目+答案_已破.pdf",
+    "category": "混合",
+    "pages": 11,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 11,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 11,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S027",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S027\\2024年江苏专转本考试电子类模拟卷③题目+答案_已破(已优化)(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/2024年江苏专转本考试电子类模拟卷③题目+答案_已破(已优化)(已优化).pdf",
+    "category": "混合",
+    "pages": 12,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 12,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 12,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S028",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S028\\2024年江苏专转本考试电子类模拟卷④题目+答案_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/2024年江苏专转本考试电子类模拟卷④题目+答案_已破(已优化).pdf",
+    "category": "混合",
+    "pages": 15,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 15,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 15,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S029",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S029\\2024年江苏专转本考试电子类模拟卷⑤题目+答案_已破(已优化)(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/2024年江苏专转本考试电子类模拟卷⑤题目+答案_已破(已优化)(已优化).pdf",
+    "category": "混合",
+    "pages": 13,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 13,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 13,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S030",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S030\\2024年江苏专转本考试电子类模拟卷⑥答案_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/2024年江苏专转本考试电子类模拟卷⑥答案_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 4,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 4,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 4,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S031",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S031\\2024年江苏专转本考试电子类模拟卷⑦答案_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/2024年江苏专转本考试电子类模拟卷⑦答案_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 4,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 4,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 4,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S032",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S032\\2024年江苏专转本考试电子类模拟卷⑧答案_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/2024年江苏专转本考试电子类模拟卷⑧答案_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 5,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 5,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 5,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S033",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S033\\电子信息专业基础理论模拟题1答案_纯图版_已破(已优化)(1).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题1答案_纯图版_已破(已优化)(1).pdf",
+    "category": "配套答案解析",
+    "pages": 5,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 5,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 5,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S034",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S034\\电子信息专业基础理论模拟题1答案_纯图版_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题1答案_纯图版_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 5,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 5,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 5,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S035",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S035\\电子信息专业基础理论模拟题2答案_纯图版_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题2答案_纯图版_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 5,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 5,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 5,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S036",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S036\\电子信息专业基础理论模拟题3答案_纯图版_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题3答案_纯图版_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 4,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 4,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 4,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S037",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S037\\电子信息专业基础理论模拟题4答案_纯图版_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题4答案_纯图版_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 4,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 4,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 4,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S038",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S038\\电子信息专业基础理论模拟题5答案_纯图版_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题5答案_纯图版_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 4,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 4,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 4,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S039",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S039\\电子信息专业基础理论模拟题6答案_纯图版_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题6答案_纯图版_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 8,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 8,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S040",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S040\\电子信息专业基础理论模拟题7答案_纯图版_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题7答案_纯图版_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 4,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 4,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 4,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S041",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S041\\电子信息专业基础理论模拟题8答案_纯图版_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业基础理论模拟题8答案_纯图版_已破(已优化).pdf",
+    "category": "配套答案解析",
+    "pages": 5,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 5,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 5,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S042",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S042\\电子信息专业大类专业综合基础理论模拟卷1_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷1_已破.pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 6,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 6,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S043",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S043\\电子信息专业大类专业综合基础理论模拟卷2_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷2_已破.pdf",
+    "category": "题库试卷习题",
+    "pages": 7,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 7,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 7,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S044",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S044\\电子信息专业大类专业综合基础理论模拟卷3_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷3_已破.pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 6,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 6,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S045",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S045\\电子信息专业大类专业综合基础理论模拟卷4_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷4_已破.pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 6,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 6,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S046",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S046\\电子信息专业大类专业综合基础理论模拟卷5_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷5_已破.pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 6,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 6,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S047",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S047\\电子信息专业大类专业综合基础理论模拟卷6_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷6_已破.pdf",
+    "category": "题库试卷习题",
+    "pages": 7,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 7,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 7,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S048",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S048\\电子信息专业大类专业综合基础理论模拟卷7_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷7_已破.pdf",
+    "category": "题库试卷习题",
+    "pages": 5,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 5,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 5,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S049",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S049\\电子信息专业大类专业综合基础理论模拟卷8_已破(已优化).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷8_已破(已优化).pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 6,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 6,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S050",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S050\\电子信息专业大类专业综合基础理论模拟卷8_已破.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/新建文件夹(1)/电子信息专业大类专业综合基础理论模拟卷8_已破.pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 6,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 6,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S051",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S051\\查缺补漏卷(1).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/查缺补漏卷(1).pdf",
+    "category": "题库试卷习题",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 8,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 8,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S052",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S052\\模拟卷(3).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷(3).pdf",
+    "category": "题库试卷习题",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 8,
+    "unresolved": [
+      "PDF解析器记录资源/对象警告；逐页详情见source_pdf_diagnostics.json，必须确认是否实际丢失可见内容"
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 8,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S053",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S053\\2022专转本电子信息类模拟试卷1答案.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/2022专转本电子信息类模拟试卷1答案.pdf",
+    "category": "混合",
+    "pages": 11,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 11,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 11,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S054",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S054\\2022专转本电子信息类模拟试卷2答案.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/2022专转本电子信息类模拟试卷2答案.pdf",
+    "category": "混合",
+    "pages": 10,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 10,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 10,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S055",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S055\\2022专转本电子信息类综合模拟试卷B(1).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/2022专转本电子信息类综合模拟试卷B(1).pdf",
+    "category": "题库试卷习题",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 8,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 8,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S056",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S056\\抢分试卷2.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/抢分试卷2.pdf",
+    "category": "题库试卷习题",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 8,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 8,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S057",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S057\\抢分试卷2答案.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/抢分试卷2答案.pdf",
+    "category": "配套答案解析",
+    "pages": 6,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 6,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 6,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S058",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S058\\电路基础习题集（含答案）.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/电路基础习题集（含答案）.pdf",
+    "category": "混合",
+    "pages": 181,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 181,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 181,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S059",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S059\\试卷一.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷一.pdf",
+    "category": "混合",
+    "pages": 7,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S060",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S060\\试卷一答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷一答案版.doc",
+    "category": "混合",
+    "pages": 8,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S061",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S061\\试卷七.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷七.pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "未全源完成：完整覆盖6页、页内部分0页、通过4页；原稿残损/保守待核2页",
+    "next": {
+      "action": "可见原稿全范围已转录；仅待同版证据解决现有残损；下一对S070/S069"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S061-D01",
+            "source_pages": [
+              1
+            ],
+            "output_pages": [
+              1
+            ],
+            "question": "一4",
+            "kind": "source_loss",
+            "missing_information": "题干称图示谐振电路，原PDF没有题图及参数。",
+            "attempts": [
+              "全部6页逐页查看及对象范围检查，无题图",
+              "配对S062第1页和原DOC XML/全部27媒体同样没有该图",
+              "没有据S062原答D=100倒推电路"
+            ],
+            "treatment": "保留题干和四选项及答案留白，未凭空添图",
+            "required_to_resolve": "同版完整清晰原题图"
+          }
+        ]
+      },
+      {
+        "source_page": 6,
+        "issues": [
+          {
+            "id": "S061-D02",
+            "source_pages": [
+              6
+            ],
+            "output_pages": [
+              9
+            ],
+            "question": "五6（原卷缺项，非输出中的题）",
+            "kind": "source_loss",
+            "missing_information": "原卷计算题标题称共6题，但6页文件终止于第5题，缺第6题题干、图与答题区。",
+            "attempts": [
+              "查看全部6页及最后一页至页底：没有第6题",
+              "S062配对答案版有无编号的74LS138题及原解，但S061完全不存在此题，版本关系不足以授权加入原卷"
+            ],
+            "treatment": "按S061实际保留41条原题和标题共6题，未复制S062第6题凑数，也未改标题成5题",
+            "required_to_resolve": "可确认该原PDF应有第6题的完整同版底稿"
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 2,
+    "partial_pages": [],
+    "residual_pages": [
+      1,
+      6
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S061-D01",
+            "source_pages": [
+              1
+            ],
+            "output_pages": [
+              1
+            ],
+            "question": "一4",
+            "kind": "source_loss",
+            "missing_information": "题干称图示谐振电路，原PDF没有题图及参数。",
+            "attempts": [
+              "全部6页逐页查看及对象范围检查，无题图",
+              "配对S062第1页和原DOC XML/全部27媒体同样没有该图",
+              "没有据S062原答D=100倒推电路"
+            ],
+            "treatment": "保留题干和四选项及答案留白，未凭空添图",
+            "required_to_resolve": "同版完整清晰原题图"
+          }
+        ]
+      },
+      {
+        "source_page": 6,
+        "issues": [
+          {
+            "id": "S061-D02",
+            "source_pages": [
+              6
+            ],
+            "output_pages": [
+              9
+            ],
+            "question": "五6（原卷缺项，非输出中的题）",
+            "kind": "source_loss",
+            "missing_information": "原卷计算题标题称共6题，但6页文件终止于第5题，缺第6题题干、图与答题区。",
+            "attempts": [
+              "查看全部6页及最后一页至页底：没有第6题",
+              "S062配对答案版有无编号的74LS138题及原解，但S061完全不存在此题，版本关系不足以授权加入原卷"
+            ],
+            "treatment": "按S061实际保留41条原题和标题共6题，未复制S062第6题凑数，也未改标题成5题",
+            "required_to_resolve": "可确认该原PDF应有第6题的完整同版底稿"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S062",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S062\\试卷七答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷七答案版.doc",
+    "category": "混合",
+    "pages": 7,
+    "status": "未全源完成：完整覆盖7页、页内部分0页、通过6页；原稿残损/保守待核1页",
+    "next": {
+      "action": "可见原稿全范围已转录；仅待同版证据解决现有残损；下一对S070/S069"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S062-D01",
+            "source_pages": [
+              1
+            ],
+            "output_pages": [
+              1
+            ],
+            "question": "一4",
+            "kind": "unrecoverable_missing_figure",
+            "missing_information": "题干称图示谐振电路，但源DOC该题无图，无法确定R/L/C值、连接方式及电压或频率条件。",
+            "attempts": [
+              {
+                "source": "S062 Word源第1页及document.xml第19段/相邻段",
+                "finding": "题干及四个选项存在，没有图片、VML组合或锚定图。"
+              },
+              {
+                "source": "S062全部27原嵌入媒体对象",
+                "finding": "逐对象检查，无谐振电路题图。"
+              },
+              {
+                "source": "S061试卷七.pdf第1页和其余全部页",
+                "finding": "同题同样没有图。"
+              },
+              {
+                "source": "本地已展开旧册正文候选检索",
+                "finding": "按谐振电路/品质因数短语查询未得到可确证同题、同条件的图候选；未按D=100反推参数。"
+              }
+            ],
+            "treatment": "保留原题干、0.01/1/10/100选项和原答D；没有伪造图或推断元件值。",
+            "required_to_resolve": "需含该题完整条件的同版清晰原图；其余条目继续。"
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 1,
+    "partial_pages": [],
+    "residual_pages": [
+      1
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S062-D01",
+            "source_pages": [
+              1
+            ],
+            "output_pages": [
+              1
+            ],
+            "question": "一4",
+            "kind": "unrecoverable_missing_figure",
+            "missing_information": "题干称图示谐振电路，但源DOC该题无图，无法确定R/L/C值、连接方式及电压或频率条件。",
+            "attempts": [
+              {
+                "source": "S062 Word源第1页及document.xml第19段/相邻段",
+                "finding": "题干及四个选项存在，没有图片、VML组合或锚定图。"
+              },
+              {
+                "source": "S062全部27原嵌入媒体对象",
+                "finding": "逐对象检查，无谐振电路题图。"
+              },
+              {
+                "source": "S061试卷七.pdf第1页和其余全部页",
+                "finding": "同题同样没有图。"
+              },
+              {
+                "source": "本地已展开旧册正文候选检索",
+                "finding": "按谐振电路/品质因数短语查询未得到可确证同题、同条件的图候选；未按D=100反推参数。"
+              }
+            ],
+            "treatment": "保留原题干、0.01/1/10/100选项和原答D；没有伪造图或推断元件值。",
+            "required_to_resolve": "需含该题完整条件的同版清晰原图；其余条目继续。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S063",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S063\\试卷三.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷三.pdf",
+    "category": "题库试卷习题",
+    "pages": 7,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S064",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S064\\试卷三答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷三答案版.doc",
+    "category": "混合",
+    "pages": 7,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S065",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S065\\试卷九.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷九.pdf",
+    "category": "混合",
+    "pages": 7,
+    "status": "未全源完成：完整覆盖7页、页内部分0页、通过5页；原稿残损/保守待核2页",
+    "next": {
+      "action": "恢复选择2标值/端口归属与计算3所指缺表；其余范围已转录和检查，先推进其他源"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S065-D01",
+            "description": "四个电阻数值的归属及b端口归属。七个电阻、三个空心端口及所有已打印文字均可见，但浮动文字已偏离器件/端口。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75_acceptance.json",
+              "sha256": "f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s065_v3\\acceptance.json",
+              "pointer": "",
+              "role": "source_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 6,
+        "issues": [
+          {
+            "id": "S065-D02",
+            "description": "题干要求将计算结果填如表中，但源PDF全部7页均未出现该表，且未给出表头中的输入电压取值。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75_acceptance.json",
+              "sha256": "f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s065_v3\\acceptance.json",
+              "pointer": "",
+              "role": "source_content_and_visual_acceptance"
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 2,
+    "partial_pages": [],
+    "residual_pages": [
+      1,
+      6
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S065-D01",
+            "description": "四个电阻数值的归属及b端口归属。七个电阻、三个空心端口及所有已打印文字均可见，但浮动文字已偏离器件/端口。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75_acceptance.json",
+              "sha256": "f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s065_v3\\acceptance.json",
+              "pointer": "",
+              "role": "source_content_and_visual_acceptance"
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 6,
+        "issues": [
+          {
+            "id": "S065-D02",
+            "description": "题干要求将计算结果填如表中，但源PDF全部7页均未出现该表，且未给出表头中的输入电压取值。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75_acceptance.json",
+              "sha256": "f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s065_v3\\acceptance.json",
+              "pointer": "",
+              "role": "source_content_and_visual_acceptance"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S066",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S066\\试卷九答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷九答案版.doc",
+    "category": "混合",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖8页、页内部分0页、通过7页；原稿残损/保守待核1页",
+    "next": {
+      "action": "恢复选择2标值/端口归属；其他题已保留原答案数字化，先推进下一DOC源S060"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S066-D01",
+            "description": "选择2七电阻图四个数值及b端归属无法可靠恢复；保留未绑定原标值，无猜测。"
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 1,
+    "partial_pages": [],
+    "residual_pages": [
+      1
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S066-D01",
+            "description": "选择2七电阻图四个数值及b端归属无法可靠恢复；保留未绑定原标值，无猜测。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S067",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S067\\试卷二.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷二.pdf",
+    "category": "混合",
+    "pages": 7,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S068",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S068\\试卷二答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷二答案版.doc",
+    "category": "混合",
+    "pages": 7,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S069",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S069\\试卷五.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷五.pdf",
+    "category": "题库试卷习题",
+    "pages": 8,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S070",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S070\\试卷五答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷五答案版.doc",
+    "category": "混合",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖8页、页内部分0页、通过7页；原稿残损/保守待核1页",
+    "next": {
+      "action": "可见原稿全范围已转录；残损仅凭同版清晰证据恢复；按全量队列继续下一对"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 4,
+        "issues": [
+          {
+            "id": "S070-L01",
+            "description": "“形”之后的定义余文无法从原件恢复",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v6\\frozen_evidence\\77ed4c7c84821444c0f92ea49996c4cecb00355c61f000cc5880db387c8df520_final_receipt.json",
+              "sha256": "77ed4c7c84821444c0f92ea49996c4cecb00355c61f000cc5880db387c8df520",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s070_v6\\final_receipt.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 1,
+    "partial_pages": [],
+    "residual_pages": [
+      4
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 4,
+        "issues": [
+          {
+            "id": "S070-L01",
+            "description": "“形”之后的定义余文无法从原件恢复",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v6\\frozen_evidence\\77ed4c7c84821444c0f92ea49996c4cecb00355c61f000cc5880db387c8df520_final_receipt.json",
+              "sha256": "77ed4c7c84821444c0f92ea49996c4cecb00355c61f000cc5880db387c8df520",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s070_v6\\final_receipt.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S071",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S071\\试卷八.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷八.pdf",
+    "category": "混合",
+    "pages": 8,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S072",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S072\\试卷八答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷八答案版.doc",
+    "category": "混合",
+    "pages": 8,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S073",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S073\\试卷六.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷六.pdf",
+    "category": "题库试卷习题",
+    "pages": 6,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S074",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S074\\试卷六答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷六答案版.doc",
+    "category": "混合",
+    "pages": 8,
+    "status": "全源忠实数字化已验收",
+    "next": {
+      "action": "全源已忠实验收；保留原稿校注与制作数据"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 0,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S075",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S075\\试卷十.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷十.pdf",
+    "category": "题库试卷习题",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖8页、页内部分0页、通过6页；原稿残损/保守待核2页",
+    "next": {
+      "action": "可见原稿全范围已转录；残损仅按同版清晰证据恢复，继续其余源"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S075-L01",
+            "description": "图形只可确认两只电阻及端口；三个4Ω标签和−10V已漂移，不能确定一一归属/下端条件",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c_S075_acceptance.json",
+              "sha256": "268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S075_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 2,
+        "issues": [
+          {
+            "id": "S075-L02",
+            "description": "题干明确引用“题15图”，本卷全部原页和原DOC对象未见该图",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c_S075_acceptance.json",
+              "sha256": "268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S075_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 2,
+    "partial_pages": [],
+    "residual_pages": [
+      1,
+      2
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S075-L01",
+            "description": "图形只可确认两只电阻及端口；三个4Ω标签和−10V已漂移，不能确定一一归属/下端条件",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c_S075_acceptance.json",
+              "sha256": "268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S075_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 2,
+        "issues": [
+          {
+            "id": "S075-L02",
+            "description": "题干明确引用“题15图”，本卷全部原页和原DOC对象未见该图",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c_S075_acceptance.json",
+              "sha256": "268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S075_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S076",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S076\\试卷十答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷十答案版.doc",
+    "category": "混合",
+    "pages": 9,
+    "status": "未全源完成：完整覆盖9页、页内部分0页、通过7页；原稿残损/保守待核2页",
+    "next": {
+      "action": "可见原稿全范围已转录；残损仅按同版清晰证据恢复，继续其余源"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S076-L01",
+            "description": "图形只可确认两只电阻及端口；三个4Ω标签和−10V已漂移，不能确定一一归属/下端条件",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e_S076_acceptance.json",
+              "sha256": "ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S076_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 2,
+        "issues": [
+          {
+            "id": "S076-L02",
+            "description": "题干明确引用“题15图”，本卷全部原页和原DOC对象未见该图",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e_S076_acceptance.json",
+              "sha256": "ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S076_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 2,
+    "partial_pages": [],
+    "residual_pages": [
+      1,
+      2
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 1,
+        "issues": [
+          {
+            "id": "S076-L01",
+            "description": "图形只可确认两只电阻及端口；三个4Ω标签和−10V已漂移，不能确定一一归属/下端条件",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e_S076_acceptance.json",
+              "sha256": "ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S076_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 2,
+        "issues": [
+          {
+            "id": "S076-L02",
+            "description": "题干明确引用“题15图”，本卷全部原页和原DOC对象未见该图",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e_S076_acceptance.json",
+              "sha256": "ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S076_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S077",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S077\\试卷四.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷四.pdf",
+    "category": "混合",
+    "pages": 7,
+    "status": "未全源完成：完整覆盖7页、页内部分0页、通过6页；原稿残损/保守待核1页",
+    "next": {
+      "action": "可见原稿全范围已转录；残损仅按同版清晰证据恢复，继续其余源"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 5,
+        "issues": [
+          {
+            "id": "S077-L01",
+            "description": "题干明确“求图示电路中UO1和UO2”，原两幅稳压电路图缺失，两源均仅有原解答",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\abef8e8a09e6b3378be18ec5e02f632c550610934516ee4ecf5825428994b1f6_S077_acceptance.json",
+              "sha256": "abef8e8a09e6b3378be18ec5e02f632c550610934516ee4ecf5825428994b1f6",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s077_s078_R01\\normalized_adapter\\S077_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 1,
+    "partial_pages": [],
+    "residual_pages": [
+      5
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 5,
+        "issues": [
+          {
+            "id": "S077-L01",
+            "description": "题干明确“求图示电路中UO1和UO2”，原两幅稳压电路图缺失，两源均仅有原解答",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\abef8e8a09e6b3378be18ec5e02f632c550610934516ee4ecf5825428994b1f6_S077_acceptance.json",
+              "sha256": "abef8e8a09e6b3378be18ec5e02f632c550610934516ee4ecf5825428994b1f6",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s077_s078_R01\\normalized_adapter\\S077_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S078",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S078\\试卷四答案版.doc",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/试卷四答案版.doc",
+    "category": "混合",
+    "pages": 7,
+    "status": "未全源完成：完整覆盖7页、页内部分0页、通过6页；原稿残损/保守待核1页",
+    "next": {
+      "action": "可见原稿全范围已转录；残损仅按同版清晰证据恢复，继续其余源"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 5,
+        "issues": [
+          {
+            "id": "S078-L01",
+            "description": "题干明确“求图示电路中UO1和UO2”，原两幅稳压电路图缺失，两源均仅有原解答",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\a84392d4529a8a4f2ee07c61cec6a4c1fd010c2ea0fed1b86b6c4d69f742b1ba_S078_acceptance.json",
+              "sha256": "a84392d4529a8a4f2ee07c61cec6a4c1fd010c2ea0fed1b86b6c4d69f742b1ba",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s077_s078_R01\\normalized_adapter\\S078_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 1,
+    "partial_pages": [],
+    "residual_pages": [
+      5
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 5,
+        "issues": [
+          {
+            "id": "S078-L01",
+            "description": "题干明确“求图示电路中UO1和UO2”，原两幅稳压电路图缺失，两源均仅有原解答",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\a84392d4529a8a4f2ee07c61cec6a4c1fd010c2ea0fed1b86b6c4d69f742b1ba_S078_acceptance.json",
+              "sha256": "a84392d4529a8a4f2ee07c61cec6a4c1fd010c2ea0fed1b86b6c4d69f742b1ba",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s077_s078_R01\\normalized_adapter\\S078_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S079",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S079\\迈成 2022专转本电子信息类综合模拟试卷A(1).pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/模拟卷2/迈成 2022专转本电子信息类综合模拟试卷A(1).pdf",
+    "category": "题库试卷习题",
+    "pages": 8,
+    "status": "未全源完成：完整覆盖8页、页内部分0页、通过6页；原稿残损/保守待核2页",
+    "next": {
+      "action": "原可见全范围已转录；残损继续仅据同版原证据恢复，转下一源"
+    },
+    "remaining_digitization_pages": 0,
+    "unresolved": [
+      {
+        "source_page": 4,
+        "issues": [
+          {
+            "id": "S079-L02",
+            "description": "零状态响应题句尾原印“仅在外部输入激励的作。”，不完整。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482_S079_acceptance.json",
+              "sha256": "474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_native_s079_R01\\normalized_adapter\\S079_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 5,
+        "issues": [
+          {
+            "id": "S079-L01",
+            "description": "名词解释共30分、每小题5分，原页全卷仅1、2、3、4、6，第5题未见。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482_S079_acceptance.json",
+              "sha256": "474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_native_s079_R01\\normalized_adapter\\S079_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 2,
+    "partial_pages": [],
+    "residual_pages": [
+      4,
+      5
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 4,
+        "issues": [
+          {
+            "id": "S079-L02",
+            "description": "零状态响应题句尾原印“仅在外部输入激励的作。”，不完整。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482_S079_acceptance.json",
+              "sha256": "474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_native_s079_R01\\normalized_adapter\\S079_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      },
+      {
+        "source_page": 5,
+        "issues": [
+          {
+            "id": "S079-L01",
+            "description": "名词解释共30分、每小题5分，原页全卷仅1、2、3、4、6，第5题未见。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482_S079_acceptance.json",
+              "sha256": "474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482",
+              "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_native_s079_R01\\normalized_adapter\\S079_acceptance.json",
+              "role": "final_content_and_visual_acceptance",
+              "pointer": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S080",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S080\\江苏专转本数电模电基础复习全书.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/江苏专转本数电模电基础复习全书.pdf",
+    "category": "教材讲义",
+    "pages": 316,
+    "status": "未全源完成：完整覆盖23页、页内部分0页、通过22页；原稿残损/保守待核1页",
+    "next": {
+      "source_id": "S080",
+      "source_original": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S080\\江苏专转本数电模电基础复习全书.pdf",
+      "archive_path": "电子信息转word/有水印需要答案和解析/江苏专转本数电模电基础复习全书.pdf",
+      "source_page": 24,
+      "printed_page": 22,
+      "scope": "1.4 半导体二极管应用电路分析方法；简单二极管电路图解分析方法、符号大小写含义及简化模型起",
+      "state": "源页已实际查看；未计正式覆盖",
+      "remaining_source_page_count": 293
+    },
+    "remaining_digitization_pages": 293,
+    "unresolved": [
+      {
+        "source_page": 2,
+        "issues": [
+          {
+            "id": "S080-L001",
+            "kind": "source_scan_clipping",
+            "description": "表头末两列可见VIP本科直、VIP实；最右列右缘裁缺。广告圆环下缘及后续条目被截去，上部蓝色环中文字也不清晰。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s080_v9\\front_final_receipt.json",
+              "sha256": "b6047474ceda869686727f99dde5a4bb07ee5494e0095f09e750489b56e50cd5"
+            }
+          }
+        ]
+      }
+    ],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 294,
+    "partial_pages": [],
+    "residual_pages": [
+      2
+    ],
+    "current_page_residuals": [
+      {
+        "source_page": 2,
+        "issues": [
+          {
+            "id": "S080-L001",
+            "kind": "source_scan_clipping",
+            "description": "表头末两列可见VIP本科直、VIP实；最右列右缘裁缺。广告圆环下缘及后续条目被截去，上部蓝色环中文字也不清晰。",
+            "source_evidence": {
+              "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s080_v9\\front_final_receipt.json",
+              "sha256": "b6047474ceda869686727f99dde5a4bb07ee5494e0095f09e750489b56e50cd5"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source_id": "S081",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S081\\江苏专转本电路基础复习全书.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/江苏专转本电路基础复习全书.pdf",
+    "category": "教材讲义",
+    "pages": 224,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 224,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 224,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S082",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S082\\电子信息专业课模拟冲刺卷.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/电子信息专业课模拟冲刺卷.pdf",
+    "category": "题库试卷习题",
+    "pages": 92,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 92,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 92,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S083",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S083\\默默学电子大类押题卷1-试卷-龙老师.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/默默学电子大类押题卷1-试卷-龙老师.pdf",
+    "category": "题库试卷习题",
+    "pages": 11,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 11,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 11,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S084",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S084\\默默学电子大类押题卷2-试卷-龙老师.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/默默学电子大类押题卷2-试卷-龙老师.pdf",
+    "category": "题库试卷习题",
+    "pages": 11,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 11,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 11,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  },
+  {
+    "source_id": "S085",
+    "full_source_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S085\\默默学电子大类押题卷3-试卷-龙老师.pdf",
+    "archive_path": "电子信息转word/有水印需要答案和解析/默默学电子大类押题卷3-试卷-龙老师.pdf",
+    "category": "题库试卷习题",
+    "pages": 12,
+    "status": "未全源完成：完整覆盖0页、页内部分0页、通过0页；原稿残损/保守待核0页",
+    "next": null,
+    "remaining_digitization_pages": 12,
+    "unresolved": [],
+    "source_mapping_record": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+    "remaining_unaccepted_pages": 12,
+    "partial_pages": [],
+    "residual_pages": [],
+    "current_page_residuals": []
+  }
+]

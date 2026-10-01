@@ -1,0 +1,4573 @@
+{
+  "whole_task_complete": false,
+  "source_files": 85,
+  "source_pages": 4263,
+  "accepted_full_sources": 12,
+  "accepted_full_source_ids": [
+    "S005",
+    "S059",
+    "S060",
+    "S063",
+    "S064",
+    "S067",
+    "S068",
+    "S069",
+    "S071",
+    "S072",
+    "S073",
+    "S074"
+  ],
+  "partial_source_ids": [
+    "S001",
+    "S002",
+    "S016",
+    "S025",
+    "S061",
+    "S062",
+    "S065",
+    "S066",
+    "S070",
+    "S075",
+    "S076",
+    "S077",
+    "S078",
+    "S079",
+    "S080"
+  ],
+  "covered_source_pages": 519,
+  "fully_accepted_source_pages": 473,
+  "covered_with_residual_pages": [
+    {
+      "source_id": "S016",
+      "page": 1,
+      "open_issues": [
+        {
+          "id": "S016-L01",
+          "description": "单选第5题原只给题干及电路，未见选项；未改为填空题或编造选项。",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\frozen_evidence\\b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2_normalized_acceptance.json",
+            "sha256": "b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\released_native_s016_R01\\normalized_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 10,
+      "open_issues": [
+        {
+          "id": "S025-P010-01",
+          "description": "含铅百分数被水印遮挡，未可靠恢复；原件数字不清占位已保留"
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 27,
+      "open_issues": [
+        {
+          "id": "S025-p027-hidden-words-a",
+          "description": "发光二极管说明中“压”后至“管质量较好”前被图遮挡。",
+          "kind": "unrecoverable_missing_text",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938_S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+            "sha256": "4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+            "pointer": "",
+            "role": "source_content_and_visual_acceptance"
+          }
+        },
+        {
+          "id": "S025-p027-hidden-words-b",
+          "description": "“红表笔接的是”后至“接的是负极”前被图遮挡。",
+          "kind": "unrecoverable_missing_text",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938_S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+            "sha256": "4d28e356c688306f1497be637ae63a1e2313fbd488cf23e9e272ebe347b6e938",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_01_万用表与台式万用表_源20-32页_acceptance.json",
+            "pointer": "",
+            "role": "source_content_and_visual_acceptance"
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 42,
+      "open_issues": [
+        {
+          "id": "S025-p042-gain-subscripts",
+          "description": "Av 后分式上下均见 v，但两处下标被截；记录为 v〔下标缺〕。",
+          "kind": "unrecoverable_missing_symbols",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0_S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+            "sha256": "34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+            "pointer": "",
+            "role": "S025_frozen_final_content_and_visual_acceptance"
+          }
+        },
+        {
+          "id": "S025-p042-gain-subscripts",
+          "description": "Av 后分式上下均见 v，但两处下标被截；记录为 v〔下标缺〕。",
+          "kind": "unrecoverable_missing_symbols",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef_S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+            "sha256": "98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 45,
+      "open_issues": [
+        {
+          "id": "S025-p045-period-sentence",
+          "description": "周期选择说明止于“使\"周期”；源 46 页不接续该句。",
+          "kind": "original_incomplete_sentence",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0_S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+            "sha256": "34728160f8666972228b6a24c7627940805f29a80fc83a7423a551c0778df7b0",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_分批忠实数字化_v3\\S025_第1章_03_函数信号发生器_源42-49页_R03_acceptance.json",
+            "pointer": "",
+            "role": "S025_frozen_final_content_and_visual_acceptance"
+          }
+        },
+        {
+          "id": "S025-p045-period-sentence",
+          "description": "周期选择说明止于“使\"周期”；源 46 页不接续该句。",
+          "kind": "original_incomplete_sentence",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef_S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+            "sha256": "98b493eea11a4ae3a742d322e32176353311cb1b339db6111513683a9e53cbef",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_03_函数信号发生器_源42-49页_R05_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 59,
+      "open_issues": [
+        {
+          "id": "S025-p059-v4-source-detail",
+          "description": "触发示意屏原图小号状态读数模糊，波形/基线/触发位置已重绘，原截图另存证据；不猜填细字。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+            "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 60,
+      "open_issues": [
+        {
+          "id": "S025-p060-v4-source-detail",
+          "description": "右侧实物照片标注截为“触发菜”，原图边缘已裁切；按残缺保留。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+            "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 61,
+      "open_issues": [
+        {
+          "id": "S025-p061-v4-source-detail",
+          "description": "触发电平截图右侧菜单和触发数值过小模糊；已保留可辨CH2/2.00V/1.00000kHz及200μs，未猜剩余细字。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37_S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+            "sha256": "38bbf76031c4c7e926fd8e6573ed539c643a2863ce91464866b2eb4275d6ef37",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 63,
+      "open_issues": [
+        {
+          "id": "S025-p063-v4-source-detail",
+          "description": "校准截图底栏左侧2.00V已补入新R03；左通道标识模糊未猜，右CH2与第二个2.00V完整保留。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\bdf4835c46b09375893671fab814ab312ff3df6993d28e39bc108004ec654292_S025_第1章_07_示波器外部自检_源62页下部-63页上部_R03_acceptance.json",
+            "sha256": "bdf4835c46b09375893671fab814ab312ff3df6993d28e39bc108004ec654292",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_07_示波器外部自检_源62页下部-63页上部_R03_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 64,
+      "open_issues": [
+        {
+          "id": "S025-p064-v4-source-detail",
+          "description": "测电压/周期示意屏底部细字模糊；重绘波形、0基线、档位区域与可辨菜单，源截图单独留存，不推算填入。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+            "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 65,
+      "open_issues": [
+        {
+          "id": "S025-p065-v4-source-detail",
+          "description": "实物示波器屏幕小号自动测量数值不可可靠辨读；可辨教学图注、两通道波形及菜单关系完整重建，原照片保留。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+            "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 66,
+      "open_issues": [
+        {
+          "id": "S025-p066-v4-source-detail",
+          "description": "幅度光标截图两光标的细小位置/差值数字模糊；原截图保留证据，位置、波形和可辨菜单已重建。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+            "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 67,
+      "open_issues": [
+        {
+          "id": "S025-p067-v4-source-detail",
+          "description": "原时间光标菜单已补全可辨关闭项及S=-500.0μs；E为−1.后细小数字未能可靠辨读，保留缺标。R04同时据原图纠正0V基线到网格中间横线。旧R03误将本页列入完全合格，在替代记录中撤销；本页仍待核。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd_S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+            "sha256": "77b26acefc6461141a859fe215b8ab2b8802b9e532fc092d9085de0516e6edcd",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_08_用示波器测量信号_源63页下部-67页_R04_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 73,
+      "open_issues": [
+        {
+          "id": "S025-p073-v4-source-detail",
+          "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+            "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 74,
+      "open_issues": [
+        {
+          "id": "S025-p074-v4-source-detail",
+          "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+            "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 75,
+      "open_issues": [
+        {
+          "id": "S025-p075-v4-source-detail",
+          "description": "重复显示屏的“耦合”字段原小号图符号不能可靠辨读，SVG明确标记待核，原截图保留；可辨波形、基线、探头比菜单与其余读数已重建。题干、全部选项完整；不添加答案。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v4\\frozen_evidence\\4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52_S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+            "sha256": "4e302753820256e3c79ae5f0e7ae5a58cf6d52072f06208fab2286315c5e6c52",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S025_实操教材\\第1章_续制_v4\\S025_第1章_10_第1章练习_源72-77页_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 88,
+      "open_issues": [
+        {
+          "id": "S025-p088-sentence-end",
+          "description": "原句止于“最末”，未猜补缺失尾字。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\f23738bd01e9e09f0abef65b39cfc9be6bd915d4a7a08fcb0f91920958c03a50_S025_第2章_02_电阻_源81-91页_R03_acceptance.json",
+            "sha256": "f23738bd01e9e09f0abef65b39cfc9be6bd915d4a7a08fcb0f91920958c03a50",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_02_电阻_源81-91页_R03_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 93,
+      "open_issues": [
+        {
+          "id": "S025-p093-RP-designator-and-value",
+          "description": "位号尾字和微小参数均不能可靠确定。图中RP?问号为缺损标记；不确定数字未作为原文转录。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371_S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+            "sha256": "e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        },
+        {
+          "id": "S025-p093-cropped-bottom-line",
+          "description": "原截图底边截断下一行字符残迹，未提供可确认的完整端口、针脚号或连线。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371_S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+            "sha256": "e6a00f3f5cebf4263873000f96c29661a226e8a4f7bda720465f1cc1b05a8371",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_03_排阻_源92-94页_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 96,
+      "open_issues": [
+        {
+          "id": "S025-p096-varistor-voltage-subscript",
+          "description": "扫描中的U下标不能可靠辨认；1mA、I/U坐标、原点及正负支路可辨。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\frozen_evidence\\dd36cecc58bd3f9d250d184ff83a7785163670486d8798378b3ae864159a8686_S025_第2章_04_敏感电阻与电位器_源95-98页_R02_acceptance.json",
+            "sha256": "dd36cecc58bd3f9d250d184ff83a7785163670486d8798378b3ae864159a8686",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v5\\S025_第2章_04_敏感电阻与电位器_源95-98页_R02_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 99,
+      "open_issues": [
+        {
+          "id": "S025-p099-clipped-variable-symbol-caption",
+          "description": "图题只见“可变电”；符号箭头右端亦被原图边界裁切。",
+          "handling": "正文和SVG保留可辨部分及截断标记，不补图题尾字/完整箭头。",
+          "tried": [
+            "S025全页与6倍局部",
+            "S015源99同位置仍截断",
+            "S025 xref398原始整页图像提取，未发现另一图层或隐藏文字"
+          ],
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+            "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+            "role": "final_content_and_visual_acceptance"
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 102,
+      "open_issues": [
+        {
+          "id": "S025-p102-bridge-designator-subscripts",
+          "description": "右上D1可辨，其余三个下标无法可靠确认。",
+          "handling": "可见D保留为D?，问号为数字化缺损标记；四只管的可辨位置、导通方向和连线均保留，未按常见编号顺序补写。",
+          "tried": [
+            "S025源102全页和6倍局部",
+            "S015源102局部比较",
+            "S025 xref410原始图像对象无另一清晰层"
+          ],
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+            "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+            "role": "final_content_and_visual_acceptance"
+          }
+        },
+        {
+          "id": "S025-p102-wave-axis-end",
+          "description": "ω之后字形仅有裁切残笔，不能确认完整轴标。",
+          "handling": "SVG显示ω〔截断〕；π/2π/O/a/b及可见实线/虚线保留，不补推测t。",
+          "tried": [
+            "S025源102整图、局部",
+            "S015源102右边亦截断",
+            "原始图像对象检查"
+          ],
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+            "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+            "role": "final_content_and_visual_acceptance"
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 105,
+      "open_issues": [
+        {
+          "id": "S025-p105-notch-name-obscured",
+          "description": "原水印覆盖缺口名称的部分字形，不能可靠确认。",
+          "handling": "正文“两个〔遮挡〕角形缺口”，未按常见封装外形补字。",
+          "tried": [
+            "S025源105全页、下半页、6倍局部",
+            "S015同位置被去水印涂抹",
+            "S025 xref422原始整页图像无文字/向量清晰层"
+          ],
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v6\\S025_第2章_05_电容器_源99-109页_R04_acceptance.json",
+            "sha256": "4f53fecf89719996c57c27085c07d77f0f0b0ed9f6aa075f8b477f8296510e5d",
+            "role": "final_content_and_visual_acceptance"
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 121,
+      "open_issues": [
+        {
+          "id": "S025-p121-dual-led-upper-right-pin",
+          "description": "端号只存残笔，不能可靠确认完整数字。",
+          "kind": "unrecoverable_original_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\第2章_续制_v7\\S025_第2章_08_发光二极管_源120-122页_R05_acceptance.json",
+            "sha256": "74e1c71138c1a7874ca690d832e78ac22fb98e296e2040efc8d80d39a9d07303",
+            "role": "final_content_and_visual_acceptance"
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 131,
+      "open_issues": [
+        {
+          "id": "S025-p131-plcc-micro-pin-numbers",
+          "description": "可辨部分保留，模糊小编号未按连续数列推填。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\1e20080047a3719760918829b991d09effc61c2bf5fb63c660f9fc38a8328082_booklet10_acceptance_normalized.json",
+            "sha256": "1e20080047a3719760918829b991d09effc61c2bf5fb63c660f9fc38a8328082",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet10_acceptance_normalized.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 136,
+      "open_issues": [
+        {
+          "id": "S025-p136-control-capacitor-unit-tail",
+          "description": "0.01μ后末字符残缺，完整单位无法仅凭可见字形确认。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+            "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 137,
+      "open_issues": [
+        {
+          "id": "S025-p137-charge-control-capacitor-unit-tail",
+          "description": "上图0.01μ末字符残缺；下图0.01μF可辨。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+            "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 138,
+      "open_issues": [
+        {
+          "id": "S025-p138-tph-final-symbol",
+          "description": "末字仅余左弧，右部被裁。虽然上下文可推测，不作为原稿恢复证据。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630_booklet11_acceptance_normalized.json",
+            "sha256": "d2cb90a90bc3b28acd0ca422061a0262717483d9f4633b6472fc46f1b5b95630",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_textbook_s025_R01\\booklet11_acceptance_normalized.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 143,
+      "open_issues": [
+        {
+          "id": "S025-P143-v9-unresolved",
+          "description": "自复位按钮应用电路（a）的“5V”前有孤立弯笔，未能判明是符号还是扫描杂痕；图中保留可辨的5V，不猜补。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930_normalized_acceptance.json",
+            "sha256": "a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook_13_14_16_R01\\13\\normalized_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 144,
+      "open_issues": [
+        {
+          "id": "S025-P144-v9-unresolved",
+          "description": "电磁继电器动作示意图（b）右侧固定触点支片及右端引脚原已裁断；重绘到可辨边界并标注“原图裁断”，未推补右端内容。对照原PDF图像对象及另一版同页，未发现可恢复的缺部。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930_normalized_acceptance.json",
+            "sha256": "a464cc902d62eb0f477affba0887c8638feb3fec40daeca7834274b41369f930",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook_13_14_16_R01\\13\\normalized_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S025",
+      "page": 148,
+      "open_issues": [
+        {
+          "id": "S025-P148-v9-color-labels",
+          "description": "填空第12题图（b）的第三、第四色环文字受原水印干扰，未能可靠辨认，重绘保留可辨位置并以“缺损”标识；未从阻值答案倒推色名。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4_normalized_acceptance.json",
+            "sha256": "ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook15_R01\\normalized_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        },
+        {
+          "id": "S025-P148-v9-fill28",
+          "description": "填空第28题括注第二字被水印遮挡，原可辨“有”字保留，其后以“字被水印遮挡”标识。另一版本恰好擦除该句部分，不能作为恢复证据。",
+          "kind": "unrecoverable_source_detail",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4_normalized_acceptance.json",
+            "sha256": "ffdaf2673903724b4f90724cb89569b3d365a2eefad0d158abe54b175b653eb4",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_textbook15_R01\\normalized_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S061",
+      "page": 1,
+      "open_issues": [
+        {
+          "id": "S061-D01",
+          "source_pages": [
+            1
+          ],
+          "output_pages": [
+            1
+          ],
+          "question": "一4",
+          "kind": "source_loss",
+          "missing_information": "题干称图示谐振电路，原PDF没有题图及参数。",
+          "attempts": [
+            "全部6页逐页查看及对象范围检查，无题图",
+            "配对S062第1页和原DOC XML/全部27媒体同样没有该图",
+            "没有据S062原答D=100倒推电路"
+          ],
+          "treatment": "保留题干和四选项及答案留白，未凭空添图",
+          "required_to_resolve": "同版完整清晰原题图"
+        }
+      ]
+    },
+    {
+      "source_id": "S061",
+      "page": 6,
+      "open_issues": [
+        {
+          "id": "S061-D02",
+          "source_pages": [
+            6
+          ],
+          "output_pages": [
+            9
+          ],
+          "question": "五6（原卷缺项，非输出中的题）",
+          "kind": "source_loss",
+          "missing_information": "原卷计算题标题称共6题，但6页文件终止于第5题，缺第6题题干、图与答题区。",
+          "attempts": [
+            "查看全部6页及最后一页至页底：没有第6题",
+            "S062配对答案版有无编号的74LS138题及原解，但S061完全不存在此题，版本关系不足以授权加入原卷"
+          ],
+          "treatment": "按S061实际保留41条原题和标题共6题，未复制S062第6题凑数，也未改标题成5题",
+          "required_to_resolve": "可确认该原PDF应有第6题的完整同版底稿"
+        }
+      ]
+    },
+    {
+      "source_id": "S062",
+      "page": 1,
+      "open_issues": [
+        {
+          "id": "S062-D01",
+          "source_pages": [
+            1
+          ],
+          "output_pages": [
+            1
+          ],
+          "question": "一4",
+          "kind": "unrecoverable_missing_figure",
+          "missing_information": "题干称图示谐振电路，但源DOC该题无图，无法确定R/L/C值、连接方式及电压或频率条件。",
+          "attempts": [
+            {
+              "source": "S062 Word源第1页及document.xml第19段/相邻段",
+              "finding": "题干及四个选项存在，没有图片、VML组合或锚定图。"
+            },
+            {
+              "source": "S062全部27原嵌入媒体对象",
+              "finding": "逐对象检查，无谐振电路题图。"
+            },
+            {
+              "source": "S061试卷七.pdf第1页和其余全部页",
+              "finding": "同题同样没有图。"
+            },
+            {
+              "source": "本地已展开旧册正文候选检索",
+              "finding": "按谐振电路/品质因数短语查询未得到可确证同题、同条件的图候选；未按D=100反推参数。"
+            }
+          ],
+          "treatment": "保留原题干、0.01/1/10/100选项和原答D；没有伪造图或推断元件值。",
+          "required_to_resolve": "需含该题完整条件的同版清晰原图；其余条目继续。"
+        }
+      ]
+    },
+    {
+      "source_id": "S065",
+      "page": 1,
+      "open_issues": [
+        {
+          "id": "S065-D01",
+          "description": "四个电阻数值的归属及b端口归属。七个电阻、三个空心端口及所有已打印文字均可见，但浮动文字已偏离器件/端口。",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75_acceptance.json",
+            "sha256": "f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s065_v3\\acceptance.json",
+            "pointer": "",
+            "role": "source_content_and_visual_acceptance"
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S065",
+      "page": 6,
+      "open_issues": [
+        {
+          "id": "S065-D02",
+          "description": "题干要求将计算结果填如表中，但源PDF全部7页均未出现该表，且未给出表头中的输入电压取值。",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\page_coverage_v3\\round3_merge_20260930\\frozen_evidence\\f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75_acceptance.json",
+            "sha256": "f80fec0214166a6727f9d0d4c57f07ff95594ace9e3c4ab89ec5a08b7308ae75",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s065_v3\\acceptance.json",
+            "pointer": "",
+            "role": "source_content_and_visual_acceptance"
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S066",
+      "page": 1,
+      "open_issues": [
+        {
+          "id": "S066-D01",
+          "description": "选择2七电阻图四个数值及b端归属无法可靠恢复；保留未绑定原标值，无猜测。"
+        }
+      ]
+    },
+    {
+      "source_id": "S070",
+      "page": 4,
+      "open_issues": [
+        {
+          "id": "S070-L01",
+          "description": "“形”之后的定义余文无法从原件恢复",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v6\\frozen_evidence\\77ed4c7c84821444c0f92ea49996c4cecb00355c61f000cc5880db387c8df520_final_receipt.json",
+            "sha256": "77ed4c7c84821444c0f92ea49996c4cecb00355c61f000cc5880db387c8df520",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s070_v6\\final_receipt.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S075",
+      "page": 1,
+      "open_issues": [
+        {
+          "id": "S075-L01",
+          "description": "图形只可确认两只电阻及端口；三个4Ω标签和−10V已漂移，不能确定一一归属/下端条件",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c_S075_acceptance.json",
+            "sha256": "268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S075_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S075",
+      "page": 2,
+      "open_issues": [
+        {
+          "id": "S075-L02",
+          "description": "题干明确引用“题15图”，本卷全部原页和原DOC对象未见该图",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c_S075_acceptance.json",
+            "sha256": "268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S075_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S076",
+      "page": 1,
+      "open_issues": [
+        {
+          "id": "S076-L01",
+          "description": "图形只可确认两只电阻及端口；三个4Ω标签和−10V已漂移，不能确定一一归属/下端条件",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e_S076_acceptance.json",
+            "sha256": "ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S076_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S076",
+      "page": 2,
+      "open_issues": [
+        {
+          "id": "S076-L02",
+          "description": "题干明确引用“题15图”，本卷全部原页和原DOC对象未见该图",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e_S076_acceptance.json",
+            "sha256": "ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S076_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S077",
+      "page": 5,
+      "open_issues": [
+        {
+          "id": "S077-L01",
+          "description": "题干明确“求图示电路中UO1和UO2”，原两幅稳压电路图缺失，两源均仅有原解答",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\abef8e8a09e6b3378be18ec5e02f632c550610934516ee4ecf5825428994b1f6_S077_acceptance.json",
+            "sha256": "abef8e8a09e6b3378be18ec5e02f632c550610934516ee4ecf5825428994b1f6",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s077_s078_R01\\normalized_adapter\\S077_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S078",
+      "page": 5,
+      "open_issues": [
+        {
+          "id": "S078-L01",
+          "description": "题干明确“求图示电路中UO1和UO2”，原两幅稳压电路图缺失，两源均仅有原解答",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\frozen_evidence\\a84392d4529a8a4f2ee07c61cec6a4c1fd010c2ea0fed1b86b6c4d69f742b1ba_S078_acceptance.json",
+            "sha256": "a84392d4529a8a4f2ee07c61cec6a4c1fd010c2ea0fed1b86b6c4d69f742b1ba",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s077_s078_R01\\normalized_adapter\\S078_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S079",
+      "page": 4,
+      "open_issues": [
+        {
+          "id": "S079-L02",
+          "description": "零状态响应题句尾原印“仅在外部输入激励的作。”，不完整。",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482_S079_acceptance.json",
+            "sha256": "474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_native_s079_R01\\normalized_adapter\\S079_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S079",
+      "page": 5,
+      "open_issues": [
+        {
+          "id": "S079-L01",
+          "description": "名词解释共30分、每小题5分，原页全卷仅1、2、3、4、6，第5题未见。",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\frozen_evidence\\474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482_S079_acceptance.json",
+            "sha256": "474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482",
+            "original_path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_native_s079_R01\\normalized_adapter\\S079_acceptance.json",
+            "role": "final_content_and_visual_acceptance",
+            "pointer": ""
+          }
+        }
+      ]
+    },
+    {
+      "source_id": "S080",
+      "page": 2,
+      "open_issues": [
+        {
+          "id": "S080-L001",
+          "kind": "source_scan_clipping",
+          "description": "表头末两列可见VIP本科直、VIP实；最右列右缘裁缺。广告圆环下缘及后续条目被截去，上部蓝色环中文字也不清晰。",
+          "source_evidence": {
+            "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s080_v9\\front_final_receipt.json",
+            "sha256": "b6047474ceda869686727f99dde5a4bb07ee5494e0095f09e750489b56e50cd5"
+          }
+        }
+      ]
+    }
+  ],
+  "accepted_faithful_lectures": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "remaining_faithful_lectures": 36,
+  "faithful_question_number_entries_across_sources": 2024,
+  "personal_target_items_included": 1,
+  "new_answer_scope": "第2讲73题、第3讲65个非空题、第4讲74题、第5讲57题、第30讲93题、第31讲51题、第32讲53题，共466题已另存新增解析；两版独立，第5讲349原有解答另保留。旧第1/29讲答案正确性本轮未重判。 第六轮另存：第33讲批次S002-ch33-v6新增42题、第34讲批次S002-ch34-fill-v6新增21题、第7讲批次S001-ch07-fill-judgment-v6新增40题、第6讲批次S001-ch06-v6新增57题、第34讲批次S002-ch34-304-305-v6新增2题；283原说明栏不算新增解答。各批均与忠实稿分开。 第七轮独立新增解析净增：S001-ch08-fill-judgment-v7 47题、S002-ch34-306-v7 1题、S002-ch34-307-308-v7 2题、S002-ch34-309-310-v7 2题、S001-ch07-complete-v7 11题、S002-ch34-311-v7 1题。整章复用的旧407–446不重复增加答案数量。 第八轮独立新增解析净增：S002-ch34-312-313-v8 2题、S001-ch09-fill-judgment-v8 41题、S002-ch34-314-v8 1题、S001-ch08-complete-v8 9题、S002-ch34-316-v8 1题、S002-ch34-315-v8 1题、S002-ch34-317-v8 1题、S002-ch34-318-v8 1题、S001-ch09-complete-v8 8题、S002-ch34-319-v8 1题、S002-ch34-320-v8 1题、S002-ch34-321-v8 1题；完整章替代原分册不重复累加。 第九轮新增解析净增105题，原说明/陈述不算新增问题；整章替代不重复计原题。 第十轮新增解析净增57题，原说明/陈述不算新增问题；整章替代不重复计原题。",
+  "latest_accepted_docx_pdf_pairs": 97,
+  "latest_output_pdf_pages": 1357,
+  "next": {
+    "source_id": "S001",
+    "chapter": 13,
+    "title": "戴维南定理",
+    "question": 717,
+    "source_pdf_page": 118,
+    "source_printed_page": 112,
+    "source_page": 118
+  },
+  "parallel_next": [
+    {
+      "source_id": "S002",
+      "source_file": "300001.pdf",
+      "chapter": 37,
+      "title": "集成运算放大器",
+      "original_number": 332,
+      "source_pdf_page": 76,
+      "source_printed_page": 250,
+      "source_boundary_actually_viewed": true,
+      "source_page": 76
+    },
+    {
+      "source_id": "S025",
+      "source_page": 169,
+      "heading": "第4章 电子电路识图",
+      "start": "169章首先完整学习要点4条及三二维码/联系方式；170页实际标题4.1认识PCB、4.1.1印制电路板的分类，已实看边界但未制作。",
+      "status": "not_digitized",
+      "source_page_fully_accepted": false,
+      "first_learning_point": "（1）常用基本电路的组成和应用。涉及晶体管放大电路、运算放大电路、振荡电路、功率放大电路、电源电路、译码电路、计数器电路。了解单片机常用外围扩展电路。",
+      "following_verified_heading": {
+        "source_page": 170,
+        "heading": "4.1 认识PCB",
+        "subheading": "4.1.1 印制电路板的分类",
+        "status": "boundary_viewed_only_not_digitized"
+      }
+    },
+    {
+      "source_id": "S017",
+      "source": "模拟卷(3).pdf",
+      "archive_path": "电子信息转word/有水印需要答案和解析/去水印/模拟卷(3).pdf",
+      "source_page": 1,
+      "position": "按旧审计逐源核验并制作全部8页忠实卷；特别恢复旧册被删改8/15/30/38/42及卷头、原答题区域；全部技术图重建或内容核验复用，禁止新添答案。",
+      "action": "按该源实际类型接续；已预检或草稿不等于页验收",
+      "next_evidence": {
+        "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\released_native_s016_R01\\normalized_acceptance.json",
+        "sha256": "b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2"
+      }
+    },
+    {
+      "source_id": "S080",
+      "source_original": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\sources\\S080\\江苏专转本数电模电基础复习全书.pdf",
+      "archive_path": "电子信息转word/有水印需要答案和解析/江苏专转本数电模电基础复习全书.pdf",
+      "source_page": 24,
+      "printed_page": 22,
+      "scope": "1.4 半导体二极管应用电路分析方法；简单二极管电路图解分析方法、符号大小写含义及简化模型起",
+      "state": "源页已实际查看；未计正式覆盖",
+      "remaining_source_page_count": 293
+    },
+    {
+      "source_ids": [
+        "S007",
+        "S011"
+      ],
+      "source": "26年基础过关330题.pdf（两独立ZIP源）",
+      "source_page": 1,
+      "audit_status": "全部15章344可见题目位置审计闭合，各0数字化",
+      "action": "据逐项审计另制忠实稿，保留原封面前言目录及缺页证据"
+    }
+  ],
+  "frontmatter_and_covers_still_pending": [
+    {
+      "source_id": "S001",
+      "pages": [
+        1,
+        28
+      ],
+      "extra_page": 188,
+      "note": "封面、目录、名词解释、出处及封底不得漏"
+    },
+    {
+      "source_id": "S002",
+      "pages": [
+        1,
+        6
+      ],
+      "extra_page": 207,
+      "note": "封面、目录、出处及封底不得漏"
+    }
+  ],
+  "all_source_queue": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\full_processing_queue.json",
+  "old_outputs_audit": "两330源15章各344可见编号位置审计完成，0数字化页；S016/S017数字化状态由本轮实际放行与逐源页账分别派生。全部差异和缺原印页证据保留。",
+  "receipts": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\本轮多批次验收索引.json",
+  "blocks_requiring_user": [],
+  "known_nonblocking_source_loss": "当前不可读残损页：{\"S016\": [1], \"S025\": [10, 27, 42, 45, 59, 60, 61, 63, 64, 65, 66, 67, 73, 74, 75, 88, 93, 96, 99, 102, 105, 121, 131, 136, 137, 138, 143, 144, 148], \"S061\": [1, 6], \"S062\": [1], \"S065\": [1, 6], \"S066\": [1], \"S070\": [4], \"S075\": [1, 2], \"S076\": [1, 2], \"S077\": [5], \"S078\": [5], \"S079\": [4, 5], \"S080\": [2]}。两330另缺印12/45页，缺号26–29/178–182，不增加87物理页。原含铅百分数仍待核；不得由知识常识或旧答案填空。",
+  "runtime": "桌面内置Python3.12；共享renderer缺LibreOffice，Word COM需require_escalated并已审核通过",
+  "word_export_mutex": "Local\\ExamBench_Word_Export",
+  "do_not_run": [
+    "旧build_initial.py（可能重置旧成果或台账）",
+    "inventory.py（原始清点入口，不应覆盖当前验收状态）",
+    "classify_inventory.py（初分入口，不应用来覆盖细化后的状态）",
+    "make_checkpoint.py（首轮快照脚本，不应再写回旧断点）",
+    "本轮build/finalize/merge脚本（有意迭代时才运行；接续应使用新目录）"
+  ],
+  "safe_resume": "先读checkpoint及第10轮报告，按独立新目录继续全85源队列；禁止重跑旧初始化或合并脚本。整源页与页内部分覆盖分别计数。",
+  "short_disconnect": "本轮通知短暂断连后本地exec/源文件读取/Word导出均成功；无持续权限阻塞。",
+  "round": 10,
+  "updated_utc": "2026-10-01T02:31:05.343240+00:00",
+  "touched_source_pages": 519,
+  "partially_covered_pages": [],
+  "original_empty_number_entries_included": 2,
+  "question_count_note": "跨源按原编号和明确未编号原项目逐源记录，版本重复题不合并；历史S073/S074各42原编号加1未编号可逆计数器，共43项目，未给原稿补号。原目标栏/空编号另记；教材正文习题数量另记，不并入题库卷主条目。",
+  "faithful_output_pdf_pages": 842,
+  "new_answer_output_pdf_pages": 515,
+  "page_level_ledger": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\source_page_coverage.json",
+  "page_level_summary": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\逐源页验收总账_第十轮\\coverage_summary.json",
+  "textbook_exact_checkpoint": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\续制_v10\\v10_final_records_R01\\checkpoint.json",
+  "textbook_next_cursor": {
+    "source_id": "S025",
+    "source_page": 169,
+    "heading": "第4章 电子电路识图",
+    "start": "169章首先完整学习要点4条及三二维码/联系方式；170页实际标题4.1认识PCB、4.1.1印制电路板的分类，已实看边界但未制作。",
+    "status": "not_digitized",
+    "source_page_fully_accepted": false,
+    "first_learning_point": "（1）常用基本电路的组成和应用。涉及晶体管放大电路、运算放大电路、振荡电路、功率放大电路、电源电路、译码电路、计数器电路。了解单片机常用外围扩展电路。",
+    "following_verified_heading": {
+      "source_page": 170,
+      "heading": "4.1 认识PCB",
+      "subheading": "4.1.1 印制电路板的分类",
+      "status": "boundary_viewed_only_not_digitized"
+    }
+  },
+  "original_integrity_round04": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\round04_original_integrity.json",
+  "textbook_current_catalog": "D:\\02_Projects\\active\\ExamBench\\deliverables\\S025_实操教材\\续制_v10\\v10_final_records_R01\\current_catalog.json",
+  "textbook_chapter01_scope": {
+    "source_id": "S025",
+    "source_pages": [
+      20,
+      77
+    ],
+    "split_booklets": 10,
+    "chapter_output_pages": 82,
+    "chapter_merge_pending": true,
+    "exercise_items": 46,
+    "new_exercise_answers": 0,
+    "scope_note": "章节分册已转录/复核；全章合并后目录、编号、分页仍需再验，源残损不猜补。"
+  },
+  "original_integrity_round05": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\原源及旧成果完整性_第五轮.json",
+  "textbook_chapter02_scope": {
+    "source_id": "S025",
+    "source_pages": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154
+    ],
+    "visible_source_content_complete": true,
+    "source_residual_pages": [
+      88,
+      93,
+      96,
+      99,
+      102,
+      105,
+      121,
+      131,
+      136,
+      137,
+      138,
+      143,
+      144,
+      148
+    ],
+    "single_combined_book": false,
+    "chapter_merge_pending": true,
+    "original_exercises_kept_without_new_answers": true
+  },
+  "textbook_source_current_status": {
+    "covered_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168
+    ],
+    "fully_accepted_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      43,
+      44,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      62,
+      68,
+      69,
+      70,
+      71,
+      72,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90,
+      91,
+      92,
+      94,
+      95,
+      97,
+      98,
+      100,
+      101,
+      103,
+      104,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      132,
+      133,
+      134,
+      135,
+      139,
+      140,
+      141,
+      142,
+      145,
+      146,
+      147,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168
+    ],
+    "residual_pages": [
+      10,
+      27,
+      42,
+      45,
+      59,
+      60,
+      61,
+      63,
+      64,
+      65,
+      66,
+      67,
+      73,
+      74,
+      75,
+      88,
+      93,
+      96,
+      99,
+      102,
+      105,
+      121,
+      131,
+      136,
+      137,
+      138,
+      143,
+      144,
+      148
+    ],
+    "partial_pages": [],
+    "independent_source_count": 1
+  },
+  "source_condition_reclassification_round05": {
+    "source_id": "S025",
+    "source_pages": [
+      25,
+      26
+    ],
+    "kind": "原印错漏已忠实转录，非缺失文字恢复",
+    "review": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\s025_residual_reclassification_review_R01\\review_receipt.json",
+    "approval": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v5\\S025_p025_p026_root_release_R01.json"
+  },
+  "stage_commit_note": "仅准备，root统一提交；4263源页并集/当前PDF实际页数动态派生，所有旧稿和审计证据保留。",
+  "original_zip_identity_round05": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\原ZIP逐成员映射复核_第五轮.json",
+  "new_answer_question_increment_round06": {
+    "batches": [
+      {
+        "batch_id": "S002-ch33-v6",
+        "lecture": 33,
+        "original_entries": 42,
+        "new_answer_questions": 42,
+        "numbered_nonquestion_entries": 0
+      },
+      {
+        "batch_id": "S002-ch34-fill-v6",
+        "lecture": 34,
+        "original_entries": 22,
+        "new_answer_questions": 21,
+        "numbered_nonquestion_entries": 1
+      },
+      {
+        "batch_id": "S001-ch07-fill-judgment-v6",
+        "lecture": 7,
+        "original_entries": 40,
+        "new_answer_questions": 40,
+        "numbered_nonquestion_entries": 0
+      },
+      {
+        "batch_id": "S001-ch06-v6",
+        "lecture": 6,
+        "original_entries": 57,
+        "new_answer_questions": 57,
+        "numbered_nonquestion_entries": 0
+      },
+      {
+        "batch_id": "S002-ch34-304-305-v6",
+        "lecture": 34,
+        "original_entries": 2,
+        "new_answer_questions": 2,
+        "numbered_nonquestion_entries": 0
+      }
+    ],
+    "total": 162,
+    "prior_scope_note_retained": true
+  },
+  "original_integrity_round06": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\原源及旧成果完整性_第六轮.json",
+  "zip_identity_round06": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\原ZIP逐成员映射复核_第六轮.json",
+  "independent_native_status_recheck_round06": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v6\\user_status_recheck\\native_exam_status_statement.json",
+  "chapter05_final_revision_chain_recheck_round06": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v6\\user_status_recheck\\chapter05_final_revision_evidence_statement.json",
+  "root_supplemental_actual_visual_review_round06": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\第六轮独立抽核补记.json",
+  "historical_evidence_reference_repair_round06": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v6\\historical_evidence_repair_R02\\repair_receipt.json",
+  "historical_reference_repair_includes_new_master_history": true,
+  "original_entry_increments_round06": {
+    "chapter_source_number_keys": [
+      {
+        "source_id": "S001",
+        "original_number": 350
+      },
+      {
+        "source_id": "S001",
+        "original_number": 351
+      },
+      {
+        "source_id": "S001",
+        "original_number": 352
+      },
+      {
+        "source_id": "S001",
+        "original_number": 353
+      },
+      {
+        "source_id": "S001",
+        "original_number": 354
+      },
+      {
+        "source_id": "S001",
+        "original_number": 355
+      },
+      {
+        "source_id": "S001",
+        "original_number": 356
+      },
+      {
+        "source_id": "S001",
+        "original_number": 357
+      },
+      {
+        "source_id": "S001",
+        "original_number": 358
+      },
+      {
+        "source_id": "S001",
+        "original_number": 359
+      },
+      {
+        "source_id": "S001",
+        "original_number": 360
+      },
+      {
+        "source_id": "S001",
+        "original_number": 361
+      },
+      {
+        "source_id": "S001",
+        "original_number": 362
+      },
+      {
+        "source_id": "S001",
+        "original_number": 363
+      },
+      {
+        "source_id": "S001",
+        "original_number": 364
+      },
+      {
+        "source_id": "S001",
+        "original_number": 365
+      },
+      {
+        "source_id": "S001",
+        "original_number": 366
+      },
+      {
+        "source_id": "S001",
+        "original_number": 367
+      },
+      {
+        "source_id": "S001",
+        "original_number": 368
+      },
+      {
+        "source_id": "S001",
+        "original_number": 369
+      },
+      {
+        "source_id": "S001",
+        "original_number": 370
+      },
+      {
+        "source_id": "S001",
+        "original_number": 371
+      },
+      {
+        "source_id": "S001",
+        "original_number": 372
+      },
+      {
+        "source_id": "S001",
+        "original_number": 373
+      },
+      {
+        "source_id": "S001",
+        "original_number": 374
+      },
+      {
+        "source_id": "S001",
+        "original_number": 375
+      },
+      {
+        "source_id": "S001",
+        "original_number": 376
+      },
+      {
+        "source_id": "S001",
+        "original_number": 377
+      },
+      {
+        "source_id": "S001",
+        "original_number": 378
+      },
+      {
+        "source_id": "S001",
+        "original_number": 379
+      },
+      {
+        "source_id": "S001",
+        "original_number": 380
+      },
+      {
+        "source_id": "S001",
+        "original_number": 381
+      },
+      {
+        "source_id": "S001",
+        "original_number": 382
+      },
+      {
+        "source_id": "S001",
+        "original_number": 383
+      },
+      {
+        "source_id": "S001",
+        "original_number": 384
+      },
+      {
+        "source_id": "S001",
+        "original_number": 385
+      },
+      {
+        "source_id": "S001",
+        "original_number": 386
+      },
+      {
+        "source_id": "S001",
+        "original_number": 387
+      },
+      {
+        "source_id": "S001",
+        "original_number": 388
+      },
+      {
+        "source_id": "S001",
+        "original_number": 389
+      },
+      {
+        "source_id": "S001",
+        "original_number": 390
+      },
+      {
+        "source_id": "S001",
+        "original_number": 391
+      },
+      {
+        "source_id": "S001",
+        "original_number": 392
+      },
+      {
+        "source_id": "S001",
+        "original_number": 393
+      },
+      {
+        "source_id": "S001",
+        "original_number": 394
+      },
+      {
+        "source_id": "S001",
+        "original_number": 395
+      },
+      {
+        "source_id": "S001",
+        "original_number": 396
+      },
+      {
+        "source_id": "S001",
+        "original_number": 397
+      },
+      {
+        "source_id": "S001",
+        "original_number": 398
+      },
+      {
+        "source_id": "S001",
+        "original_number": 399
+      },
+      {
+        "source_id": "S001",
+        "original_number": 400
+      },
+      {
+        "source_id": "S001",
+        "original_number": 401
+      },
+      {
+        "source_id": "S001",
+        "original_number": 402
+      },
+      {
+        "source_id": "S001",
+        "original_number": 403
+      },
+      {
+        "source_id": "S001",
+        "original_number": 404
+      },
+      {
+        "source_id": "S001",
+        "original_number": 405
+      },
+      {
+        "source_id": "S001",
+        "original_number": 406
+      },
+      {
+        "source_id": "S001",
+        "original_number": 407
+      },
+      {
+        "source_id": "S001",
+        "original_number": 408
+      },
+      {
+        "source_id": "S001",
+        "original_number": 409
+      },
+      {
+        "source_id": "S001",
+        "original_number": 410
+      },
+      {
+        "source_id": "S001",
+        "original_number": 411
+      },
+      {
+        "source_id": "S001",
+        "original_number": 412
+      },
+      {
+        "source_id": "S001",
+        "original_number": 413
+      },
+      {
+        "source_id": "S001",
+        "original_number": 414
+      },
+      {
+        "source_id": "S001",
+        "original_number": 415
+      },
+      {
+        "source_id": "S001",
+        "original_number": 416
+      },
+      {
+        "source_id": "S001",
+        "original_number": 417
+      },
+      {
+        "source_id": "S001",
+        "original_number": 418
+      },
+      {
+        "source_id": "S001",
+        "original_number": 419
+      },
+      {
+        "source_id": "S001",
+        "original_number": 420
+      },
+      {
+        "source_id": "S001",
+        "original_number": 421
+      },
+      {
+        "source_id": "S001",
+        "original_number": 422
+      },
+      {
+        "source_id": "S001",
+        "original_number": 423
+      },
+      {
+        "source_id": "S001",
+        "original_number": 424
+      },
+      {
+        "source_id": "S001",
+        "original_number": 425
+      },
+      {
+        "source_id": "S001",
+        "original_number": 426
+      },
+      {
+        "source_id": "S001",
+        "original_number": 427
+      },
+      {
+        "source_id": "S001",
+        "original_number": 428
+      },
+      {
+        "source_id": "S001",
+        "original_number": 429
+      },
+      {
+        "source_id": "S001",
+        "original_number": 430
+      },
+      {
+        "source_id": "S001",
+        "original_number": 431
+      },
+      {
+        "source_id": "S001",
+        "original_number": 432
+      },
+      {
+        "source_id": "S001",
+        "original_number": 433
+      },
+      {
+        "source_id": "S001",
+        "original_number": 434
+      },
+      {
+        "source_id": "S001",
+        "original_number": 435
+      },
+      {
+        "source_id": "S001",
+        "original_number": 436
+      },
+      {
+        "source_id": "S001",
+        "original_number": 437
+      },
+      {
+        "source_id": "S001",
+        "original_number": 438
+      },
+      {
+        "source_id": "S001",
+        "original_number": 439
+      },
+      {
+        "source_id": "S001",
+        "original_number": 440
+      },
+      {
+        "source_id": "S001",
+        "original_number": 441
+      },
+      {
+        "source_id": "S001",
+        "original_number": 442
+      },
+      {
+        "source_id": "S001",
+        "original_number": 443
+      },
+      {
+        "source_id": "S001",
+        "original_number": 444
+      },
+      {
+        "source_id": "S001",
+        "original_number": 445
+      },
+      {
+        "source_id": "S001",
+        "original_number": 446
+      },
+      {
+        "source_id": "S002",
+        "original_number": 240
+      },
+      {
+        "source_id": "S002",
+        "original_number": 241
+      },
+      {
+        "source_id": "S002",
+        "original_number": 242
+      },
+      {
+        "source_id": "S002",
+        "original_number": 243
+      },
+      {
+        "source_id": "S002",
+        "original_number": 244
+      },
+      {
+        "source_id": "S002",
+        "original_number": 245
+      },
+      {
+        "source_id": "S002",
+        "original_number": 246
+      },
+      {
+        "source_id": "S002",
+        "original_number": 247
+      },
+      {
+        "source_id": "S002",
+        "original_number": 248
+      },
+      {
+        "source_id": "S002",
+        "original_number": 249
+      },
+      {
+        "source_id": "S002",
+        "original_number": 250
+      },
+      {
+        "source_id": "S002",
+        "original_number": 251
+      },
+      {
+        "source_id": "S002",
+        "original_number": 252
+      },
+      {
+        "source_id": "S002",
+        "original_number": 253
+      },
+      {
+        "source_id": "S002",
+        "original_number": 254
+      },
+      {
+        "source_id": "S002",
+        "original_number": 255
+      },
+      {
+        "source_id": "S002",
+        "original_number": 256
+      },
+      {
+        "source_id": "S002",
+        "original_number": 257
+      },
+      {
+        "source_id": "S002",
+        "original_number": 258
+      },
+      {
+        "source_id": "S002",
+        "original_number": 259
+      },
+      {
+        "source_id": "S002",
+        "original_number": 260
+      },
+      {
+        "source_id": "S002",
+        "original_number": 261
+      },
+      {
+        "source_id": "S002",
+        "original_number": 262
+      },
+      {
+        "source_id": "S002",
+        "original_number": 263
+      },
+      {
+        "source_id": "S002",
+        "original_number": 264
+      },
+      {
+        "source_id": "S002",
+        "original_number": 265
+      },
+      {
+        "source_id": "S002",
+        "original_number": 266
+      },
+      {
+        "source_id": "S002",
+        "original_number": 267
+      },
+      {
+        "source_id": "S002",
+        "original_number": 268
+      },
+      {
+        "source_id": "S002",
+        "original_number": 269
+      },
+      {
+        "source_id": "S002",
+        "original_number": 270
+      },
+      {
+        "source_id": "S002",
+        "original_number": 271
+      },
+      {
+        "source_id": "S002",
+        "original_number": 272
+      },
+      {
+        "source_id": "S002",
+        "original_number": 273
+      },
+      {
+        "source_id": "S002",
+        "original_number": 274
+      },
+      {
+        "source_id": "S002",
+        "original_number": 275
+      },
+      {
+        "source_id": "S002",
+        "original_number": 276
+      },
+      {
+        "source_id": "S002",
+        "original_number": 277
+      },
+      {
+        "source_id": "S002",
+        "original_number": 278
+      },
+      {
+        "source_id": "S002",
+        "original_number": 279
+      },
+      {
+        "source_id": "S002",
+        "original_number": 280
+      },
+      {
+        "source_id": "S002",
+        "original_number": 281
+      },
+      {
+        "source_id": "S002",
+        "original_number": 282
+      },
+      {
+        "source_id": "S002",
+        "original_number": 283
+      },
+      {
+        "source_id": "S002",
+        "original_number": 284
+      },
+      {
+        "source_id": "S002",
+        "original_number": 285
+      },
+      {
+        "source_id": "S002",
+        "original_number": 286
+      },
+      {
+        "source_id": "S002",
+        "original_number": 287
+      },
+      {
+        "source_id": "S002",
+        "original_number": 288
+      },
+      {
+        "source_id": "S002",
+        "original_number": 289
+      },
+      {
+        "source_id": "S002",
+        "original_number": 290
+      },
+      {
+        "source_id": "S002",
+        "original_number": 291
+      },
+      {
+        "source_id": "S002",
+        "original_number": 292
+      },
+      {
+        "source_id": "S002",
+        "original_number": 293
+      },
+      {
+        "source_id": "S002",
+        "original_number": 294
+      },
+      {
+        "source_id": "S002",
+        "original_number": 295
+      },
+      {
+        "source_id": "S002",
+        "original_number": 296
+      },
+      {
+        "source_id": "S002",
+        "original_number": 297
+      },
+      {
+        "source_id": "S002",
+        "original_number": 298
+      },
+      {
+        "source_id": "S002",
+        "original_number": 299
+      },
+      {
+        "source_id": "S002",
+        "original_number": 300
+      },
+      {
+        "source_id": "S002",
+        "original_number": 301
+      },
+      {
+        "source_id": "S002",
+        "original_number": 302
+      },
+      {
+        "source_id": "S002",
+        "original_number": 303
+      },
+      {
+        "source_id": "S002",
+        "original_number": 304
+      },
+      {
+        "source_id": "S002",
+        "original_number": 305
+      }
+    ],
+    "chapter_entries": 163,
+    "native_source_entries": [
+      {
+        "source_id": "S070",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s070_v6\\final_receipt.json",
+          "sha256": "77ed4c7c84821444c0f92ea49996c4cecb00355c61f000cc5880db387c8df520",
+          "role": "final_content_and_visual_acceptance"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S070_试卷五答案版_v6\\源页与题号映射.json",
+          "sha256": "63673285d94c1aee001c79f0b63464117595383f1e9b848168e05151969bf5a1"
+        }
+      },
+      {
+        "source_id": "S069",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s069_v6\\final_receipt.json",
+          "sha256": "75878b7346941be59c356ee91ec2a3ec80b2e9c9df54e0b15384545ad9e2c83c",
+          "role": "final_content_and_visual_acceptance"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S069_试卷五_v6\\源页与题号映射.json",
+          "sha256": "b4a5b53aeb4317aa955d9b93d90a1ad08e051a8c2f1573a06b083299e4c707ed"
+        }
+      },
+      {
+        "source_id": "S072",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s072_v6\\final_receipt.json",
+          "sha256": "e75016ad699e10e1f519dc931dfd86b5103d6cfeb0f16f4abba883e349ac1bab",
+          "role": "final_content_and_visual_acceptance"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S072_试卷八答案版_v6\\源页与题号映射.json",
+          "sha256": "be5c3f6906319113c017786feae1dc9d472386db4b45476b3da544889d81ca69"
+        }
+      },
+      {
+        "source_id": "S071",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s071_v6\\final_receipt.json",
+          "sha256": "380c370386bdd4de5b2f9b370469f5a6133a3e05842d30bf7b742e22db800ceb",
+          "role": "final_content_and_visual_acceptance"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S071_试卷八_v6\\源页与题号映射.json",
+          "sha256": "736b1b23c160abfba148d5f3b3ad94234b23944477110e59b4e22287b579a36e"
+        }
+      }
+    ],
+    "native_entries": 168,
+    "rule": "忠实页账中的源ID/原编号去重并集；部分讲次只加实际编号，不标整章完成"
+  },
+  "new_answer_question_increment_round07": {
+    "batches": [
+      {
+        "batch_id": "S001-ch08-fill-judgment-v7",
+        "lecture": 8,
+        "original_entries_in_batch": 47,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466,
+          467,
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504
+        ],
+        "new_answer_questions": 47,
+        "rule": "整章替代旧分册，已验收原编号与其新增解答不重复累加"
+      },
+      {
+        "batch_id": "S002-ch34-306-v7",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          306
+        ],
+        "new_answer_questions": 1,
+        "rule": "整章替代旧分册，已验收原编号与其新增解答不重复累加"
+      },
+      {
+        "batch_id": "S002-ch34-307-308-v7",
+        "lecture": 34,
+        "original_entries_in_batch": 2,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          307,
+          308
+        ],
+        "new_answer_questions": 2,
+        "rule": "整章替代旧分册，已验收原编号与其新增解答不重复累加"
+      },
+      {
+        "batch_id": "S002-ch34-309-310-v7",
+        "lecture": 34,
+        "original_entries_in_batch": 2,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          309,
+          310
+        ],
+        "new_answer_questions": 2,
+        "rule": "整章替代旧分册，已验收原编号与其新增解答不重复累加"
+      },
+      {
+        "batch_id": "S001-ch07-complete-v7",
+        "lecture": 7,
+        "original_entries_in_batch": 51,
+        "prior_already_accepted_original_numbers": [
+          407,
+          408,
+          409,
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          418,
+          419,
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          426,
+          427,
+          428,
+          429,
+          430,
+          431,
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446
+        ],
+        "new_original_numbers": [
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454,
+          455,
+          456,
+          457
+        ],
+        "new_answer_questions": 11,
+        "rule": "整章替代旧分册，已验收原编号与其新增解答不重复累加"
+      },
+      {
+        "batch_id": "S002-ch34-311-v7",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          311
+        ],
+        "new_answer_questions": 1,
+        "rule": "整章替代旧分册，已验收原编号与其新增解答不重复累加"
+      }
+    ],
+    "total": 64,
+    "prior_scope_note_retained": true
+  },
+  "source_gap_evidence_round07": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v7\\audit_s007_s011_ch08\\source_gap_evidence_R02.json",
+  "original_integrity_round07": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\原源及旧成果完整性_第七轮.json",
+  "zip_identity_round07": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\原ZIP逐成员映射复核_第七轮.json",
+  "root_supplemental_actual_visual_review_round07": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\第七轮独立抽核补记.json",
+  "original_entry_increments_round07": {
+    "chapter_source_number_keys": [
+      {
+        "source_id": "S001",
+        "original_number": 447
+      },
+      {
+        "source_id": "S001",
+        "original_number": 448
+      },
+      {
+        "source_id": "S001",
+        "original_number": 449
+      },
+      {
+        "source_id": "S001",
+        "original_number": 450
+      },
+      {
+        "source_id": "S001",
+        "original_number": 451
+      },
+      {
+        "source_id": "S001",
+        "original_number": 452
+      },
+      {
+        "source_id": "S001",
+        "original_number": 453
+      },
+      {
+        "source_id": "S001",
+        "original_number": 454
+      },
+      {
+        "source_id": "S001",
+        "original_number": 455
+      },
+      {
+        "source_id": "S001",
+        "original_number": 456
+      },
+      {
+        "source_id": "S001",
+        "original_number": 457
+      },
+      {
+        "source_id": "S001",
+        "original_number": 458
+      },
+      {
+        "source_id": "S001",
+        "original_number": 459
+      },
+      {
+        "source_id": "S001",
+        "original_number": 460
+      },
+      {
+        "source_id": "S001",
+        "original_number": 461
+      },
+      {
+        "source_id": "S001",
+        "original_number": 462
+      },
+      {
+        "source_id": "S001",
+        "original_number": 463
+      },
+      {
+        "source_id": "S001",
+        "original_number": 464
+      },
+      {
+        "source_id": "S001",
+        "original_number": 465
+      },
+      {
+        "source_id": "S001",
+        "original_number": 466
+      },
+      {
+        "source_id": "S001",
+        "original_number": 467
+      },
+      {
+        "source_id": "S001",
+        "original_number": 468
+      },
+      {
+        "source_id": "S001",
+        "original_number": 469
+      },
+      {
+        "source_id": "S001",
+        "original_number": 470
+      },
+      {
+        "source_id": "S001",
+        "original_number": 471
+      },
+      {
+        "source_id": "S001",
+        "original_number": 472
+      },
+      {
+        "source_id": "S001",
+        "original_number": 473
+      },
+      {
+        "source_id": "S001",
+        "original_number": 474
+      },
+      {
+        "source_id": "S001",
+        "original_number": 475
+      },
+      {
+        "source_id": "S001",
+        "original_number": 476
+      },
+      {
+        "source_id": "S001",
+        "original_number": 477
+      },
+      {
+        "source_id": "S001",
+        "original_number": 478
+      },
+      {
+        "source_id": "S001",
+        "original_number": 479
+      },
+      {
+        "source_id": "S001",
+        "original_number": 480
+      },
+      {
+        "source_id": "S001",
+        "original_number": 481
+      },
+      {
+        "source_id": "S001",
+        "original_number": 482
+      },
+      {
+        "source_id": "S001",
+        "original_number": 483
+      },
+      {
+        "source_id": "S001",
+        "original_number": 484
+      },
+      {
+        "source_id": "S001",
+        "original_number": 485
+      },
+      {
+        "source_id": "S001",
+        "original_number": 486
+      },
+      {
+        "source_id": "S001",
+        "original_number": 487
+      },
+      {
+        "source_id": "S001",
+        "original_number": 488
+      },
+      {
+        "source_id": "S001",
+        "original_number": 489
+      },
+      {
+        "source_id": "S001",
+        "original_number": 490
+      },
+      {
+        "source_id": "S001",
+        "original_number": 491
+      },
+      {
+        "source_id": "S001",
+        "original_number": 492
+      },
+      {
+        "source_id": "S001",
+        "original_number": 493
+      },
+      {
+        "source_id": "S001",
+        "original_number": 494
+      },
+      {
+        "source_id": "S001",
+        "original_number": 495
+      },
+      {
+        "source_id": "S001",
+        "original_number": 496
+      },
+      {
+        "source_id": "S001",
+        "original_number": 497
+      },
+      {
+        "source_id": "S001",
+        "original_number": 498
+      },
+      {
+        "source_id": "S001",
+        "original_number": 499
+      },
+      {
+        "source_id": "S001",
+        "original_number": 500
+      },
+      {
+        "source_id": "S001",
+        "original_number": 501
+      },
+      {
+        "source_id": "S001",
+        "original_number": 502
+      },
+      {
+        "source_id": "S001",
+        "original_number": 503
+      },
+      {
+        "source_id": "S001",
+        "original_number": 504
+      },
+      {
+        "source_id": "S002",
+        "original_number": 306
+      },
+      {
+        "source_id": "S002",
+        "original_number": 307
+      },
+      {
+        "source_id": "S002",
+        "original_number": 308
+      },
+      {
+        "source_id": "S002",
+        "original_number": 309
+      },
+      {
+        "source_id": "S002",
+        "original_number": 310
+      },
+      {
+        "source_id": "S002",
+        "original_number": 311
+      }
+    ],
+    "chapter_entries": 64,
+    "native_source_entries": [
+      {
+        "source_id": "S073",
+        "entries": 43,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s073_v7\\acceptance.json",
+          "sha256": "1e2a3e7644f1c065225412fdb6c325d2c449c06af8ef19ff1221ebc0b6c461bf",
+          "role": "final_native_acceptance"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S073_试卷六_v7\\源页与题号映射.json",
+          "sha256": "174239d0c70477d630e363c288d805bd0950243fe1d4a93af6e7730080a71967"
+        }
+      },
+      {
+        "source_id": "S074",
+        "entries": 43,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\native_s074_v7\\acceptance.json",
+          "sha256": "afc9c7ad89870b23f93325ef8383af97a506a0097d6fa61e99a71063fbe31a85",
+          "role": "final_native_acceptance"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S074_试卷六答案版_v7\\源页与题号映射.json",
+          "sha256": "dd9c88b7b6c597d892c7af9cf310c803d994e8199700011fa0dcb3c64ad93110"
+        }
+      }
+    ],
+    "native_entries": 86,
+    "rule": "忠实页账中的源ID/原编号去重并集；部分讲次只加实际编号，不标整章完成"
+  },
+  "textbook_next_preflight_evidence": {
+    "path": "D:\\02_Projects\\active\\ExamBench\\work\\textbook_s025_next_142_v8\\next142_preflight_receipt.json",
+    "sha256": "793dc8341f5bc0717fbddc9f174601c915d9a9dcc8213f19718ebc4eeba4a595"
+  },
+  "new_answer_question_increment_round08": {
+    "batches": [
+      {
+        "batch_id": "S002-ch34-312-313-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 2,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          312,
+          313
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 2,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S001-ch09-fill-judgment-v8",
+        "lecture": 9,
+        "original_entries_in_batch": 41,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          523,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529,
+          530,
+          531,
+          532,
+          533,
+          534,
+          535,
+          536,
+          537,
+          538,
+          539,
+          540,
+          541,
+          542,
+          543,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 41,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S002-ch34-314-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          314
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 1,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S001-ch08-complete-v8",
+        "lecture": 8,
+        "original_entries_in_batch": 56,
+        "prior_already_accepted_original_numbers": [
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466,
+          467,
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504
+        ],
+        "new_original_numbers": [
+          505,
+          506,
+          507,
+          508,
+          509,
+          510,
+          511,
+          512,
+          513
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 9,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S002-ch34-316-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          316
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 1,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S002-ch34-315-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          315
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 1,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S002-ch34-317-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          317
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 1,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S002-ch34-318-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          318
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 1,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S001-ch09-complete-v8",
+        "lecture": 9,
+        "original_entries_in_batch": 49,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          555,
+          556,
+          557,
+          558,
+          559,
+          560,
+          561,
+          562
+        ],
+        "same_round_already_accepted_original_numbers": [
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          523,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529,
+          530,
+          531,
+          532,
+          533,
+          534,
+          535,
+          536,
+          537,
+          538,
+          539,
+          540,
+          541,
+          542,
+          543,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554
+        ],
+        "new_answer_questions": 8,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S002-ch34-319-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          319
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 1,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S002-ch34-320-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          320
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 1,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      },
+      {
+        "batch_id": "S002-ch34-321-v8",
+        "lecture": 34,
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          321
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_answer_questions": 1,
+        "rule": "按源ID/原编号去重；整章替代的既有解答不重复增加"
+      }
+    ],
+    "total": 68,
+    "prior_scope_note_retained": true
+  },
+  "source_gap_evidence_round08": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\prior_round_proofs\\audit_s007_s011_ch08_source_gap_evidence_R02.json",
+  "original_integrity_round08": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\原源及旧成果完整性_第八轮.json",
+  "zip_identity_round08": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\原ZIP逐成员映射复核_第八轮.json",
+  "root_supplemental_actual_visual_review_round08": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\第八轮独立抽核补记.json",
+  "round08_expected_cursors": {
+    "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\round08_expected_cursors.json",
+    "sha256": "e7dc190bfb05e0d25ac43270633b61b371fa23abaa0f547a5b163ff765b7a833",
+    "role": "root_final_expected_cursors"
+  },
+  "original_entry_increments_round08": {
+    "chapter_source_number_keys": [
+      {
+        "source_id": "S001",
+        "original_number": 505
+      },
+      {
+        "source_id": "S001",
+        "original_number": 506
+      },
+      {
+        "source_id": "S001",
+        "original_number": 507
+      },
+      {
+        "source_id": "S001",
+        "original_number": 508
+      },
+      {
+        "source_id": "S001",
+        "original_number": 509
+      },
+      {
+        "source_id": "S001",
+        "original_number": 510
+      },
+      {
+        "source_id": "S001",
+        "original_number": 511
+      },
+      {
+        "source_id": "S001",
+        "original_number": 512
+      },
+      {
+        "source_id": "S001",
+        "original_number": 513
+      },
+      {
+        "source_id": "S001",
+        "original_number": 514
+      },
+      {
+        "source_id": "S001",
+        "original_number": 515
+      },
+      {
+        "source_id": "S001",
+        "original_number": 516
+      },
+      {
+        "source_id": "S001",
+        "original_number": 517
+      },
+      {
+        "source_id": "S001",
+        "original_number": 518
+      },
+      {
+        "source_id": "S001",
+        "original_number": 519
+      },
+      {
+        "source_id": "S001",
+        "original_number": 520
+      },
+      {
+        "source_id": "S001",
+        "original_number": 521
+      },
+      {
+        "source_id": "S001",
+        "original_number": 522
+      },
+      {
+        "source_id": "S001",
+        "original_number": 523
+      },
+      {
+        "source_id": "S001",
+        "original_number": 524
+      },
+      {
+        "source_id": "S001",
+        "original_number": 525
+      },
+      {
+        "source_id": "S001",
+        "original_number": 526
+      },
+      {
+        "source_id": "S001",
+        "original_number": 527
+      },
+      {
+        "source_id": "S001",
+        "original_number": 528
+      },
+      {
+        "source_id": "S001",
+        "original_number": 529
+      },
+      {
+        "source_id": "S001",
+        "original_number": 530
+      },
+      {
+        "source_id": "S001",
+        "original_number": 531
+      },
+      {
+        "source_id": "S001",
+        "original_number": 532
+      },
+      {
+        "source_id": "S001",
+        "original_number": 533
+      },
+      {
+        "source_id": "S001",
+        "original_number": 534
+      },
+      {
+        "source_id": "S001",
+        "original_number": 535
+      },
+      {
+        "source_id": "S001",
+        "original_number": 536
+      },
+      {
+        "source_id": "S001",
+        "original_number": 537
+      },
+      {
+        "source_id": "S001",
+        "original_number": 538
+      },
+      {
+        "source_id": "S001",
+        "original_number": 539
+      },
+      {
+        "source_id": "S001",
+        "original_number": 540
+      },
+      {
+        "source_id": "S001",
+        "original_number": 541
+      },
+      {
+        "source_id": "S001",
+        "original_number": 542
+      },
+      {
+        "source_id": "S001",
+        "original_number": 543
+      },
+      {
+        "source_id": "S001",
+        "original_number": 544
+      },
+      {
+        "source_id": "S001",
+        "original_number": 545
+      },
+      {
+        "source_id": "S001",
+        "original_number": 546
+      },
+      {
+        "source_id": "S001",
+        "original_number": 547
+      },
+      {
+        "source_id": "S001",
+        "original_number": 548
+      },
+      {
+        "source_id": "S001",
+        "original_number": 549
+      },
+      {
+        "source_id": "S001",
+        "original_number": 550
+      },
+      {
+        "source_id": "S001",
+        "original_number": 551
+      },
+      {
+        "source_id": "S001",
+        "original_number": 552
+      },
+      {
+        "source_id": "S001",
+        "original_number": 553
+      },
+      {
+        "source_id": "S001",
+        "original_number": 554
+      },
+      {
+        "source_id": "S001",
+        "original_number": 555
+      },
+      {
+        "source_id": "S001",
+        "original_number": 556
+      },
+      {
+        "source_id": "S001",
+        "original_number": 557
+      },
+      {
+        "source_id": "S001",
+        "original_number": 558
+      },
+      {
+        "source_id": "S001",
+        "original_number": 559
+      },
+      {
+        "source_id": "S001",
+        "original_number": 560
+      },
+      {
+        "source_id": "S001",
+        "original_number": 561
+      },
+      {
+        "source_id": "S001",
+        "original_number": 562
+      },
+      {
+        "source_id": "S002",
+        "original_number": 312
+      },
+      {
+        "source_id": "S002",
+        "original_number": 313
+      },
+      {
+        "source_id": "S002",
+        "original_number": 314
+      },
+      {
+        "source_id": "S002",
+        "original_number": 315
+      },
+      {
+        "source_id": "S002",
+        "original_number": 316
+      },
+      {
+        "source_id": "S002",
+        "original_number": 317
+      },
+      {
+        "source_id": "S002",
+        "original_number": 318
+      },
+      {
+        "source_id": "S002",
+        "original_number": 319
+      },
+      {
+        "source_id": "S002",
+        "original_number": 320
+      },
+      {
+        "source_id": "S002",
+        "original_number": 321
+      }
+    ],
+    "chapter_entries": 68,
+    "native_source_entries": [
+      {
+        "source_id": "S075",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S075_acceptance.json",
+          "sha256": "268169b7baad2238fa51c63696b12c5ac88cdd0f022b686601529b6ab33d050c"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S075_试卷十_v8\\源页与题号映射.json",
+          "sha256": "4dac9bc58686745bc985ea4de810cb863162ff90b42c986c86366f8e5b8014b7"
+        }
+      },
+      {
+        "source_id": "S076",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s075_s076_R01\\normalized_adapter\\S076_acceptance.json",
+          "sha256": "ea4e02a488600bef926a85a9d81830391e52b9eb2ccc0215f6c2f1b0ba11358e"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S076_试卷十答案版_v8\\源页与题号映射.json",
+          "sha256": "3d91db458baf194d08ae04e95751f72f094fb4b19ef3942319f9a46907210326"
+        }
+      },
+      {
+        "source_id": "S077",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s077_s078_R01\\normalized_adapter\\S077_acceptance.json",
+          "sha256": "abef8e8a09e6b3378be18ec5e02f632c550610934516ee4ecf5825428994b1f6"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S077_试卷四_v8\\源页与题号映射.json",
+          "sha256": "8a07af14d826aa36175debfad6e402ce5fc3d138b9938c714c41ab46ca10f586"
+        }
+      },
+      {
+        "source_id": "S078",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v8\\released_native_s077_s078_R01\\normalized_adapter\\S078_acceptance.json",
+          "sha256": "a84392d4529a8a4f2ee07c61cec6a4c1fd010c2ea0fed1b86b6c4d69f742b1ba"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S078_试卷四答案版_v8\\源页与题号映射.json",
+          "sha256": "a1bb39944ebc3dc10c4d5c391808f9c32d435e3e4f61bd16fa94577467c4adf8"
+        }
+      }
+    ],
+    "native_entries": 168,
+    "rule": "忠实页账中的源ID/原编号去重并集；部分讲次只加实际编号，不标整章完成"
+  },
+  "native_item_count_details_round08": [
+    {
+      "source_id": "S075",
+      "total_items": 42,
+      "printed_numbered_question_count": 41,
+      "additional_unnumbered_items": [
+        "74LS160计数器题"
+      ]
+    },
+    {
+      "source_id": "S076",
+      "total_items": 42,
+      "printed_numbered_question_count": 41,
+      "additional_unnumbered_items": [
+        "74LS160计数器题"
+      ]
+    },
+    {
+      "source_id": "S077",
+      "total_items": 42,
+      "printed_numbered_question_count": 41,
+      "additional_unnumbered_items": [
+        "竞争冒险题"
+      ]
+    },
+    {
+      "source_id": "S078",
+      "total_items": 42,
+      "printed_numbered_question_count": 41,
+      "additional_unnumbered_items": [
+        "竞争冒险题"
+      ]
+    }
+  ],
+  "textbook_current_round_scope": {
+    "source_id": "S025",
+    "independent_source_count": 1,
+    "accepted_booklet_count": 3,
+    "chapter_merge_pending": true,
+    "new_exercise_answers": 0
+  },
+  "new_answer_question_increment_round09": {
+    "batches": [
+      {
+        "batch_id": "S002-ch34-322-v9",
+        "original_entries_in_batch": 1,
+        "prior_already_accepted_original_numbers": [],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          322
+        ],
+        "new_answer_questions": 1
+      },
+      {
+        "batch_id": "S001-ch11-fill-judgment-v9",
+        "original_entries_in_batch": 42,
+        "prior_already_accepted_original_numbers": [],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          622,
+          623,
+          624,
+          625,
+          626,
+          627,
+          628,
+          629,
+          630,
+          631,
+          632,
+          633,
+          634,
+          635,
+          636,
+          637,
+          638,
+          639,
+          640,
+          641,
+          642,
+          643,
+          644,
+          645,
+          646,
+          647,
+          648,
+          649,
+          650,
+          651,
+          652,
+          653,
+          654,
+          655,
+          656,
+          657,
+          658,
+          659,
+          660,
+          661,
+          662,
+          663
+        ],
+        "new_answer_questions": 41
+      },
+      {
+        "batch_id": "S002-ch34-complete-282-322-v9",
+        "original_entries_in_batch": 41,
+        "prior_already_accepted_original_numbers": [
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298,
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321
+        ],
+        "same_round_already_accepted_original_numbers": [
+          322
+        ],
+        "new_original_numbers": [],
+        "new_answer_questions": 0
+      },
+      {
+        "batch_id": "S002-ch35-323-324-v9",
+        "original_entries_in_batch": 2,
+        "prior_already_accepted_original_numbers": [],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          323,
+          324
+        ],
+        "new_answer_questions": 2
+      },
+      {
+        "batch_id": "S002-ch35-325-326-v9-metadata-v2",
+        "original_entries_in_batch": 2,
+        "prior_already_accepted_original_numbers": [],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          325,
+          326
+        ],
+        "new_answer_questions": 2
+      },
+      {
+        "batch_id": "S001-ch10-complete-v9",
+        "original_entries_in_batch": 59,
+        "prior_already_accepted_original_numbers": [],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          563,
+          564,
+          565,
+          566,
+          567,
+          568,
+          569,
+          570,
+          571,
+          572,
+          573,
+          574,
+          575,
+          576,
+          577,
+          578,
+          579,
+          580,
+          581,
+          582,
+          583,
+          584,
+          585,
+          586,
+          587,
+          588,
+          589,
+          590,
+          591,
+          592,
+          593,
+          594,
+          595,
+          596,
+          597,
+          598,
+          599,
+          600,
+          601,
+          602,
+          603,
+          604,
+          605,
+          606,
+          607,
+          608,
+          609,
+          610,
+          611,
+          612,
+          613,
+          614,
+          615,
+          616,
+          617,
+          618,
+          619,
+          620,
+          621
+        ],
+        "new_answer_questions": 59
+      }
+    ],
+    "total": 105
+  },
+  "old330_complete_question_audit_round09": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\old330_question_audit_closure\\audit_closure.json",
+  "original_integrity_round09": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\round09_post_production_source_protection.json",
+  "original_entry_increments_round09": {
+    "chapter_source_number_keys": [
+      {
+        "source_id": "S001",
+        "original_number": 563
+      },
+      {
+        "source_id": "S001",
+        "original_number": 564
+      },
+      {
+        "source_id": "S001",
+        "original_number": 565
+      },
+      {
+        "source_id": "S001",
+        "original_number": 566
+      },
+      {
+        "source_id": "S001",
+        "original_number": 567
+      },
+      {
+        "source_id": "S001",
+        "original_number": 568
+      },
+      {
+        "source_id": "S001",
+        "original_number": 569
+      },
+      {
+        "source_id": "S001",
+        "original_number": 570
+      },
+      {
+        "source_id": "S001",
+        "original_number": 571
+      },
+      {
+        "source_id": "S001",
+        "original_number": 572
+      },
+      {
+        "source_id": "S001",
+        "original_number": 573
+      },
+      {
+        "source_id": "S001",
+        "original_number": 574
+      },
+      {
+        "source_id": "S001",
+        "original_number": 575
+      },
+      {
+        "source_id": "S001",
+        "original_number": 576
+      },
+      {
+        "source_id": "S001",
+        "original_number": 577
+      },
+      {
+        "source_id": "S001",
+        "original_number": 578
+      },
+      {
+        "source_id": "S001",
+        "original_number": 579
+      },
+      {
+        "source_id": "S001",
+        "original_number": 580
+      },
+      {
+        "source_id": "S001",
+        "original_number": 581
+      },
+      {
+        "source_id": "S001",
+        "original_number": 582
+      },
+      {
+        "source_id": "S001",
+        "original_number": 583
+      },
+      {
+        "source_id": "S001",
+        "original_number": 584
+      },
+      {
+        "source_id": "S001",
+        "original_number": 585
+      },
+      {
+        "source_id": "S001",
+        "original_number": 586
+      },
+      {
+        "source_id": "S001",
+        "original_number": 587
+      },
+      {
+        "source_id": "S001",
+        "original_number": 588
+      },
+      {
+        "source_id": "S001",
+        "original_number": 589
+      },
+      {
+        "source_id": "S001",
+        "original_number": 590
+      },
+      {
+        "source_id": "S001",
+        "original_number": 591
+      },
+      {
+        "source_id": "S001",
+        "original_number": 592
+      },
+      {
+        "source_id": "S001",
+        "original_number": 593
+      },
+      {
+        "source_id": "S001",
+        "original_number": 594
+      },
+      {
+        "source_id": "S001",
+        "original_number": 595
+      },
+      {
+        "source_id": "S001",
+        "original_number": 596
+      },
+      {
+        "source_id": "S001",
+        "original_number": 597
+      },
+      {
+        "source_id": "S001",
+        "original_number": 598
+      },
+      {
+        "source_id": "S001",
+        "original_number": 599
+      },
+      {
+        "source_id": "S001",
+        "original_number": 600
+      },
+      {
+        "source_id": "S001",
+        "original_number": 601
+      },
+      {
+        "source_id": "S001",
+        "original_number": 602
+      },
+      {
+        "source_id": "S001",
+        "original_number": 603
+      },
+      {
+        "source_id": "S001",
+        "original_number": 604
+      },
+      {
+        "source_id": "S001",
+        "original_number": 605
+      },
+      {
+        "source_id": "S001",
+        "original_number": 606
+      },
+      {
+        "source_id": "S001",
+        "original_number": 607
+      },
+      {
+        "source_id": "S001",
+        "original_number": 608
+      },
+      {
+        "source_id": "S001",
+        "original_number": 609
+      },
+      {
+        "source_id": "S001",
+        "original_number": 610
+      },
+      {
+        "source_id": "S001",
+        "original_number": 611
+      },
+      {
+        "source_id": "S001",
+        "original_number": 612
+      },
+      {
+        "source_id": "S001",
+        "original_number": 613
+      },
+      {
+        "source_id": "S001",
+        "original_number": 614
+      },
+      {
+        "source_id": "S001",
+        "original_number": 615
+      },
+      {
+        "source_id": "S001",
+        "original_number": 616
+      },
+      {
+        "source_id": "S001",
+        "original_number": 617
+      },
+      {
+        "source_id": "S001",
+        "original_number": 618
+      },
+      {
+        "source_id": "S001",
+        "original_number": 619
+      },
+      {
+        "source_id": "S001",
+        "original_number": 620
+      },
+      {
+        "source_id": "S001",
+        "original_number": 621
+      },
+      {
+        "source_id": "S001",
+        "original_number": 622
+      },
+      {
+        "source_id": "S001",
+        "original_number": 623
+      },
+      {
+        "source_id": "S001",
+        "original_number": 624
+      },
+      {
+        "source_id": "S001",
+        "original_number": 625
+      },
+      {
+        "source_id": "S001",
+        "original_number": 626
+      },
+      {
+        "source_id": "S001",
+        "original_number": 627
+      },
+      {
+        "source_id": "S001",
+        "original_number": 628
+      },
+      {
+        "source_id": "S001",
+        "original_number": 629
+      },
+      {
+        "source_id": "S001",
+        "original_number": 630
+      },
+      {
+        "source_id": "S001",
+        "original_number": 631
+      },
+      {
+        "source_id": "S001",
+        "original_number": 632
+      },
+      {
+        "source_id": "S001",
+        "original_number": 633
+      },
+      {
+        "source_id": "S001",
+        "original_number": 634
+      },
+      {
+        "source_id": "S001",
+        "original_number": 635
+      },
+      {
+        "source_id": "S001",
+        "original_number": 636
+      },
+      {
+        "source_id": "S001",
+        "original_number": 637
+      },
+      {
+        "source_id": "S001",
+        "original_number": 638
+      },
+      {
+        "source_id": "S001",
+        "original_number": 639
+      },
+      {
+        "source_id": "S001",
+        "original_number": 640
+      },
+      {
+        "source_id": "S001",
+        "original_number": 641
+      },
+      {
+        "source_id": "S001",
+        "original_number": 642
+      },
+      {
+        "source_id": "S001",
+        "original_number": 643
+      },
+      {
+        "source_id": "S001",
+        "original_number": 644
+      },
+      {
+        "source_id": "S001",
+        "original_number": 645
+      },
+      {
+        "source_id": "S001",
+        "original_number": 646
+      },
+      {
+        "source_id": "S001",
+        "original_number": 647
+      },
+      {
+        "source_id": "S001",
+        "original_number": 648
+      },
+      {
+        "source_id": "S001",
+        "original_number": 649
+      },
+      {
+        "source_id": "S001",
+        "original_number": 650
+      },
+      {
+        "source_id": "S001",
+        "original_number": 651
+      },
+      {
+        "source_id": "S001",
+        "original_number": 652
+      },
+      {
+        "source_id": "S001",
+        "original_number": 653
+      },
+      {
+        "source_id": "S001",
+        "original_number": 654
+      },
+      {
+        "source_id": "S001",
+        "original_number": 655
+      },
+      {
+        "source_id": "S001",
+        "original_number": 656
+      },
+      {
+        "source_id": "S001",
+        "original_number": 657
+      },
+      {
+        "source_id": "S001",
+        "original_number": 658
+      },
+      {
+        "source_id": "S001",
+        "original_number": 659
+      },
+      {
+        "source_id": "S001",
+        "original_number": 660
+      },
+      {
+        "source_id": "S001",
+        "original_number": 661
+      },
+      {
+        "source_id": "S001",
+        "original_number": 662
+      },
+      {
+        "source_id": "S001",
+        "original_number": 663
+      },
+      {
+        "source_id": "S002",
+        "original_number": 322
+      },
+      {
+        "source_id": "S002",
+        "original_number": 323
+      },
+      {
+        "source_id": "S002",
+        "original_number": 324
+      },
+      {
+        "source_id": "S002",
+        "original_number": 325
+      },
+      {
+        "source_id": "S002",
+        "original_number": 326
+      }
+    ],
+    "chapter_entries": 106,
+    "native_source_entries": [
+      {
+        "source_id": "S079",
+        "entries": 41,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\released_native_s079_R01\\normalized_adapter\\S079_acceptance.json",
+          "sha256": "474313c4dda87e33246e47076ddf460f36bb1fece72428717dd5dae30af94482"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v9\\S079_mapping_normalization_R01\\normalized_question_map_41.json",
+          "sha256": "ec8b9b7ee2df4db1533cc59d1d2577a0cbacb2e224bb1de98ef038e21763913b"
+        }
+      }
+    ],
+    "native_entries": 41,
+    "rule": "忠实页账中的源ID/原编号去重并集；部分讲次只加实际编号，不标整章完成"
+  },
+  "native_item_count_details_round09": [
+    {
+      "source_id": "S079",
+      "total_items": 41,
+      "printed_numbered_question_count": null,
+      "additional_unnumbered_items": []
+    }
+  ],
+  "new_answer_question_increment_round10": {
+    "batches": [
+      {
+        "batch_id": "S002-ch35-complete-corrected-323-326-v10",
+        "original_entries_in_batch": 4,
+        "prior_already_accepted_original_numbers": [
+          323,
+          324,
+          325,
+          326
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [],
+        "new_answer_questions": 0,
+        "question_count_basis": "baseline_only_complete_replacement_zero_new_questions"
+      },
+      {
+        "batch_id": "S001-ch11-complete-v10",
+        "original_entries_in_batch": 50,
+        "prior_already_accepted_original_numbers": [
+          622,
+          623,
+          624,
+          625,
+          626,
+          627,
+          628,
+          629,
+          630,
+          631,
+          632,
+          633,
+          634,
+          635,
+          636,
+          637,
+          638,
+          639,
+          640,
+          641,
+          642,
+          643,
+          644,
+          645,
+          646,
+          647,
+          648,
+          649,
+          650,
+          651,
+          652,
+          653,
+          654,
+          655,
+          656,
+          657,
+          658,
+          659,
+          660,
+          661,
+          662,
+          663
+        ],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          664,
+          665,
+          666,
+          667,
+          668,
+          669,
+          670,
+          671
+        ],
+        "new_answer_questions": 8,
+        "question_count_basis": "explicit_acceptance_question_count"
+      },
+      {
+        "batch_id": "S001-ch12-complete-v10",
+        "original_entries_in_batch": 45,
+        "prior_already_accepted_original_numbers": [],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          672,
+          673,
+          674,
+          675,
+          676,
+          677,
+          678,
+          679,
+          680,
+          681,
+          682,
+          683,
+          684,
+          685,
+          686,
+          687,
+          688,
+          689,
+          690,
+          691,
+          692,
+          693,
+          694,
+          695,
+          696,
+          697,
+          698,
+          699,
+          700,
+          701,
+          702,
+          703,
+          704,
+          705,
+          706,
+          707,
+          708,
+          709,
+          710,
+          711,
+          712,
+          713,
+          714,
+          715,
+          716
+        ],
+        "new_answer_questions": 44,
+        "question_count_basis": "explicit_acceptance_question_count"
+      },
+      {
+        "batch_id": "S002-ch36-complete-327-331-v10",
+        "original_entries_in_batch": 5,
+        "prior_already_accepted_original_numbers": [],
+        "same_round_already_accepted_original_numbers": [],
+        "new_original_numbers": [
+          327,
+          328,
+          329,
+          330,
+          331
+        ],
+        "new_answer_questions": 5,
+        "question_count_basis": "frozen_mapping_count_and_bound_figure_problem_solution_data"
+      }
+    ],
+    "total": 57
+  },
+  "old330_banned_reuse_locator_round10": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\old330_banned_reuse_locator\\禁止直接复用_精确定位.json",
+  "original_integrity_round10": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\round10_post_production_source_protection.json",
+  "old330_banned_reuse_precise_locator_round10": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\old330_banned_reuse_locator\\禁止直接复用_精确定位.json",
+  "independent_ch36_calculation_review_round10": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\independent_ch36_calculations\\independent_calculation_R01.json",
+  "root_ch11_independent_review_round10": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\root_ch11_independent_R01.json",
+  "root_production_closure_round10": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\round10_root_production_closure.json",
+  "original_entry_increments_round10": {
+    "chapter_source_number_keys": [
+      {
+        "source_id": "S001",
+        "original_number": 664
+      },
+      {
+        "source_id": "S001",
+        "original_number": 665
+      },
+      {
+        "source_id": "S001",
+        "original_number": 666
+      },
+      {
+        "source_id": "S001",
+        "original_number": 667
+      },
+      {
+        "source_id": "S001",
+        "original_number": 668
+      },
+      {
+        "source_id": "S001",
+        "original_number": 669
+      },
+      {
+        "source_id": "S001",
+        "original_number": 670
+      },
+      {
+        "source_id": "S001",
+        "original_number": 671
+      },
+      {
+        "source_id": "S001",
+        "original_number": 672
+      },
+      {
+        "source_id": "S001",
+        "original_number": 673
+      },
+      {
+        "source_id": "S001",
+        "original_number": 674
+      },
+      {
+        "source_id": "S001",
+        "original_number": 675
+      },
+      {
+        "source_id": "S001",
+        "original_number": 676
+      },
+      {
+        "source_id": "S001",
+        "original_number": 677
+      },
+      {
+        "source_id": "S001",
+        "original_number": 678
+      },
+      {
+        "source_id": "S001",
+        "original_number": 679
+      },
+      {
+        "source_id": "S001",
+        "original_number": 680
+      },
+      {
+        "source_id": "S001",
+        "original_number": 681
+      },
+      {
+        "source_id": "S001",
+        "original_number": 682
+      },
+      {
+        "source_id": "S001",
+        "original_number": 683
+      },
+      {
+        "source_id": "S001",
+        "original_number": 684
+      },
+      {
+        "source_id": "S001",
+        "original_number": 685
+      },
+      {
+        "source_id": "S001",
+        "original_number": 686
+      },
+      {
+        "source_id": "S001",
+        "original_number": 687
+      },
+      {
+        "source_id": "S001",
+        "original_number": 688
+      },
+      {
+        "source_id": "S001",
+        "original_number": 689
+      },
+      {
+        "source_id": "S001",
+        "original_number": 690
+      },
+      {
+        "source_id": "S001",
+        "original_number": 691
+      },
+      {
+        "source_id": "S001",
+        "original_number": 692
+      },
+      {
+        "source_id": "S001",
+        "original_number": 693
+      },
+      {
+        "source_id": "S001",
+        "original_number": 694
+      },
+      {
+        "source_id": "S001",
+        "original_number": 695
+      },
+      {
+        "source_id": "S001",
+        "original_number": 696
+      },
+      {
+        "source_id": "S001",
+        "original_number": 697
+      },
+      {
+        "source_id": "S001",
+        "original_number": 698
+      },
+      {
+        "source_id": "S001",
+        "original_number": 699
+      },
+      {
+        "source_id": "S001",
+        "original_number": 700
+      },
+      {
+        "source_id": "S001",
+        "original_number": 701
+      },
+      {
+        "source_id": "S001",
+        "original_number": 702
+      },
+      {
+        "source_id": "S001",
+        "original_number": 703
+      },
+      {
+        "source_id": "S001",
+        "original_number": 704
+      },
+      {
+        "source_id": "S001",
+        "original_number": 705
+      },
+      {
+        "source_id": "S001",
+        "original_number": 706
+      },
+      {
+        "source_id": "S001",
+        "original_number": 707
+      },
+      {
+        "source_id": "S001",
+        "original_number": 708
+      },
+      {
+        "source_id": "S001",
+        "original_number": 709
+      },
+      {
+        "source_id": "S001",
+        "original_number": 710
+      },
+      {
+        "source_id": "S001",
+        "original_number": 711
+      },
+      {
+        "source_id": "S001",
+        "original_number": 712
+      },
+      {
+        "source_id": "S001",
+        "original_number": 713
+      },
+      {
+        "source_id": "S001",
+        "original_number": 714
+      },
+      {
+        "source_id": "S001",
+        "original_number": 715
+      },
+      {
+        "source_id": "S001",
+        "original_number": 716
+      },
+      {
+        "source_id": "S002",
+        "original_number": 327
+      },
+      {
+        "source_id": "S002",
+        "original_number": 328
+      },
+      {
+        "source_id": "S002",
+        "original_number": 329
+      },
+      {
+        "source_id": "S002",
+        "original_number": 330
+      },
+      {
+        "source_id": "S002",
+        "original_number": 331
+      }
+    ],
+    "chapter_entries": 58,
+    "native_source_entries": [
+      {
+        "source_id": "S016",
+        "entries": 42,
+        "acceptance": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\work\\page_coverage_v10\\released_native_s016_R01\\normalized_acceptance.json",
+          "sha256": "b58b1339c9608d992301a29f444b62635bf1ea7ba99f9b9c4a9cc1d770b617f2"
+        },
+        "question_mapping": {
+          "path": "D:\\02_Projects\\active\\ExamBench\\deliverables\\全量数字化_20260930\\S016_查缺补漏卷1_v10\\R02_图源制作与验收\\源页与题号映射.json",
+          "sha256": "893573ed50473b2ea006e05ce9d98b44841d044eb7e6c2e470da6797b32757f7"
+        }
+      }
+    ],
+    "native_entries": 42,
+    "rule": "忠实页账中的源ID/原编号去重并集；部分讲次只加实际编号，不标整章完成"
+  },
+  "native_item_count_details_round10": [
+    {
+      "source_id": "S016",
+      "total_items": 42,
+      "printed_numbered_question_count": null,
+      "additional_unnumbered_items": []
+    }
+  ]
+}

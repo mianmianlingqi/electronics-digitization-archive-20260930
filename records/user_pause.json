@@ -1,0 +1,75 @@
+{
+  "status": "paused_by_user",
+  "requested_at_utc": "2026-10-01T02:38:21Z",
+  "instruction": "暂停工作",
+  "recorded_at_utc": "2026-10-01T02:40:46.2291445Z",
+  "automatic_continuation_authorized": false,
+  "requires_explicit_user_resume": true,
+  "latest_reliable_round": 10,
+  "checkpoint": {
+    "path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\checkpoint.json",
+    "sha256": "0a8afaee633b8feb715100a1e7d683183a2592bb961240d96f218ec894ae7638"
+  },
+  "final_handoff_path": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\round10_final_handoff.json",
+  "accepted_totals": {
+    "covered_source_pages": 519,
+    "fully_accepted_source_pages": 473,
+    "covered_with_residual_pages": 46,
+    "partially_covered_pages": 0,
+    "accepted_full_sources": 12,
+    "remaining_sources": 73,
+    "current_docx_pdf_pairs": 97,
+    "generated_pdf_pages": 1357,
+    "faithful_generated_pdf_pages": 842,
+    "new_answer_generated_pdf_pages": 515
+  },
+  "resume_cursors": {
+    "S001": {
+      "source_id": "S001",
+      "source_pdf_page": 118,
+      "question": 717
+    },
+    "S002": {
+      "source_id": "S002",
+      "source_pdf_page": 76,
+      "question": 332
+    },
+    "S025": {
+      "source_id": "S025",
+      "source_page": 169
+    },
+    "S080": {
+      "source_id": "S080",
+      "source_page": 24
+    },
+    "S017": {
+      "source_id": "S017",
+      "source_page": 1
+    }
+  },
+  "round11": {
+    "details": "Only read current skills, prior report and checkpoint, and dispatched two tasks; both confirmed no production tools or writes before pause.",
+    "accepted_new_outputs": 0,
+    "production_started": false,
+    "accepted_new_pages": 0
+  },
+  "workers": [
+    {
+      "record": "D:\\02_Projects\\active\\ExamBench\\work\\pause_records\\ch03_figs_calc_20261001T023821Z.json",
+      "name": "ch03_figs_calc",
+      "status": "paused",
+      "active_owned_write_or_export": false
+    },
+    {
+      "record": "D:\\02_Projects\\active\\ExamBench\\work\\全量数字化_20260930\\round11_s002_pause_20261001T023821Z.json",
+      "name": "reuse_audit",
+      "status": "paused",
+      "active_owned_write_or_export": false
+    }
+  ],
+  "other_workers": "Already completed; notified to remain stopped. No additional tasks dispatched.",
+  "root_active_production_tools": 0,
+  "process_enumeration_note": "Read-only Win32_Process enumeration was denied by environment. No escalation or process termination attempted; both activated producers confirmed all their tool sessions ended and no owned writer/export process exists.",
+  "whole_task_complete": false,
+  "rules": "Do not resume automatically; do not rerun initialization; preserve checkpoint and all prior sources/outputs; no round11 partial artifact accepted."
+}

@@ -1,0 +1,3777 @@
+[
+  {
+    "index": 1,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 78
+      },
+      {
+        "source_id": "S025",
+        "source_page": 79
+      },
+      {
+        "source_id": "S025",
+        "source_page": 80
+      }
+    ],
+    "output_pdf_pages": 4,
+    "docx": "current_outputs/忠实数字化稿/001/S025_第2章_01_学习要点与概述_源78-80页_R02.docx",
+    "docx_sha256": "aee00144941b9c59b8c49a95f8116426fe3bb88b52981bbdd5fd9b66872c052e",
+    "pdf": "current_outputs/忠实数字化稿/001/S025_第2章_01_学习要点与概述_源78-80页_R02.pdf",
+    "pdf_sha256": "402f6e5786226d95fa5d9aeac9e18c06f2fe22bc6088b1adf36fcbf7a81bab38"
+  },
+  {
+    "index": 2,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 81
+      },
+      {
+        "source_id": "S025",
+        "source_page": 82
+      },
+      {
+        "source_id": "S025",
+        "source_page": 83
+      },
+      {
+        "source_id": "S025",
+        "source_page": 84
+      },
+      {
+        "source_id": "S025",
+        "source_page": 85
+      },
+      {
+        "source_id": "S025",
+        "source_page": 86
+      },
+      {
+        "source_id": "S025",
+        "source_page": 87
+      },
+      {
+        "source_id": "S025",
+        "source_page": 88
+      },
+      {
+        "source_id": "S025",
+        "source_page": 89
+      },
+      {
+        "source_id": "S025",
+        "source_page": 90
+      },
+      {
+        "source_id": "S025",
+        "source_page": 91
+      }
+    ],
+    "output_pdf_pages": 15,
+    "docx": "current_outputs/忠实数字化稿/002/S025_第2章_02_电阻_源81-91页_R03.docx",
+    "docx_sha256": "dadc0a399182d31e0ebfccf954a86d015b176aec8f2d33ccaaf2b9c479712c94",
+    "pdf": "current_outputs/忠实数字化稿/002/S025_第2章_02_电阻_源81-91页_R03.pdf",
+    "pdf_sha256": "95eb13ff19a6c4210fd2a7a51c25b92db6f4e472a761bdec0a47e79427a7581c"
+  },
+  {
+    "index": 3,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 92
+      },
+      {
+        "source_id": "S025",
+        "source_page": 93
+      },
+      {
+        "source_id": "S025",
+        "source_page": 94
+      }
+    ],
+    "output_pdf_pages": 6,
+    "docx": "current_outputs/忠实数字化稿/003/S025_第2章_03_排阻_源92-94页_R02.docx",
+    "docx_sha256": "b76a3810f95c05dfbee21a438bd5ea490dc0aae1ab4d4ed9c15a31d329af4c57",
+    "pdf": "current_outputs/忠实数字化稿/003/S025_第2章_03_排阻_源92-94页_R02.pdf",
+    "pdf_sha256": "c8fb8ff2d24d1eed1fe1192dcebea8d9496c65e8b730d21851681275acf8a717"
+  },
+  {
+    "index": 4,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 95
+      },
+      {
+        "source_id": "S025",
+        "source_page": 96
+      },
+      {
+        "source_id": "S025",
+        "source_page": 97
+      },
+      {
+        "source_id": "S025",
+        "source_page": 98
+      }
+    ],
+    "output_pdf_pages": 6,
+    "docx": "current_outputs/忠实数字化稿/004/S025_第2章_04_敏感电阻与电位器_源95-98页_R02.docx",
+    "docx_sha256": "8d1971ff97da434bf6c741add23e17afec5beac11409952e0e9e7e749b9c02f1",
+    "pdf": "current_outputs/忠实数字化稿/004/S025_第2章_04_敏感电阻与电位器_源95-98页_R02.pdf",
+    "pdf_sha256": "9595d124f83656c3ab63244aa3dc45f158488b853ea049ebd7a43a55f557e502"
+  },
+  {
+    "index": 5,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 99
+      },
+      {
+        "source_id": "S025",
+        "source_page": 100
+      },
+      {
+        "source_id": "S025",
+        "source_page": 101
+      },
+      {
+        "source_id": "S025",
+        "source_page": 102
+      },
+      {
+        "source_id": "S025",
+        "source_page": 103
+      },
+      {
+        "source_id": "S025",
+        "source_page": 104
+      },
+      {
+        "source_id": "S025",
+        "source_page": 105
+      },
+      {
+        "source_id": "S025",
+        "source_page": 106
+      },
+      {
+        "source_id": "S025",
+        "source_page": 107
+      },
+      {
+        "source_id": "S025",
+        "source_page": 108
+      },
+      {
+        "source_id": "S025",
+        "source_page": 109
+      }
+    ],
+    "output_pdf_pages": 16,
+    "docx": "current_outputs/忠实数字化稿/005/S025_第2章_05_电容器_源99-109页_R04.docx",
+    "docx_sha256": "9302e95e91178f0f9fdec73b49e743e597b9fd4220c1607699b39568f499dc97",
+    "pdf": "current_outputs/忠实数字化稿/005/S025_第2章_05_电容器_源99-109页_R04.pdf",
+    "pdf_sha256": "cc4a6812175e9cc22a542387bb478c3b65653fdedd1cf9f1d161290a91c196bd"
+  },
+  {
+    "index": 6,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 110
+      },
+      {
+        "source_id": "S025",
+        "source_page": 111
+      },
+      {
+        "source_id": "S025",
+        "source_page": 112
+      },
+      {
+        "source_id": "S025",
+        "source_page": 113
+      }
+    ],
+    "output_pdf_pages": 5,
+    "docx": "current_outputs/忠实数字化稿/006/S025_第2章_06_电感器_源110-113页_R02.docx",
+    "docx_sha256": "c56f621a5ffe3ab3883eb820a96849943343b30344b0557714d1f0b9325dc9fc",
+    "pdf": "current_outputs/忠实数字化稿/006/S025_第2章_06_电感器_源110-113页_R02.pdf",
+    "pdf_sha256": "682a445a590b289f7aef57f853377fdb7180ac0a2c4d91624a445e2445500efa"
+  },
+  {
+    "index": 7,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 114
+      },
+      {
+        "source_id": "S025",
+        "source_page": 115
+      },
+      {
+        "source_id": "S025",
+        "source_page": 116
+      },
+      {
+        "source_id": "S025",
+        "source_page": 117
+      },
+      {
+        "source_id": "S025",
+        "source_page": 118
+      },
+      {
+        "source_id": "S025",
+        "source_page": 119
+      }
+    ],
+    "output_pdf_pages": 8,
+    "docx": "current_outputs/忠实数字化稿/007/S025_第2章_07_半导体二极管_源114-119页_R04.docx",
+    "docx_sha256": "5e2b492b86b24549485516f0ef522e33687972505d2b3e28d23db1097fdf105c",
+    "pdf": "current_outputs/忠实数字化稿/007/S025_第2章_07_半导体二极管_源114-119页_R04.pdf",
+    "pdf_sha256": "f41b6e37215a17ede2c26989fb3187fcbc66ccf2e5fe14de29040d1cbf15e9a3"
+  },
+  {
+    "index": 8,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 120
+      },
+      {
+        "source_id": "S025",
+        "source_page": 121
+      },
+      {
+        "source_id": "S025",
+        "source_page": 122
+      }
+    ],
+    "output_pdf_pages": 4,
+    "docx": "current_outputs/忠实数字化稿/008/S025_第2章_08_发光二极管_源120-122页_R05.docx",
+    "docx_sha256": "13272b1abd1894ecbcbdac751251ff68ad7f1f23031ffa577d28f6da1c44f7b1",
+    "pdf": "current_outputs/忠实数字化稿/008/S025_第2章_08_发光二极管_源120-122页_R05.pdf",
+    "pdf_sha256": "1ca291f95810ca2c918a86a0e452c1232353c3208956546df61e5c0b9bd5a311"
+  },
+  {
+    "index": 9,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 123
+      },
+      {
+        "source_id": "S025",
+        "source_page": 124
+      },
+      {
+        "source_id": "S025",
+        "source_page": 125
+      }
+    ],
+    "output_pdf_pages": 5,
+    "docx": "current_outputs/忠实数字化稿/009/S025_第2章_09_三极管_源123-125页_R03.docx",
+    "docx_sha256": "89b7f477504f275844f8bc6667b9869e5e69eee1e97a9dcaa24b3454992deeac",
+    "pdf": "current_outputs/忠实数字化稿/009/S025_第2章_09_三极管_源123-125页_R03.pdf",
+    "pdf_sha256": "d34bbf5c6c58a838f95ebe61da9d8f72ba29199db9aa8534ce5bafe2c5b80d91"
+  },
+  {
+    "index": 10,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 126
+      },
+      {
+        "source_id": "S025",
+        "source_page": 127
+      },
+      {
+        "source_id": "S025",
+        "source_page": 128
+      },
+      {
+        "source_id": "S025",
+        "source_page": 129
+      },
+      {
+        "source_id": "S025",
+        "source_page": 130
+      },
+      {
+        "source_id": "S025",
+        "source_page": 131
+      },
+      {
+        "source_id": "S025",
+        "source_page": 132
+      }
+    ],
+    "output_pdf_pages": 9,
+    "docx": "current_outputs/忠实数字化稿/010/S025_第2章_10_集成芯片基础_源126-132页_R03.docx",
+    "docx_sha256": "61950a8eccb74541c9800a5ffaf09e9131e7b16eb298d00a5fb957bb99fefa5a",
+    "pdf": "current_outputs/忠实数字化稿/010/S025_第2章_10_集成芯片基础_源126-132页_R03.pdf",
+    "pdf_sha256": "f82b9150bef4aac56c7859aa573ab83b2dabc56bb9e9475aea5380bf724199fa"
+  },
+  {
+    "index": 11,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 133
+      },
+      {
+        "source_id": "S025",
+        "source_page": 134
+      },
+      {
+        "source_id": "S025",
+        "source_page": 135
+      },
+      {
+        "source_id": "S025",
+        "source_page": 136
+      },
+      {
+        "source_id": "S025",
+        "source_page": 137
+      },
+      {
+        "source_id": "S025",
+        "source_page": 138
+      },
+      {
+        "source_id": "S025",
+        "source_page": 139
+      }
+    ],
+    "output_pdf_pages": 11,
+    "docx": "current_outputs/忠实数字化稿/011/S025_第2章_11_555定时器_源133-139上部_R04.docx",
+    "docx_sha256": "7528bce6c3a1143889f59ab862043d5f205a08e530b3f64868222e8ec121a304",
+    "pdf": "current_outputs/忠实数字化稿/011/S025_第2章_11_555定时器_源133-139上部_R04.pdf",
+    "pdf_sha256": "9d242dafc3e9bea97804cb329db827d535d273c41b03b2bf3af563bb044f0b29"
+  },
+  {
+    "index": 12,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 139
+      },
+      {
+        "source_id": "S025",
+        "source_page": 140
+      },
+      {
+        "source_id": "S025",
+        "source_page": 141
+      }
+    ],
+    "output_pdf_pages": 4,
+    "docx": "current_outputs/忠实数字化稿/012/S025_第2章_12_接插件_源139下部-141页_R04.docx",
+    "docx_sha256": "255b74c45475a6bd909e7593b104aa3d17099d52f9a854395665a795afa9028b",
+    "pdf": "current_outputs/忠实数字化稿/012/S025_第2章_12_接插件_源139下部-141页_R04.pdf",
+    "pdf_sha256": "323ff1a3ea99d0ac92eff1fd174cd528672eaf24dd747b27968dded2f5e5ef87"
+  },
+  {
+    "index": 13,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 142
+      },
+      {
+        "source_id": "S025",
+        "source_page": 143
+      },
+      {
+        "source_id": "S025",
+        "source_page": 144
+      }
+    ],
+    "output_pdf_pages": 10,
+    "docx": "current_outputs/忠实数字化稿/013/S025_第2章_13_开关与继电器_源142-144页_R03.docx",
+    "docx_sha256": "450b9f0102daac5c1436e74d0f5e7af3dc4c429fcf237da60e108f63ceb7a5a0",
+    "pdf": "current_outputs/忠实数字化稿/013/S025_第2章_13_开关与继电器_源142-144页_R03.pdf",
+    "pdf_sha256": "f1b5d195f50b1679ebe8ec2f3843b9311cd61ae21276d8371488d00db9b04185"
+  },
+  {
+    "index": 14,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 145
+      },
+      {
+        "source_id": "S025",
+        "source_page": 146
+      }
+    ],
+    "output_pdf_pages": 3,
+    "docx": "current_outputs/忠实数字化稿/014/S025_第2章_14_保险丝与晶振_源145-146页_R02.docx",
+    "docx_sha256": "bb94a5cf68c6fd33751f05576b30145082cef783e46df0a6dfc247f58cf2a111",
+    "pdf": "current_outputs/忠实数字化稿/014/S025_第2章_14_保险丝与晶振_源145-146页_R02.pdf",
+    "pdf_sha256": "bf00e43ba062c9807ac19bd9b8e134c8bc29aae227cb4eb604b24572e5f19344"
+  },
+  {
+    "index": 15,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 147
+      },
+      {
+        "source_id": "S025",
+        "source_page": 148
+      },
+      {
+        "source_id": "S025",
+        "source_page": 149
+      },
+      {
+        "source_id": "S025",
+        "source_page": 150
+      },
+      {
+        "source_id": "S025",
+        "source_page": 151
+      },
+      {
+        "source_id": "S025",
+        "source_page": 152
+      },
+      {
+        "source_id": "S025",
+        "source_page": 153
+      },
+      {
+        "source_id": "S025",
+        "source_page": 154
+      }
+    ],
+    "output_pdf_pages": 9,
+    "docx": "current_outputs/忠实数字化稿/015/S025_第2章_15_第2章练习_源147-154页_R03.docx",
+    "docx_sha256": "f7ab6d5efa69361cf1d21e6eec2e764c05f474f85bf7d103784b636103cf3de6",
+    "pdf": "current_outputs/忠实数字化稿/015/S025_第2章_15_第2章练习_源147-154页_R03.pdf",
+    "pdf_sha256": "333dcd28b3665309a31bf8b7c356f41c3bb2e2e7984a3eb6fee7366f2b809432"
+  },
+  {
+    "index": 16,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 155
+      },
+      {
+        "source_id": "S025",
+        "source_page": 156
+      },
+      {
+        "source_id": "S025",
+        "source_page": 157
+      },
+      {
+        "source_id": "S025",
+        "source_page": 158
+      },
+      {
+        "source_id": "S025",
+        "source_page": 159
+      }
+    ],
+    "output_pdf_pages": 8,
+    "docx": "current_outputs/忠实数字化稿/016/S025_第3章_01_常用焊接工具_源155-159上页_R02.docx",
+    "docx_sha256": "22265a0a57cd675ac21df1f23be915cd781d894e5f3c8d40a4b0956f9e56fb40",
+    "pdf": "current_outputs/忠实数字化稿/016/S025_第3章_01_常用焊接工具_源155-159上页_R02.pdf",
+    "pdf_sha256": "0416e0b2d3ea94c5be5b01b86bfaf9525b3e5ba65e946cc9ccfe82d614c1d192"
+  },
+  {
+    "index": 17,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 159
+      },
+      {
+        "source_id": "S025",
+        "source_page": 160
+      },
+      {
+        "source_id": "S025",
+        "source_page": 161
+      }
+    ],
+    "output_pdf_pages": 4,
+    "docx": "current_outputs/忠实数字化稿/017/S025_第3章_02_焊接操作的基本步骤_源159下-161上页_R02.docx",
+    "docx_sha256": "bd53bb8b2ad12a0ed52467b6df6811e8eb89a9ab1dce409240974515838e551a",
+    "pdf": "current_outputs/忠实数字化稿/017/S025_第3章_02_焊接操作的基本步骤_源159下-161上页_R02.pdf",
+    "pdf_sha256": "01215bc0f3e076ab6168f8ed6c05a7d692d3914744ce1f1f53f7891427e92026"
+  },
+  {
+    "index": 18,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 161
+      },
+      {
+        "source_id": "S025",
+        "source_page": 162
+      }
+    ],
+    "output_pdf_pages": 3,
+    "docx": "current_outputs/忠实数字化稿/018/S025_第3章_03_焊点工艺要求_源161下-162上页_R03.docx",
+    "docx_sha256": "4a75bf61e351f30ff4e042c2ed9c71c525ac57b8f8ce64c9f64db51d32e9b42e",
+    "pdf": "current_outputs/忠实数字化稿/018/S025_第3章_03_焊点工艺要求_源161下-162上页_R03.pdf",
+    "pdf_sha256": "42e2aba3a4d8652e848ccfa2304649c3bbd35f2a79314ec2cf26c8be4306726f"
+  },
+  {
+    "index": 19,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 162
+      },
+      {
+        "source_id": "S025",
+        "source_page": 163
+      },
+      {
+        "source_id": "S025",
+        "source_page": 164
+      }
+    ],
+    "output_pdf_pages": 4,
+    "docx": "current_outputs/忠实数字化稿/019/S025_第3章_04_拆焊与电路安装_源162下-164页_R01.docx",
+    "docx_sha256": "38396b59dc8c859f453ffc1ff757ddbf53b8468589e89118993b5a13b3855752",
+    "pdf": "current_outputs/忠实数字化稿/019/S025_第3章_04_拆焊与电路安装_源162下-164页_R01.pdf",
+    "pdf_sha256": "3552b20429cae502691a14e0f75c138c3b7cd2083a2558a7c7bb6f563c78c0ae"
+  },
+  {
+    "index": 20,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 165
+      },
+      {
+        "source_id": "S025",
+        "source_page": 166
+      },
+      {
+        "source_id": "S025",
+        "source_page": 167
+      },
+      {
+        "source_id": "S025",
+        "source_page": 168
+      }
+    ],
+    "output_pdf_pages": 4,
+    "docx": "current_outputs/忠实数字化稿/020/S025_第3章_05_第3章练习_源165-168页_R01.docx",
+    "docx_sha256": "901643458096300a88af83fba9b4c8cd74a44f20dc76d7ff25044428fe40a3d9",
+    "pdf": "current_outputs/忠实数字化稿/020/S025_第3章_05_第3章练习_源165-168页_R01.pdf",
+    "pdf_sha256": "35211282c23de34368fed905c8b319db74695dc3dfd8e40476ef104003e4c0e9"
+  },
+  {
+    "index": 21,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S005",
+        "source_page": 1
+      },
+      {
+        "source_id": "S005",
+        "source_page": 2
+      },
+      {
+        "source_id": "S005",
+        "source_page": 3
+      },
+      {
+        "source_id": "S005",
+        "source_page": 4
+      },
+      {
+        "source_id": "S005",
+        "source_page": 5
+      },
+      {
+        "source_id": "S005",
+        "source_page": 6
+      }
+    ],
+    "output_pdf_pages": 10,
+    "docx": "current_outputs/忠实数字化稿/021/模拟电路_完整忠实无答案数字化稿.docx",
+    "docx_sha256": "99d421cd5e8cd7f6a5d3216df890055d2e857f5c3024c87a71f8194ef5b6cf68",
+    "pdf": "current_outputs/忠实数字化稿/021/模拟电路_完整忠实无答案数字化稿.pdf",
+    "pdf_sha256": "254641dce21f1f72c5f6b06bddf040becf54dee9e2b603feebc87fdbb92f7da2"
+  },
+  {
+    "index": 22,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S016",
+        "source_page": 1
+      },
+      {
+        "source_id": "S016",
+        "source_page": 2
+      },
+      {
+        "source_id": "S016",
+        "source_page": 3
+      },
+      {
+        "source_id": "S016",
+        "source_page": 4
+      },
+      {
+        "source_id": "S016",
+        "source_page": 5
+      },
+      {
+        "source_id": "S016",
+        "source_page": 6
+      },
+      {
+        "source_id": "S016",
+        "source_page": 7
+      },
+      {
+        "source_id": "S016",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 15,
+    "docx": "current_outputs/忠实数字化稿/022/查缺补漏卷1_忠实数字化_R02.docx",
+    "docx_sha256": "063930b75553fceec01bcf474c93a34ab88cfa9f070e0725dec1308ebcae72b7",
+    "pdf": "current_outputs/忠实数字化稿/022/查缺补漏卷1_忠实数字化_R02.pdf",
+    "pdf_sha256": "1f23999022f54df1835b086a20722c9f499a859de3c003eb5e53b2bcaf43bdd5"
+  },
+  {
+    "index": 23,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 1
+      },
+      {
+        "source_id": "S025",
+        "source_page": 2
+      },
+      {
+        "source_id": "S025",
+        "source_page": 3
+      },
+      {
+        "source_id": "S025",
+        "source_page": 4
+      },
+      {
+        "source_id": "S025",
+        "source_page": 5
+      },
+      {
+        "source_id": "S025",
+        "source_page": 6
+      },
+      {
+        "source_id": "S025",
+        "source_page": 7
+      },
+      {
+        "source_id": "S025",
+        "source_page": 8
+      },
+      {
+        "source_id": "S025",
+        "source_page": 9
+      },
+      {
+        "source_id": "S025",
+        "source_page": 10
+      },
+      {
+        "source_id": "S025",
+        "source_page": 11
+      },
+      {
+        "source_id": "S025",
+        "source_page": 12
+      },
+      {
+        "source_id": "S025",
+        "source_page": 13
+      },
+      {
+        "source_id": "S025",
+        "source_page": 14
+      },
+      {
+        "source_id": "S025",
+        "source_page": 15
+      },
+      {
+        "source_id": "S025",
+        "source_page": 16
+      },
+      {
+        "source_id": "S025",
+        "source_page": 17
+      },
+      {
+        "source_id": "S025",
+        "source_page": 18
+      },
+      {
+        "source_id": "S025",
+        "source_page": 19
+      }
+    ],
+    "output_pdf_pages": 19,
+    "docx": "current_outputs/忠实数字化稿/023/S025_实操教材_前言目录与绪论_忠实数字化_校对版.docx",
+    "docx_sha256": "a335adffa419c46f0c33ec0cd14b312d7fff810fd6f2bc8a98bb194e2d5e6d11",
+    "pdf": "current_outputs/忠实数字化稿/023/S025_实操教材_前言目录与绪论_忠实数字化_校对版.pdf",
+    "pdf_sha256": "141228c69097b4495f867729cd2defe7c89a477300857025ca6136fc6b1cc2ee"
+  },
+  {
+    "index": 24,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 20
+      },
+      {
+        "source_id": "S025",
+        "source_page": 21
+      },
+      {
+        "source_id": "S025",
+        "source_page": 22
+      },
+      {
+        "source_id": "S025",
+        "source_page": 23
+      },
+      {
+        "source_id": "S025",
+        "source_page": 24
+      },
+      {
+        "source_id": "S025",
+        "source_page": 25
+      },
+      {
+        "source_id": "S025",
+        "source_page": 26
+      },
+      {
+        "source_id": "S025",
+        "source_page": 27
+      },
+      {
+        "source_id": "S025",
+        "source_page": 28
+      },
+      {
+        "source_id": "S025",
+        "source_page": 29
+      },
+      {
+        "source_id": "S025",
+        "source_page": 30
+      },
+      {
+        "source_id": "S025",
+        "source_page": 31
+      },
+      {
+        "source_id": "S025",
+        "source_page": 32
+      }
+    ],
+    "output_pdf_pages": 14,
+    "docx": "current_outputs/忠实数字化稿/024/S025_第1章_01_万用表与台式万用表_源20-32页.docx",
+    "docx_sha256": "047c192c5c8a139bc5ca124b29b2f6924427f673d50b54c25fe41e70d03f3769",
+    "pdf": "current_outputs/忠实数字化稿/024/S025_第1章_01_万用表与台式万用表_源20-32页.pdf",
+    "pdf_sha256": "df44e26002d5ca2fcd17e8ef513d3063efd30c6a1e949b0030a96d227b8fc010"
+  },
+  {
+    "index": 25,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 33
+      },
+      {
+        "source_id": "S025",
+        "source_page": 34
+      },
+      {
+        "source_id": "S025",
+        "source_page": 35
+      },
+      {
+        "source_id": "S025",
+        "source_page": 36
+      },
+      {
+        "source_id": "S025",
+        "source_page": 37
+      },
+      {
+        "source_id": "S025",
+        "source_page": 38
+      },
+      {
+        "source_id": "S025",
+        "source_page": 39
+      },
+      {
+        "source_id": "S025",
+        "source_page": 40
+      },
+      {
+        "source_id": "S025",
+        "source_page": 41
+      }
+    ],
+    "output_pdf_pages": 10,
+    "docx": "current_outputs/忠实数字化稿/025/S025_第1章_02_直流稳压电源_源33-41页.docx",
+    "docx_sha256": "0ed2ef60422d42a881bbcb184a1238677e7bc8a4999e3b0a6fc565fafaa17847",
+    "pdf": "current_outputs/忠实数字化稿/025/S025_第1章_02_直流稳压电源_源33-41页.pdf",
+    "pdf_sha256": "e9fe7f0769c76fb5c4ea99e40a4b028a023aecd5fe21989a71e562d0a7b3fd3d"
+  },
+  {
+    "index": 26,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 50
+      },
+      {
+        "source_id": "S025",
+        "source_page": 51
+      },
+      {
+        "source_id": "S025",
+        "source_page": 52
+      },
+      {
+        "source_id": "S025",
+        "source_page": 53
+      },
+      {
+        "source_id": "S025",
+        "source_page": 54
+      },
+      {
+        "source_id": "S025",
+        "source_page": 55
+      },
+      {
+        "source_id": "S025",
+        "source_page": 56
+      }
+    ],
+    "output_pdf_pages": 11,
+    "docx": "current_outputs/忠实数字化稿/026/S025_第1章_04_示波器基本使用与水平控制_源50-56页上部_R02.docx",
+    "docx_sha256": "06df70a0d345a53c4e5cdba0790ec0630d8990c0af921847f52476c34077a573",
+    "pdf": "current_outputs/忠实数字化稿/026/S025_第1章_04_示波器基本使用与水平控制_源50-56页上部_R02.pdf",
+    "pdf_sha256": "4c829f10df3427e59b6e6932ce4b70a042c7b847a82997d0f90a874b138a1660"
+  },
+  {
+    "index": 27,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 56
+      },
+      {
+        "source_id": "S025",
+        "source_page": 57
+      },
+      {
+        "source_id": "S025",
+        "source_page": 58
+      },
+      {
+        "source_id": "S025",
+        "source_page": 59
+      }
+    ],
+    "output_pdf_pages": 6,
+    "docx": "current_outputs/忠实数字化稿/027/S025_第1章_05_示波器垂直控制_源56页下部-59页上部.docx",
+    "docx_sha256": "73c47a3689d4d02624f594d163cd47632df18e147be7d71f78ceffd1927e99df",
+    "pdf": "current_outputs/忠实数字化稿/027/S025_第1章_05_示波器垂直控制_源56页下部-59页上部.pdf",
+    "pdf_sha256": "0476f1092b6d3cb0aa748d4300e4bc61c31d8a58557eff2ea4ba1d06f953a1a8"
+  },
+  {
+    "index": 28,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 42
+      },
+      {
+        "source_id": "S025",
+        "source_page": 43
+      },
+      {
+        "source_id": "S025",
+        "source_page": 44
+      },
+      {
+        "source_id": "S025",
+        "source_page": 45
+      },
+      {
+        "source_id": "S025",
+        "source_page": 46
+      },
+      {
+        "source_id": "S025",
+        "source_page": 47
+      },
+      {
+        "source_id": "S025",
+        "source_page": 48
+      },
+      {
+        "source_id": "S025",
+        "source_page": 49
+      }
+    ],
+    "output_pdf_pages": 10,
+    "docx": "current_outputs/忠实数字化稿/028/S025_第1章_03_函数信号发生器_源42-49页_R05.docx",
+    "docx_sha256": "186fd8a53f96d8746a6ae56bb2b95a1a03a3370d7a67910928c4e35a9adeded7",
+    "pdf": "current_outputs/忠实数字化稿/028/S025_第1章_03_函数信号发生器_源42-49页_R05.pdf",
+    "pdf_sha256": "70f29ed192e85bbef30dc5355ae8bb4aef7fab31b34941152035a73bd7a8b181"
+  },
+  {
+    "index": 29,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 59
+      },
+      {
+        "source_id": "S025",
+        "source_page": 60
+      },
+      {
+        "source_id": "S025",
+        "source_page": 61
+      },
+      {
+        "source_id": "S025",
+        "source_page": 62
+      }
+    ],
+    "output_pdf_pages": 5,
+    "docx": "current_outputs/忠实数字化稿/029/S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02.docx",
+    "docx_sha256": "b05602975562505ca819a9aa734e7a11bd9091c18db0ce0f69010a0de9ae4c30",
+    "pdf": "current_outputs/忠实数字化稿/029/S025_第1章_06_示波器触发控制_源59页下部-62页上部_R02.pdf",
+    "pdf_sha256": "236517cc22c3dac7b2ba09f23875727585e876338322a8285c95024b7092f85b"
+  },
+  {
+    "index": 30,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 62
+      },
+      {
+        "source_id": "S025",
+        "source_page": 63
+      }
+    ],
+    "output_pdf_pages": 3,
+    "docx": "current_outputs/忠实数字化稿/030/S025_第1章_07_示波器外部自检_源62页下部-63页上部_R03.docx",
+    "docx_sha256": "02150e83448bdc84b8d72ef709df6dab50e51cea095991a061f072cadda3fdd1",
+    "pdf": "current_outputs/忠实数字化稿/030/S025_第1章_07_示波器外部自检_源62页下部-63页上部_R03.pdf",
+    "pdf_sha256": "d181036195efd5720f951b18de3f8c62ab45214729d4fced363d8e677c8cab5a"
+  },
+  {
+    "index": 31,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 63
+      },
+      {
+        "source_id": "S025",
+        "source_page": 64
+      },
+      {
+        "source_id": "S025",
+        "source_page": 65
+      },
+      {
+        "source_id": "S025",
+        "source_page": 66
+      },
+      {
+        "source_id": "S025",
+        "source_page": 67
+      }
+    ],
+    "output_pdf_pages": 9,
+    "docx": "current_outputs/忠实数字化稿/031/S025_第1章_08_用示波器测量信号_源63页下部-67页_R04.docx",
+    "docx_sha256": "11d48cfcef55e01a720d42c0cfc8cb5d0de12f5056ecb11a4dab8e4a32c45507",
+    "pdf": "current_outputs/忠实数字化稿/031/S025_第1章_08_用示波器测量信号_源63页下部-67页_R04.pdf",
+    "pdf_sha256": "e3ed8bf3527447fae4f2a3108ec02adfda04b61a4046882cdeacb1db7b9fe5ca"
+  },
+  {
+    "index": 32,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 68
+      },
+      {
+        "source_id": "S025",
+        "source_page": 69
+      },
+      {
+        "source_id": "S025",
+        "source_page": 70
+      },
+      {
+        "source_id": "S025",
+        "source_page": 71
+      }
+    ],
+    "output_pdf_pages": 5,
+    "docx": "current_outputs/忠实数字化稿/032/S025_第1章_09_示波器技能实训_源68-71页_R01.docx",
+    "docx_sha256": "05c6e54912c63ddf20740d042768b30e63c41d48e60662298f682427b9f2184a",
+    "pdf": "current_outputs/忠实数字化稿/032/S025_第1章_09_示波器技能实训_源68-71页_R01.pdf",
+    "pdf_sha256": "71e41b65c77f70ab1e4b6d28deea4731d5063722abbed704e97af5a669a40f19"
+  },
+  {
+    "index": 33,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S025",
+        "source_page": 72
+      },
+      {
+        "source_id": "S025",
+        "source_page": 73
+      },
+      {
+        "source_id": "S025",
+        "source_page": 74
+      },
+      {
+        "source_id": "S025",
+        "source_page": 75
+      },
+      {
+        "source_id": "S025",
+        "source_page": 76
+      },
+      {
+        "source_id": "S025",
+        "source_page": 77
+      }
+    ],
+    "output_pdf_pages": 9,
+    "docx": "current_outputs/忠实数字化稿/033/S025_第1章_10_第1章练习_源72-77页_R02.docx",
+    "docx_sha256": "eca51bb2f6c02bec1b7a654e21d2f0d6af6fc6bb6417efff180f41e75bbed2e2",
+    "pdf": "current_outputs/忠实数字化稿/033/S025_第1章_10_第1章练习_源72-77页_R02.pdf",
+    "pdf_sha256": "95fd645fd3f26d83d2440499c0a535f21ab3eb23dd3fbd29f25d08335b773086"
+  },
+  {
+    "index": 34,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S059",
+        "source_page": 1
+      },
+      {
+        "source_id": "S059",
+        "source_page": 2
+      },
+      {
+        "source_id": "S059",
+        "source_page": 3
+      },
+      {
+        "source_id": "S059",
+        "source_page": 4
+      },
+      {
+        "source_id": "S059",
+        "source_page": 5
+      },
+      {
+        "source_id": "S059",
+        "source_page": 6
+      },
+      {
+        "source_id": "S059",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 9,
+    "docx": "current_outputs/忠实数字化稿/034/S059_试卷一_v4_忠实数字化.docx",
+    "docx_sha256": "99dfd061e17937e0f1080ab1e077209cb84782c8a18f3861d888490ff2bb8e3f",
+    "pdf": "current_outputs/忠实数字化稿/034/S059_试卷一_v4_忠实数字化_定稿.pdf",
+    "pdf_sha256": "a2132dcf0355b5c3e0b9bd9611fd66a48089950c3d0034425ea0b7f8e811eec6"
+  },
+  {
+    "index": 35,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S060",
+        "source_page": 1
+      },
+      {
+        "source_id": "S060",
+        "source_page": 2
+      },
+      {
+        "source_id": "S060",
+        "source_page": 3
+      },
+      {
+        "source_id": "S060",
+        "source_page": 4
+      },
+      {
+        "source_id": "S060",
+        "source_page": 5
+      },
+      {
+        "source_id": "S060",
+        "source_page": 6
+      },
+      {
+        "source_id": "S060",
+        "source_page": 7
+      },
+      {
+        "source_id": "S060",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 11,
+    "docx": "current_outputs/忠实数字化稿/035/S060_试卷一答案版_v4_忠实数字化.docx",
+    "docx_sha256": "79e7b773c331748aa3f8c5402cee7f136f4fc9a3adfa61f754e030c2c0a788c9",
+    "pdf": "current_outputs/忠实数字化稿/035/S060_试卷一答案版_v4_忠实数字化_定稿.pdf",
+    "pdf_sha256": "753dcbed77da05b47b220ad17befecc70a784f3e656c8dda53e438748aa542ac"
+  },
+  {
+    "index": 36,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S061",
+        "source_page": 1
+      },
+      {
+        "source_id": "S061",
+        "source_page": 2
+      },
+      {
+        "source_id": "S061",
+        "source_page": 3
+      },
+      {
+        "source_id": "S061",
+        "source_page": 4
+      },
+      {
+        "source_id": "S061",
+        "source_page": 5
+      },
+      {
+        "source_id": "S061",
+        "source_page": 6
+      }
+    ],
+    "output_pdf_pages": 9,
+    "docx": "current_outputs/忠实数字化稿/036/S061_试卷七_v5_忠实数字化.docx",
+    "docx_sha256": "b90411acc1a133a10731a9770cd4b1337cadff26e5773c38aaf87e56fb73297c",
+    "pdf": "current_outputs/忠实数字化稿/036/S061_试卷七_v5_忠实数字化.pdf",
+    "pdf_sha256": "2ef03e1e11ebe59878218e37320017fa9c970bd8ac552b3866c833e6a3abdb6d"
+  },
+  {
+    "index": 37,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S062",
+        "source_page": 1
+      },
+      {
+        "source_id": "S062",
+        "source_page": 2
+      },
+      {
+        "source_id": "S062",
+        "source_page": 3
+      },
+      {
+        "source_id": "S062",
+        "source_page": 4
+      },
+      {
+        "source_id": "S062",
+        "source_page": 5
+      },
+      {
+        "source_id": "S062",
+        "source_page": 6
+      },
+      {
+        "source_id": "S062",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 11,
+    "docx": "current_outputs/忠实数字化稿/037/S062_试卷七答案版_v5_忠实数字化_R02.docx",
+    "docx_sha256": "83de4827c81ee8d92fa6ff5f49b9ed123a1667a68a934957d39c05ac046f2c1a",
+    "pdf": "current_outputs/忠实数字化稿/037/S062_试卷七答案版_v5_忠实数字化_R02.pdf",
+    "pdf_sha256": "4c0d507d1bfec5e4eef852bb3c76a3e1bf7fbdabb2dbce8e2927efba256bdbdf"
+  },
+  {
+    "index": 38,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S063",
+        "source_page": 1
+      },
+      {
+        "source_id": "S063",
+        "source_page": 2
+      },
+      {
+        "source_id": "S063",
+        "source_page": 3
+      },
+      {
+        "source_id": "S063",
+        "source_page": 4
+      },
+      {
+        "source_id": "S063",
+        "source_page": 5
+      },
+      {
+        "source_id": "S063",
+        "source_page": 6
+      },
+      {
+        "source_id": "S063",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 9,
+    "docx": "current_outputs/忠实数字化稿/038/S063_试卷三_v5_忠实数字化.docx",
+    "docx_sha256": "d89ec76e53c34945530ddc016df67eebf21a237cb7c23ef516376ae0a3c1513e",
+    "pdf": "current_outputs/忠实数字化稿/038/S063_试卷三_v5_忠实数字化.pdf",
+    "pdf_sha256": "8804c14167265685141156619e090e2f481b4d0766a8dd375fc540d0f25f8dbf"
+  },
+  {
+    "index": 39,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S064",
+        "source_page": 1
+      },
+      {
+        "source_id": "S064",
+        "source_page": 2
+      },
+      {
+        "source_id": "S064",
+        "source_page": 3
+      },
+      {
+        "source_id": "S064",
+        "source_page": 4
+      },
+      {
+        "source_id": "S064",
+        "source_page": 5
+      },
+      {
+        "source_id": "S064",
+        "source_page": 6
+      },
+      {
+        "source_id": "S064",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 12,
+    "docx": "current_outputs/忠实数字化稿/039/S064_试卷三答案版_v5_忠实数字化_R02.docx",
+    "docx_sha256": "acdae79ce678c2d611fc7cb19a12ff5a301e57111277e8cd57c77f5b7335c2d1",
+    "pdf": "current_outputs/忠实数字化稿/039/S064_试卷三答案版_v5_忠实数字化_R02.pdf",
+    "pdf_sha256": "0dac1158251837f42943f24526e3d76bcb3857b993ab8aa93f07d4fab5777dfe"
+  },
+  {
+    "index": 40,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S065",
+        "source_page": 1
+      },
+      {
+        "source_id": "S065",
+        "source_page": 2
+      },
+      {
+        "source_id": "S065",
+        "source_page": 3
+      },
+      {
+        "source_id": "S065",
+        "source_page": 4
+      },
+      {
+        "source_id": "S065",
+        "source_page": 5
+      },
+      {
+        "source_id": "S065",
+        "source_page": 6
+      },
+      {
+        "source_id": "S065",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 8,
+    "docx": "current_outputs/忠实数字化稿/040/S065_试卷九_忠实数字化.docx",
+    "docx_sha256": "cbe006e79a3c55e81763ea9b557724b74da3605359949dcf5f406de99b9fd57c",
+    "pdf": "current_outputs/忠实数字化稿/040/S065_试卷九_忠实数字化.pdf",
+    "pdf_sha256": "8ba07fd526a3c1c68a9454c046ab6109dd53d34aac0babbea946a086afa897e6"
+  },
+  {
+    "index": 41,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S066",
+        "source_page": 1
+      },
+      {
+        "source_id": "S066",
+        "source_page": 2
+      },
+      {
+        "source_id": "S066",
+        "source_page": 3
+      },
+      {
+        "source_id": "S066",
+        "source_page": 4
+      },
+      {
+        "source_id": "S066",
+        "source_page": 5
+      },
+      {
+        "source_id": "S066",
+        "source_page": 6
+      },
+      {
+        "source_id": "S066",
+        "source_page": 7
+      },
+      {
+        "source_id": "S066",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 10,
+    "docx": "current_outputs/忠实数字化稿/041/S066_试卷九答案版_忠实数字化.docx",
+    "docx_sha256": "a5cf19ce4f0d5e7655232496286841b778b9214b1ba755c3bf7fd3d643fb66f2",
+    "pdf": "current_outputs/忠实数字化稿/041/S066_试卷九答案版_忠实数字化.pdf",
+    "pdf_sha256": "45f4936e8cdf958df6eb2a38230f20e730227b7f9e4d2a228c09cce4600289ee"
+  },
+  {
+    "index": 42,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S067",
+        "source_page": 1
+      },
+      {
+        "source_id": "S067",
+        "source_page": 2
+      },
+      {
+        "source_id": "S067",
+        "source_page": 3
+      },
+      {
+        "source_id": "S067",
+        "source_page": 4
+      },
+      {
+        "source_id": "S067",
+        "source_page": 5
+      },
+      {
+        "source_id": "S067",
+        "source_page": 6
+      },
+      {
+        "source_id": "S067",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 9,
+    "docx": "current_outputs/忠实数字化稿/042/S067_试卷二_忠实数字化.docx",
+    "docx_sha256": "915e46b18d268f43a437a741bd8e42dc6c6b33ac3ff1d11bfdd870634456a741",
+    "pdf": "current_outputs/忠实数字化稿/042/S067_试卷二_忠实数字化.pdf",
+    "pdf_sha256": "2eba9642bcdce6ba731922f3ac1a08b25d92b96949b7f46f1256e937631f77bd"
+  },
+  {
+    "index": 43,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S068",
+        "source_page": 1
+      },
+      {
+        "source_id": "S068",
+        "source_page": 2
+      },
+      {
+        "source_id": "S068",
+        "source_page": 3
+      },
+      {
+        "source_id": "S068",
+        "source_page": 4
+      },
+      {
+        "source_id": "S068",
+        "source_page": 5
+      },
+      {
+        "source_id": "S068",
+        "source_page": 6
+      },
+      {
+        "source_id": "S068",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 8,
+    "docx": "current_outputs/忠实数字化稿/043/S068_试卷二答案版_忠实数字化.docx",
+    "docx_sha256": "2ddde59d33bb7b028e068d9c315bbd02410f8e615c646aa6be957748e4ca981b",
+    "pdf": "current_outputs/忠实数字化稿/043/S068_试卷二答案版_忠实数字化.pdf",
+    "pdf_sha256": "ed049b973828daffe6dcad7e2322646d6d9f04e51689c5dc8a54a3c192a1a437"
+  },
+  {
+    "index": 44,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S069",
+        "source_page": 1
+      },
+      {
+        "source_id": "S069",
+        "source_page": 2
+      },
+      {
+        "source_id": "S069",
+        "source_page": 3
+      },
+      {
+        "source_id": "S069",
+        "source_page": 4
+      },
+      {
+        "source_id": "S069",
+        "source_page": 5
+      },
+      {
+        "source_id": "S069",
+        "source_page": 6
+      },
+      {
+        "source_id": "S069",
+        "source_page": 7
+      },
+      {
+        "source_id": "S069",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 12,
+    "docx": "current_outputs/忠实数字化稿/044/S069_试卷五_v6_忠实数字化.docx",
+    "docx_sha256": "174415042fca53925b60d693cb7d8c39c642b343579d0cf176278ddac6be75dc",
+    "pdf": "current_outputs/忠实数字化稿/044/S069_试卷五_v6_忠实数字化.pdf",
+    "pdf_sha256": "011be1b0c35b14192d84ae9475e7f8044475f89fa5172b783156c4168dbb9092"
+  },
+  {
+    "index": 45,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S070",
+        "source_page": 1
+      },
+      {
+        "source_id": "S070",
+        "source_page": 2
+      },
+      {
+        "source_id": "S070",
+        "source_page": 3
+      },
+      {
+        "source_id": "S070",
+        "source_page": 4
+      },
+      {
+        "source_id": "S070",
+        "source_page": 5
+      },
+      {
+        "source_id": "S070",
+        "source_page": 6
+      },
+      {
+        "source_id": "S070",
+        "source_page": 7
+      },
+      {
+        "source_id": "S070",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 13,
+    "docx": "current_outputs/忠实数字化稿/045/S070_试卷五答案版_v6_忠实数字化_R02.docx",
+    "docx_sha256": "dd42e765c4b80472603605a88a25a4cfc46270a941b84e245636a234505d49c5",
+    "pdf": "current_outputs/忠实数字化稿/045/S070_试卷五答案版_v6_忠实数字化_R02.pdf",
+    "pdf_sha256": "e1944693ceed92766e09de20aca9715020639fd82aea3de099e2a2cc9ba5a939"
+  },
+  {
+    "index": 46,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S071",
+        "source_page": 1
+      },
+      {
+        "source_id": "S071",
+        "source_page": 2
+      },
+      {
+        "source_id": "S071",
+        "source_page": 3
+      },
+      {
+        "source_id": "S071",
+        "source_page": 4
+      },
+      {
+        "source_id": "S071",
+        "source_page": 5
+      },
+      {
+        "source_id": "S071",
+        "source_page": 6
+      },
+      {
+        "source_id": "S071",
+        "source_page": 7
+      },
+      {
+        "source_id": "S071",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 14,
+    "docx": "current_outputs/忠实数字化稿/046/S071_试卷八_v6_忠实数字化.docx",
+    "docx_sha256": "dbe3629201c6e0c63e68cf26a49f9ec2e6780902e0e87ab31cac618cffd960c4",
+    "pdf": "current_outputs/忠实数字化稿/046/S071_试卷八_v6_忠实数字化.pdf",
+    "pdf_sha256": "b464008cee462cd31182cd5ca88d5a301c846550d61a52c39054b4ebed696390"
+  },
+  {
+    "index": 47,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S072",
+        "source_page": 1
+      },
+      {
+        "source_id": "S072",
+        "source_page": 2
+      },
+      {
+        "source_id": "S072",
+        "source_page": 3
+      },
+      {
+        "source_id": "S072",
+        "source_page": 4
+      },
+      {
+        "source_id": "S072",
+        "source_page": 5
+      },
+      {
+        "source_id": "S072",
+        "source_page": 6
+      },
+      {
+        "source_id": "S072",
+        "source_page": 7
+      },
+      {
+        "source_id": "S072",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 14,
+    "docx": "current_outputs/忠实数字化稿/047/S072_试卷八答案版_v6_忠实数字化_R02.docx",
+    "docx_sha256": "085b7e6de5e28caf6d736615ecfc171bed96bcaa3eeffa5a45d73db7061d2869",
+    "pdf": "current_outputs/忠实数字化稿/047/S072_试卷八答案版_v6_忠实数字化_R02.pdf",
+    "pdf_sha256": "b9c0b2632c85c8bace2fbd894781ac35f6fa9bf916a6e959bf6a3c66ba8e356c"
+  },
+  {
+    "index": 48,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S073",
+        "source_page": 1
+      },
+      {
+        "source_id": "S073",
+        "source_page": 2
+      },
+      {
+        "source_id": "S073",
+        "source_page": 3
+      },
+      {
+        "source_id": "S073",
+        "source_page": 4
+      },
+      {
+        "source_id": "S073",
+        "source_page": 5
+      },
+      {
+        "source_id": "S073",
+        "source_page": 6
+      }
+    ],
+    "output_pdf_pages": 11,
+    "docx": "current_outputs/忠实数字化稿/048/S073_试卷六_v7_忠实数字化_R04.docx",
+    "docx_sha256": "6db9a5a1dc25946f61bcdf5d059441570932149e5261043f163f6496d2764be2",
+    "pdf": "current_outputs/忠实数字化稿/048/S073_试卷六_v7_忠实数字化_R04.pdf",
+    "pdf_sha256": "6961e59dd7bdbc701e4e02a7839a7305468175156dcd48f3fee3d23a86ecb985"
+  },
+  {
+    "index": 49,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S074",
+        "source_page": 1
+      },
+      {
+        "source_id": "S074",
+        "source_page": 2
+      },
+      {
+        "source_id": "S074",
+        "source_page": 3
+      },
+      {
+        "source_id": "S074",
+        "source_page": 4
+      },
+      {
+        "source_id": "S074",
+        "source_page": 5
+      },
+      {
+        "source_id": "S074",
+        "source_page": 6
+      },
+      {
+        "source_id": "S074",
+        "source_page": 7
+      },
+      {
+        "source_id": "S074",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 13,
+    "docx": "current_outputs/忠实数字化稿/049/S074_试卷六答案版_v7_忠实数字化_R03.docx",
+    "docx_sha256": "bf10cc9d79066fdc509bb6f5eb6d1a4cdb2100b2620463c592b6513f6de8470d",
+    "pdf": "current_outputs/忠实数字化稿/049/S074_试卷六答案版_v7_忠实数字化_R03.pdf",
+    "pdf_sha256": "4c3436882be6a372a9a00f01e5f929a658bf75191f0fa129dd18fcbc895801f3"
+  },
+  {
+    "index": 50,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S075",
+        "source_page": 1
+      },
+      {
+        "source_id": "S075",
+        "source_page": 2
+      },
+      {
+        "source_id": "S075",
+        "source_page": 3
+      },
+      {
+        "source_id": "S075",
+        "source_page": 4
+      },
+      {
+        "source_id": "S075",
+        "source_page": 5
+      },
+      {
+        "source_id": "S075",
+        "source_page": 6
+      },
+      {
+        "source_id": "S075",
+        "source_page": 7
+      },
+      {
+        "source_id": "S075",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 13,
+    "docx": "current_outputs/忠实数字化稿/050/S075_试卷十_v8_忠实数字化_R02.docx",
+    "docx_sha256": "66351a7eddb590d894882478adbd5229404eaa7e2c31aeb7c459432689613259",
+    "pdf": "current_outputs/忠实数字化稿/050/S075_试卷十_v8_忠实数字化_R02.pdf",
+    "pdf_sha256": "60654d40a1449808616cb8c0f2f5627b347e467434362c2e77a53a287f51549e"
+  },
+  {
+    "index": 51,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S076",
+        "source_page": 1
+      },
+      {
+        "source_id": "S076",
+        "source_page": 2
+      },
+      {
+        "source_id": "S076",
+        "source_page": 3
+      },
+      {
+        "source_id": "S076",
+        "source_page": 4
+      },
+      {
+        "source_id": "S076",
+        "source_page": 5
+      },
+      {
+        "source_id": "S076",
+        "source_page": 6
+      },
+      {
+        "source_id": "S076",
+        "source_page": 7
+      },
+      {
+        "source_id": "S076",
+        "source_page": 8
+      },
+      {
+        "source_id": "S076",
+        "source_page": 9
+      }
+    ],
+    "output_pdf_pages": 16,
+    "docx": "current_outputs/忠实数字化稿/051/S076_试卷十答案版_v8_忠实数字化_R02.docx",
+    "docx_sha256": "5f5d3f12555c67baca8c2256b5eaffc969852bcffc17de030eaf7a7933768d92",
+    "pdf": "current_outputs/忠实数字化稿/051/S076_试卷十答案版_v8_忠实数字化_R02.pdf",
+    "pdf_sha256": "c693aad27c0d17e5f2fbb21a7a9890f4566dc15ba9fdb8f4d3aaa9d2c3570643"
+  },
+  {
+    "index": 52,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S077",
+        "source_page": 1
+      },
+      {
+        "source_id": "S077",
+        "source_page": 2
+      },
+      {
+        "source_id": "S077",
+        "source_page": 3
+      },
+      {
+        "source_id": "S077",
+        "source_page": 4
+      },
+      {
+        "source_id": "S077",
+        "source_page": 5
+      },
+      {
+        "source_id": "S077",
+        "source_page": 6
+      },
+      {
+        "source_id": "S077",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 13,
+    "docx": "current_outputs/忠实数字化稿/052/S077_试卷四_v8_忠实数字化_R02.docx",
+    "docx_sha256": "eff459de8f64ed32bb1508585e60db31f9f7daf7e8400c75ecaa1c07655d17bc",
+    "pdf": "current_outputs/忠实数字化稿/052/S077_试卷四_v8_忠实数字化_R02.pdf",
+    "pdf_sha256": "bd288d8714e7a16cf38fe83b6c519fff98510f455d6e160d9bd2621d3634f2a1"
+  },
+  {
+    "index": 53,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S078",
+        "source_page": 1
+      },
+      {
+        "source_id": "S078",
+        "source_page": 2
+      },
+      {
+        "source_id": "S078",
+        "source_page": 3
+      },
+      {
+        "source_id": "S078",
+        "source_page": 4
+      },
+      {
+        "source_id": "S078",
+        "source_page": 5
+      },
+      {
+        "source_id": "S078",
+        "source_page": 6
+      },
+      {
+        "source_id": "S078",
+        "source_page": 7
+      }
+    ],
+    "output_pdf_pages": 16,
+    "docx": "current_outputs/忠实数字化稿/053/S078_试卷四答案版_v8_忠实数字化_R02.docx",
+    "docx_sha256": "f0f4f558ae92fda45fadf85d2c277cd2754210973ec3ca4f4797370a5558c2c8",
+    "pdf": "current_outputs/忠实数字化稿/053/S078_试卷四答案版_v8_忠实数字化_R02.pdf",
+    "pdf_sha256": "2a5c65fe898c3317f47a79725a554a96ab4d41b8f1fff6a89095d140f6cb43a2"
+  },
+  {
+    "index": 54,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S079",
+        "source_page": 1
+      },
+      {
+        "source_id": "S079",
+        "source_page": 2
+      },
+      {
+        "source_id": "S079",
+        "source_page": 3
+      },
+      {
+        "source_id": "S079",
+        "source_page": 4
+      },
+      {
+        "source_id": "S079",
+        "source_page": 5
+      },
+      {
+        "source_id": "S079",
+        "source_page": 6
+      },
+      {
+        "source_id": "S079",
+        "source_page": 7
+      },
+      {
+        "source_id": "S079",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 18,
+    "docx": "current_outputs/忠实数字化稿/054/S079_迈成2022综合模拟A_忠实数字化_R02.docx",
+    "docx_sha256": "f5245051ed5d249d07760f1884a6a49b22986d48f8fbf4221904931d1b38686e",
+    "pdf": "current_outputs/忠实数字化稿/054/S079_迈成2022综合模拟A_忠实数字化_R02.pdf",
+    "pdf_sha256": "7d8bc9d587b892977e05490fec711e98755fbff5d3185e2d066baed9be2e72f9"
+  },
+  {
+    "index": 55,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S080",
+        "source_page": 14
+      },
+      {
+        "source_id": "S080",
+        "source_page": 15
+      },
+      {
+        "source_id": "S080",
+        "source_page": 16
+      },
+      {
+        "source_id": "S080",
+        "source_page": 17
+      }
+    ],
+    "output_pdf_pages": 7,
+    "docx": "current_outputs/忠实数字化稿/055/S080_第1章考纲及1.1半导体基本知识_忠实数字化_R02.docx",
+    "docx_sha256": "7aacc912e1d8360fb4bea0f5082e3c403c1ab37c5277d95eedd26f97a16d67be",
+    "pdf": "current_outputs/忠实数字化稿/055/S080_第1章考纲及1.1半导体基本知识_忠实数字化_R02.pdf",
+    "pdf_sha256": "0b4d901194783506cea13be5d7fbadf61bc3319324f24ee3bb11c5621c858c80"
+  },
+  {
+    "index": 56,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S080",
+        "source_page": 18
+      },
+      {
+        "source_id": "S080",
+        "source_page": 19
+      },
+      {
+        "source_id": "S080",
+        "source_page": 20
+      },
+      {
+        "source_id": "S080",
+        "source_page": 21
+      }
+    ],
+    "output_pdf_pages": 10,
+    "docx": "current_outputs/忠实数字化稿/056/S080_1.2 PN结的形成及其特性_忠实数字化_R02.docx",
+    "docx_sha256": "8b442700930d68ddee6243add76849ecf67e33de150b1306a039b30e8bbce2d2",
+    "pdf": "current_outputs/忠实数字化稿/056/S080_1.2 PN结的形成及其特性_忠实数字化_R02.pdf",
+    "pdf_sha256": "b80104bc4098feb5ab5016afc09e7cc9495b71612f4a5e2d13cebcb7e3cd09a7"
+  },
+  {
+    "index": 57,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S080",
+        "source_page": 22
+      },
+      {
+        "source_id": "S080",
+        "source_page": 23
+      }
+    ],
+    "output_pdf_pages": 6,
+    "docx": "current_outputs/忠实数字化稿/057/S080_1.3半导体二极管_忠实数字化_R02.docx",
+    "docx_sha256": "705c6d4ca525290f2e28f3a0c646eab2474018586fbbf6b7a6ddb2f8ff1de2b7",
+    "pdf": "current_outputs/忠实数字化稿/057/S080_1.3半导体二极管_忠实数字化_R02.pdf",
+    "pdf_sha256": "25e0252f8a2b2d8ea0f628ec681415518ad16a79134b3a1ee23494542d6a3e12"
+  },
+  {
+    "index": 58,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S080",
+        "source_page": 1
+      },
+      {
+        "source_id": "S080",
+        "source_page": 2
+      },
+      {
+        "source_id": "S080",
+        "source_page": 3
+      },
+      {
+        "source_id": "S080",
+        "source_page": 4
+      },
+      {
+        "source_id": "S080",
+        "source_page": 5
+      },
+      {
+        "source_id": "S080",
+        "source_page": 6
+      },
+      {
+        "source_id": "S080",
+        "source_page": 7
+      },
+      {
+        "source_id": "S080",
+        "source_page": 8
+      }
+    ],
+    "output_pdf_pages": 11,
+    "docx": "current_outputs/忠实数字化稿/058/S080_封面课程前言目录_忠实数字化_R03.docx",
+    "docx_sha256": "57ff501ac750ad6da12f4fd705fdfbe29ee42a68bbef529d022ff46ad56be4f9",
+    "pdf": "current_outputs/忠实数字化稿/058/S080_封面课程前言目录_忠实数字化_R03.pdf",
+    "pdf_sha256": "ed660fe418db0102e97201bf56469c0e7adcd9987b907e81b5c1e07987447bf1"
+  },
+  {
+    "index": 59,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S080",
+        "source_page": 9
+      },
+      {
+        "source_id": "S080",
+        "source_page": 10
+      },
+      {
+        "source_id": "S080",
+        "source_page": 11
+      },
+      {
+        "source_id": "S080",
+        "source_page": 12
+      },
+      {
+        "source_id": "S080",
+        "source_page": 13
+      }
+    ],
+    "output_pdf_pages": 10,
+    "docx": "current_outputs/忠实数字化稿/059/S080_绪论_忠实数字化_R04.docx",
+    "docx_sha256": "c29cfb78f3a37aed9d8036a9a1657f817ebe7a6ec91b73ed566fed4420772e14",
+    "pdf": "current_outputs/忠实数字化稿/059/S080_绪论_忠实数字化_R04.pdf",
+    "pdf_sha256": "de34a34a77576b13d03b918dfc152ce5e156630bb694935e0877df4dc0b95d3f"
+  },
+  {
+    "index": 60,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 29
+      },
+      {
+        "source_id": "S001",
+        "source_page": 30
+      },
+      {
+        "source_id": "S001",
+        "source_page": 31
+      },
+      {
+        "source_id": "S001",
+        "source_page": 32
+      },
+      {
+        "source_id": "S001",
+        "source_page": 33
+      }
+    ],
+    "output_pdf_pages": 5,
+    "docx": "current_outputs/忠实数字化稿/060/30000_第01讲_001-078_忠实无答案数字化稿.docx",
+    "docx_sha256": "5f306771dc68436192aebfc8353f9c146fe364592da0d83e2bd7a6372775b69d",
+    "pdf": "current_outputs/忠实数字化稿/060/30000_第01讲_001-078_忠实无答案数字化稿.pdf",
+    "pdf_sha256": "933b7359f825b8673a3bebf7eb64f948bb74f5d09185977e2318bd59345d08d2"
+  },
+  {
+    "index": 61,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 7
+      },
+      {
+        "source_id": "S002",
+        "source_page": 8
+      },
+      {
+        "source_id": "S002",
+        "source_page": 9
+      }
+    ],
+    "output_pdf_pages": 3,
+    "docx": "current_outputs/忠实数字化稿/061/300001_第29讲_001-042_忠实无答案数字化稿.docx",
+    "docx_sha256": "2799b8170614d06d7305a7131c6381cac9185e8bc76116e684be596be6d8da52",
+    "pdf": "current_outputs/忠实数字化稿/061/300001_第29讲_001-042_忠实无答案数字化稿.pdf",
+    "pdf_sha256": "1cc8690c99eccb5b4de0e6bce7639218aac31f30c696e0c24e32bb1ca0079ddb"
+  },
+  {
+    "index": 62,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 34
+      },
+      {
+        "source_id": "S001",
+        "source_page": 35
+      },
+      {
+        "source_id": "S001",
+        "source_page": 36
+      },
+      {
+        "source_id": "S001",
+        "source_page": 37
+      },
+      {
+        "source_id": "S001",
+        "source_page": 38
+      },
+      {
+        "source_id": "S001",
+        "source_page": 39
+      },
+      {
+        "source_id": "S001",
+        "source_page": 40
+      },
+      {
+        "source_id": "S001",
+        "source_page": 41
+      },
+      {
+        "source_id": "S001",
+        "source_page": 42
+      }
+    ],
+    "output_pdf_pages": 13,
+    "docx": "current_outputs/忠实数字化稿/062/30000_第02讲_079-151_忠实数字化稿.docx",
+    "docx_sha256": "3ebf68a368f5e7d23b493469cabe3197e9e3bd784c88fd68b0e5e195805ca8c9",
+    "pdf": "current_outputs/忠实数字化稿/062/30000_第02讲_079-151_忠实数字化稿.pdf",
+    "pdf_sha256": "0c8d8b44d4f8899fddaf074235088d77e4607bbeb5a4189c1eeafb5ac4fa236c"
+  },
+  {
+    "index": 63,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 34
+      },
+      {
+        "source_id": "S001",
+        "source_page": 35
+      },
+      {
+        "source_id": "S001",
+        "source_page": 36
+      },
+      {
+        "source_id": "S001",
+        "source_page": 37
+      },
+      {
+        "source_id": "S001",
+        "source_page": 38
+      },
+      {
+        "source_id": "S001",
+        "source_page": 39
+      },
+      {
+        "source_id": "S001",
+        "source_page": 40
+      },
+      {
+        "source_id": "S001",
+        "source_page": 41
+      },
+      {
+        "source_id": "S001",
+        "source_page": 42
+      }
+    ],
+    "output_pdf_pages": 23,
+    "docx": "current_outputs/新增答案解析/063/30000_第02讲_079-151_新增答案解析.docx",
+    "docx_sha256": "c73ac75462fcd865f2ead6c61cdf956efbc0edc37cf27c5018ad65329d003a65",
+    "pdf": "current_outputs/新增答案解析/063/30000_第02讲_079-151_新增答案解析.pdf",
+    "pdf_sha256": "de22ed4a2eefecbeb153a616eefef9ffa2ddc2af9facfbd4e34daf24964ac00c"
+  },
+  {
+    "index": 64,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 43
+      },
+      {
+        "source_id": "S001",
+        "source_page": 44
+      },
+      {
+        "source_id": "S001",
+        "source_page": 45
+      },
+      {
+        "source_id": "S001",
+        "source_page": 46
+      },
+      {
+        "source_id": "S001",
+        "source_page": 47
+      },
+      {
+        "source_id": "S001",
+        "source_page": 48
+      },
+      {
+        "source_id": "S001",
+        "source_page": 49
+      },
+      {
+        "source_id": "S001",
+        "source_page": 50
+      },
+      {
+        "source_id": "S001",
+        "source_page": 51
+      }
+    ],
+    "output_pdf_pages": 21,
+    "docx": "current_outputs/忠实数字化稿/064/30000_第03讲_152-218_忠实数字化稿.docx",
+    "docx_sha256": "cbfd9ef30a84e2c75e3d85a006c09980854787341580705555a9449dac6e0112",
+    "pdf": "current_outputs/忠实数字化稿/064/30000_第03讲_152-218_忠实数字化稿.pdf",
+    "pdf_sha256": "38d4a967b6a84cf419367e34d9385337e26bc8192661566524d7f48c5269012c"
+  },
+  {
+    "index": 65,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 43
+      },
+      {
+        "source_id": "S001",
+        "source_page": 44
+      },
+      {
+        "source_id": "S001",
+        "source_page": 45
+      },
+      {
+        "source_id": "S001",
+        "source_page": 46
+      },
+      {
+        "source_id": "S001",
+        "source_page": 47
+      },
+      {
+        "source_id": "S001",
+        "source_page": 48
+      },
+      {
+        "source_id": "S001",
+        "source_page": 49
+      },
+      {
+        "source_id": "S001",
+        "source_page": 50
+      },
+      {
+        "source_id": "S001",
+        "source_page": 51
+      }
+    ],
+    "output_pdf_pages": 28,
+    "docx": "current_outputs/新增答案解析/065/30000_第03讲_152-218_新增答案解析_R04.docx",
+    "docx_sha256": "cf06e0a5cbe1e4fcd702b98c95564f3ab3ee59e5a0541c74cc3c0e0a8f3f3822",
+    "pdf": "current_outputs/新增答案解析/065/30000_第03讲_152-218_新增答案解析_R04.pdf",
+    "pdf_sha256": "2c77c0b0012c099349475a6b628df7b232c255d8a6c6cfbf67ccd858cc8ce546"
+  },
+  {
+    "index": 66,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 52
+      },
+      {
+        "source_id": "S001",
+        "source_page": 53
+      },
+      {
+        "source_id": "S001",
+        "source_page": 54
+      },
+      {
+        "source_id": "S001",
+        "source_page": 55
+      },
+      {
+        "source_id": "S001",
+        "source_page": 56
+      },
+      {
+        "source_id": "S001",
+        "source_page": 57
+      },
+      {
+        "source_id": "S001",
+        "source_page": 58
+      },
+      {
+        "source_id": "S001",
+        "source_page": 59
+      },
+      {
+        "source_id": "S001",
+        "source_page": 60
+      },
+      {
+        "source_id": "S001",
+        "source_page": 61
+      },
+      {
+        "source_id": "S001",
+        "source_page": 62
+      },
+      {
+        "source_id": "S001",
+        "source_page": 63
+      },
+      {
+        "source_id": "S001",
+        "source_page": 64
+      },
+      {
+        "source_id": "S001",
+        "source_page": 65
+      }
+    ],
+    "output_pdf_pages": 30,
+    "docx": "current_outputs/忠实数字化稿/066/30000_第04讲_219-292_忠实数字化稿_R03.docx",
+    "docx_sha256": "96fa7fc3d896845255d43d68610d108b5100ecca906c30d2de54ddbee6dd61e3",
+    "pdf": "current_outputs/忠实数字化稿/066/30000_第04讲_219-292_忠实数字化稿_R03.pdf",
+    "pdf_sha256": "810934dc6e0ebb43dac66102b4a234787baa8cd72c829c3f0b173c1e9cbcd598"
+  },
+  {
+    "index": 67,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 52
+      },
+      {
+        "source_id": "S001",
+        "source_page": 53
+      },
+      {
+        "source_id": "S001",
+        "source_page": 54
+      },
+      {
+        "source_id": "S001",
+        "source_page": 55
+      },
+      {
+        "source_id": "S001",
+        "source_page": 56
+      },
+      {
+        "source_id": "S001",
+        "source_page": 57
+      },
+      {
+        "source_id": "S001",
+        "source_page": 58
+      },
+      {
+        "source_id": "S001",
+        "source_page": 59
+      },
+      {
+        "source_id": "S001",
+        "source_page": 60
+      },
+      {
+        "source_id": "S001",
+        "source_page": 61
+      },
+      {
+        "source_id": "S001",
+        "source_page": 62
+      },
+      {
+        "source_id": "S001",
+        "source_page": 63
+      },
+      {
+        "source_id": "S001",
+        "source_page": 64
+      },
+      {
+        "source_id": "S001",
+        "source_page": 65
+      }
+    ],
+    "output_pdf_pages": 38,
+    "docx": "current_outputs/新增答案解析/067/30000_第04讲_219-292_新增答案解析_R04.docx",
+    "docx_sha256": "99d80eb779820d8d5a1c65616900025982c9e639a044df515543879cc3f8ba2f",
+    "pdf": "current_outputs/新增答案解析/067/30000_第04讲_219-292_新增答案解析_R04.pdf",
+    "pdf_sha256": "540992caa9d0a5265d8b165aa53efb8d308340498b7ab2d617bc213da9fc1428"
+  },
+  {
+    "index": 68,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 66
+      },
+      {
+        "source_id": "S001",
+        "source_page": 67
+      },
+      {
+        "source_id": "S001",
+        "source_page": 68
+      },
+      {
+        "source_id": "S001",
+        "source_page": 69
+      },
+      {
+        "source_id": "S001",
+        "source_page": 70
+      },
+      {
+        "source_id": "S001",
+        "source_page": 71
+      }
+    ],
+    "output_pdf_pages": 20,
+    "docx": "current_outputs/忠实数字化稿/068/30000_第05讲_293-349_忠实数字化稿_R02.docx",
+    "docx_sha256": "a5439bf283bfa089d80e5a767d7d19598888bdd4188426bcc09d3268f22cc833",
+    "pdf": "current_outputs/忠实数字化稿/068/30000_第05讲_293-349_忠实数字化稿_R02.pdf",
+    "pdf_sha256": "475ad027ba9e172c642af79259f8d4744b34b63d1fe06dc4c663f3a328cd83c8"
+  },
+  {
+    "index": 69,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 66
+      },
+      {
+        "source_id": "S001",
+        "source_page": 67
+      },
+      {
+        "source_id": "S001",
+        "source_page": 68
+      },
+      {
+        "source_id": "S001",
+        "source_page": 69
+      },
+      {
+        "source_id": "S001",
+        "source_page": 70
+      },
+      {
+        "source_id": "S001",
+        "source_page": 71
+      }
+    ],
+    "output_pdf_pages": 35,
+    "docx": "current_outputs/新增答案解析/069/30000_第05讲_293-349_新增答案解析_R03.docx",
+    "docx_sha256": "196ceff5f209a8dada0d63b94f5fa060b454d30d27f32cd8ef84c3c017e9afb6",
+    "pdf": "current_outputs/新增答案解析/069/30000_第05讲_293-349_新增答案解析_R03.pdf",
+    "pdf_sha256": "31a8c9e2a0f1acfeb3c0939098b7167038693c0c677075e592f694e73e22ad9d"
+  },
+  {
+    "index": 70,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 72
+      },
+      {
+        "source_id": "S001",
+        "source_page": 73
+      },
+      {
+        "source_id": "S001",
+        "source_page": 74
+      },
+      {
+        "source_id": "S001",
+        "source_page": 75
+      },
+      {
+        "source_id": "S001",
+        "source_page": 76
+      },
+      {
+        "source_id": "S001",
+        "source_page": 77
+      },
+      {
+        "source_id": "S001",
+        "source_page": 78
+      },
+      {
+        "source_id": "S001",
+        "source_page": 79
+      }
+    ],
+    "output_pdf_pages": 22,
+    "docx": "current_outputs/忠实数字化稿/070/30000_第06讲_350-406_忠实数字化稿_R04.docx",
+    "docx_sha256": "f3772971be271e159e2bba38d9d701b619dae085812d1f894c732a140c53aab1",
+    "pdf": "current_outputs/忠实数字化稿/070/30000_第06讲_350-406_忠实数字化稿_R04.pdf",
+    "pdf_sha256": "48ad6d545374735aa0750c719d639607ef119f4902578d5bf10c800bba27a7e9"
+  },
+  {
+    "index": 71,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 72
+      },
+      {
+        "source_id": "S001",
+        "source_page": 73
+      },
+      {
+        "source_id": "S001",
+        "source_page": 74
+      },
+      {
+        "source_id": "S001",
+        "source_page": 75
+      },
+      {
+        "source_id": "S001",
+        "source_page": 76
+      },
+      {
+        "source_id": "S001",
+        "source_page": 77
+      },
+      {
+        "source_id": "S001",
+        "source_page": 78
+      },
+      {
+        "source_id": "S001",
+        "source_page": 79
+      }
+    ],
+    "output_pdf_pages": 33,
+    "docx": "current_outputs/新增答案解析/071/30000_第06讲_350-406_新增答案解析_R04.docx",
+    "docx_sha256": "ee9811effb910dd265b090e77f745335449ffae2373d2fb4e0f5caf76d969fb1",
+    "pdf": "current_outputs/新增答案解析/071/30000_第06讲_350-406_新增答案解析_R04.pdf",
+    "pdf_sha256": "9f8a8d54b765684abab9ec27f9c8d14b239a312dec0614ad423ede88c825e671"
+  },
+  {
+    "index": 72,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 80
+      },
+      {
+        "source_id": "S001",
+        "source_page": 81
+      },
+      {
+        "source_id": "S001",
+        "source_page": 82
+      },
+      {
+        "source_id": "S001",
+        "source_page": 83
+      },
+      {
+        "source_id": "S001",
+        "source_page": 84
+      },
+      {
+        "source_id": "S001",
+        "source_page": 85
+      },
+      {
+        "source_id": "S001",
+        "source_page": 86
+      },
+      {
+        "source_id": "S001",
+        "source_page": 87
+      }
+    ],
+    "output_pdf_pages": 15,
+    "docx": "current_outputs/忠实数字化稿/072/30000_第07讲_407-457_忠实数字化稿_R03.docx",
+    "docx_sha256": "a8557245577e851fa68c56a5668407cd387c8b3c404767f6e963fdadf7b2e909",
+    "pdf": "current_outputs/忠实数字化稿/072/30000_第07讲_407-457_忠实数字化稿_R03.pdf",
+    "pdf_sha256": "4a036cd1aa109132fe840ce98498aefb3c5e2b2c0b3d805fa3ff100c5d08b4cb"
+  },
+  {
+    "index": 73,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 80
+      },
+      {
+        "source_id": "S001",
+        "source_page": 81
+      },
+      {
+        "source_id": "S001",
+        "source_page": 82
+      },
+      {
+        "source_id": "S001",
+        "source_page": 83
+      },
+      {
+        "source_id": "S001",
+        "source_page": 84
+      },
+      {
+        "source_id": "S001",
+        "source_page": 85
+      },
+      {
+        "source_id": "S001",
+        "source_page": 86
+      },
+      {
+        "source_id": "S001",
+        "source_page": 87
+      }
+    ],
+    "output_pdf_pages": 23,
+    "docx": "current_outputs/新增答案解析/073/30000_第07讲_407-457_新增答案解析_R03.docx",
+    "docx_sha256": "ba2535988de6cab63957d2b4f8abb5303a283b823a0a56215ab08d550d4a9640",
+    "pdf": "current_outputs/新增答案解析/073/30000_第07讲_407-457_新增答案解析_R03.pdf",
+    "pdf_sha256": "1cf334ec1d7b05fab41e4136c775cbe9d654cad87d6fd5b9c39ff35ccaca3aca"
+  },
+  {
+    "index": 74,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 88
+      },
+      {
+        "source_id": "S001",
+        "source_page": 89
+      },
+      {
+        "source_id": "S001",
+        "source_page": 90
+      },
+      {
+        "source_id": "S001",
+        "source_page": 91
+      },
+      {
+        "source_id": "S001",
+        "source_page": 92
+      },
+      {
+        "source_id": "S001",
+        "source_page": 93
+      },
+      {
+        "source_id": "S001",
+        "source_page": 94
+      }
+    ],
+    "output_pdf_pages": 14,
+    "docx": "current_outputs/忠实数字化稿/074/30000_第08讲_458-513_忠实数字化稿_R02.docx",
+    "docx_sha256": "a70512532547135dd65b783773d666fc7d656ae53f32c0cf68c727a7f2a57313",
+    "pdf": "current_outputs/忠实数字化稿/074/30000_第08讲_458-513_忠实数字化稿_R02.pdf",
+    "pdf_sha256": "14a06c08c5a0bd713049745e6817e082814a24324da3a693295008d1f348f122"
+  },
+  {
+    "index": 75,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 88
+      },
+      {
+        "source_id": "S001",
+        "source_page": 89
+      },
+      {
+        "source_id": "S001",
+        "source_page": 90
+      },
+      {
+        "source_id": "S001",
+        "source_page": 91
+      },
+      {
+        "source_id": "S001",
+        "source_page": 92
+      },
+      {
+        "source_id": "S001",
+        "source_page": 93
+      },
+      {
+        "source_id": "S001",
+        "source_page": 94
+      }
+    ],
+    "output_pdf_pages": 20,
+    "docx": "current_outputs/新增答案解析/075/30000_第08讲_458-513_新增答案解析_R03.docx",
+    "docx_sha256": "49089b9a9396d6a83b638e5086f75f9449a611b6f6ee1c36be2f053da065dbe9",
+    "pdf": "current_outputs/新增答案解析/075/30000_第08讲_458-513_新增答案解析_R03.pdf",
+    "pdf_sha256": "3a65d0f79f9cb4eaa54950356ff936cfc7724a0870948fcd9bbb2b7befa68c53"
+  },
+  {
+    "index": 76,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 95
+      },
+      {
+        "source_id": "S001",
+        "source_page": 96
+      },
+      {
+        "source_id": "S001",
+        "source_page": 97
+      },
+      {
+        "source_id": "S001",
+        "source_page": 98
+      },
+      {
+        "source_id": "S001",
+        "source_page": 99
+      },
+      {
+        "source_id": "S001",
+        "source_page": 100
+      }
+    ],
+    "output_pdf_pages": 14,
+    "docx": "current_outputs/忠实数字化稿/076/30000_第09讲_514-562_忠实数字化稿_R01.docx",
+    "docx_sha256": "f2275fe2c7468de7844164670cd87d53b2c5e39559923026738de85931b9a60f",
+    "pdf": "current_outputs/忠实数字化稿/076/30000_第09讲_514-562_忠实数字化稿_R01.pdf",
+    "pdf_sha256": "f0640f50d6615afc5fc4ce7856aea0898c979580baa43395919e8c42adeef6cb"
+  },
+  {
+    "index": 77,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 95
+      },
+      {
+        "source_id": "S001",
+        "source_page": 96
+      },
+      {
+        "source_id": "S001",
+        "source_page": 97
+      },
+      {
+        "source_id": "S001",
+        "source_page": 98
+      },
+      {
+        "source_id": "S001",
+        "source_page": 99
+      },
+      {
+        "source_id": "S001",
+        "source_page": 100
+      }
+    ],
+    "output_pdf_pages": 27,
+    "docx": "current_outputs/新增答案解析/077/30000_第09讲_514-562_新增答案解析_R01.docx",
+    "docx_sha256": "5765102394d061cc1e9e6b8322fdb3904779a1e3f60877a19479ee3a93af2497",
+    "pdf": "current_outputs/新增答案解析/077/30000_第09讲_514-562_新增答案解析_R01.pdf",
+    "pdf_sha256": "24f8ea7a633fb786b85f065264f6f518acb5f11c6f6e2aa6f50c8cde665ec7c5"
+  },
+  {
+    "index": 78,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 101
+      },
+      {
+        "source_id": "S001",
+        "source_page": 102
+      },
+      {
+        "source_id": "S001",
+        "source_page": 103
+      },
+      {
+        "source_id": "S001",
+        "source_page": 104
+      },
+      {
+        "source_id": "S001",
+        "source_page": 105
+      },
+      {
+        "source_id": "S001",
+        "source_page": 106
+      },
+      {
+        "source_id": "S001",
+        "source_page": 107
+      },
+      {
+        "source_id": "S001",
+        "source_page": 108
+      },
+      {
+        "source_id": "S001",
+        "source_page": 109
+      }
+    ],
+    "output_pdf_pages": 17,
+    "docx": "current_outputs/忠实数字化稿/078/30000_第10讲_563-621_忠实数字化稿_R04.docx",
+    "docx_sha256": "bb0e0b38b3205b3d4e558e4b738a2b5a09331ebcca7255a8bea00e3aa808f7c3",
+    "pdf": "current_outputs/忠实数字化稿/078/30000_第10讲_563-621_忠实数字化稿_R04.pdf",
+    "pdf_sha256": "b376051b1e01b7bdb6b6378e003694021a642101fbf922ddddf30da92ce8aaef"
+  },
+  {
+    "index": 79,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 101
+      },
+      {
+        "source_id": "S001",
+        "source_page": 102
+      },
+      {
+        "source_id": "S001",
+        "source_page": 103
+      },
+      {
+        "source_id": "S001",
+        "source_page": 104
+      },
+      {
+        "source_id": "S001",
+        "source_page": 105
+      },
+      {
+        "source_id": "S001",
+        "source_page": 106
+      },
+      {
+        "source_id": "S001",
+        "source_page": 107
+      },
+      {
+        "source_id": "S001",
+        "source_page": 108
+      },
+      {
+        "source_id": "S001",
+        "source_page": 109
+      }
+    ],
+    "output_pdf_pages": 34,
+    "docx": "current_outputs/新增答案解析/079/30000_第10讲_563-621_新增答案解析_R04.docx",
+    "docx_sha256": "fe9f18ceccd6c24f0976011464054f68ee670c6f96237f283b90c714071fa14e",
+    "pdf": "current_outputs/新增答案解析/079/30000_第10讲_563-621_新增答案解析_R04.pdf",
+    "pdf_sha256": "1f598e5898c9c6f4ce39b1edcf6daf38de3ae74826eb95694cd850f27d777dec"
+  },
+  {
+    "index": 80,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 110
+      },
+      {
+        "source_id": "S001",
+        "source_page": 111
+      },
+      {
+        "source_id": "S001",
+        "source_page": 112
+      },
+      {
+        "source_id": "S001",
+        "source_page": 113
+      },
+      {
+        "source_id": "S001",
+        "source_page": 114
+      }
+    ],
+    "output_pdf_pages": 16,
+    "docx": "current_outputs/忠实数字化稿/080/30000_第11讲_622-671_忠实数字化稿_R01.docx",
+    "docx_sha256": "dfb137761e6ec1143a48688c435005a9a34b5dd540028b6d08c76294667b2c19",
+    "pdf": "current_outputs/忠实数字化稿/080/30000_第11讲_622-671_忠实数字化稿_R01.pdf",
+    "pdf_sha256": "ed331c92ee87ed109132758b074867d5dccf29aeec1d212447cb02f76ed8e3ec"
+  },
+  {
+    "index": 81,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 110
+      },
+      {
+        "source_id": "S001",
+        "source_page": 111
+      },
+      {
+        "source_id": "S001",
+        "source_page": 112
+      },
+      {
+        "source_id": "S001",
+        "source_page": 113
+      },
+      {
+        "source_id": "S001",
+        "source_page": 114
+      }
+    ],
+    "output_pdf_pages": 28,
+    "docx": "current_outputs/新增答案解析/081/30000_第11讲_622-671_新增答案解析_R01.docx",
+    "docx_sha256": "9b29bedf22333b02039c87418e4dde02195fe993b08310ca5ddccdd4b0f1a01f",
+    "pdf": "current_outputs/新增答案解析/081/30000_第11讲_622-671_新增答案解析_R01.pdf",
+    "pdf_sha256": "c9066e317cc215d53a86cc084faeed23d940d0631f2c9c2717883648d04dfe4d"
+  },
+  {
+    "index": 82,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 115
+      },
+      {
+        "source_id": "S001",
+        "source_page": 116
+      },
+      {
+        "source_id": "S001",
+        "source_page": 117
+      }
+    ],
+    "output_pdf_pages": 8,
+    "docx": "current_outputs/忠实数字化稿/082/30000_第12讲_672-716_忠实数字化稿_R02.docx",
+    "docx_sha256": "e62aa2e25898f06facf2f6f534ee3e965c80d540b567ea6a1ce3c07459066613",
+    "pdf": "current_outputs/忠实数字化稿/082/30000_第12讲_672-716_忠实数字化稿_R02.pdf",
+    "pdf_sha256": "0569efc0fd8152094c1f72ee6c1fc2fdea93ab9f2243849f8c9bd215c307a609"
+  },
+  {
+    "index": 83,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S001",
+        "source_page": 115
+      },
+      {
+        "source_id": "S001",
+        "source_page": 116
+      },
+      {
+        "source_id": "S001",
+        "source_page": 117
+      }
+    ],
+    "output_pdf_pages": 14,
+    "docx": "current_outputs/新增答案解析/083/30000_第12讲_672-716_新增答案解析_R02.docx",
+    "docx_sha256": "52d52a25d1930420fe728def2683da32359ea6ff9099835152ba8fb13f38cc3f",
+    "pdf": "current_outputs/新增答案解析/083/30000_第12讲_672-716_新增答案解析_R02.pdf",
+    "pdf_sha256": "11ce0da92860f8f94618a6238028c556ac948c7a375e3b6d9affbda2fe809f25"
+  },
+  {
+    "index": 84,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 10
+      },
+      {
+        "source_id": "S002",
+        "source_page": 11
+      },
+      {
+        "source_id": "S002",
+        "source_page": 12
+      },
+      {
+        "source_id": "S002",
+        "source_page": 13
+      },
+      {
+        "source_id": "S002",
+        "source_page": 14
+      },
+      {
+        "source_id": "S002",
+        "source_page": 15
+      },
+      {
+        "source_id": "S002",
+        "source_page": 16
+      },
+      {
+        "source_id": "S002",
+        "source_page": 17
+      },
+      {
+        "source_id": "S002",
+        "source_page": 18
+      },
+      {
+        "source_id": "S002",
+        "source_page": 19
+      },
+      {
+        "source_id": "S002",
+        "source_page": 20
+      },
+      {
+        "source_id": "S002",
+        "source_page": 21
+      },
+      {
+        "source_id": "S002",
+        "source_page": 22
+      },
+      {
+        "source_id": "S002",
+        "source_page": 23
+      },
+      {
+        "source_id": "S002",
+        "source_page": 24
+      }
+    ],
+    "output_pdf_pages": 15,
+    "docx": "current_outputs/忠实数字化稿/084/300001_第30讲_043-135_忠实数字化稿.docx",
+    "docx_sha256": "6e1f4074f7c5e9d3e81e66db92b48348228aea610b62af65024244805b055f19",
+    "pdf": "current_outputs/忠实数字化稿/084/300001_第30讲_043-135_忠实数字化稿.pdf",
+    "pdf_sha256": "57c4e0450abb3dae12f05fa55b80f84e8fa72233afacafde499bd4db2dfb16cd"
+  },
+  {
+    "index": 85,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 10
+      },
+      {
+        "source_id": "S002",
+        "source_page": 11
+      },
+      {
+        "source_id": "S002",
+        "source_page": 12
+      },
+      {
+        "source_id": "S002",
+        "source_page": 13
+      },
+      {
+        "source_id": "S002",
+        "source_page": 14
+      },
+      {
+        "source_id": "S002",
+        "source_page": 15
+      },
+      {
+        "source_id": "S002",
+        "source_page": 16
+      },
+      {
+        "source_id": "S002",
+        "source_page": 17
+      },
+      {
+        "source_id": "S002",
+        "source_page": 18
+      },
+      {
+        "source_id": "S002",
+        "source_page": 19
+      },
+      {
+        "source_id": "S002",
+        "source_page": 20
+      },
+      {
+        "source_id": "S002",
+        "source_page": 21
+      },
+      {
+        "source_id": "S002",
+        "source_page": 22
+      },
+      {
+        "source_id": "S002",
+        "source_page": 23
+      },
+      {
+        "source_id": "S002",
+        "source_page": 24
+      }
+    ],
+    "output_pdf_pages": 29,
+    "docx": "current_outputs/新增答案解析/085/300001_第30讲_043-135_新增答案解析.docx",
+    "docx_sha256": "3678af05a60190559af1a1d6600d22c5d50a97ce69a4a932b316b4ffe0ea0532",
+    "pdf": "current_outputs/新增答案解析/085/300001_第30讲_043-135_新增答案解析.pdf",
+    "pdf_sha256": "e2ae3fcfd7684b2033792b88b1bd45b4452d23529ccb759863f19378c24f0c9d"
+  },
+  {
+    "index": 86,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 25
+      },
+      {
+        "source_id": "S002",
+        "source_page": 26
+      },
+      {
+        "source_id": "S002",
+        "source_page": 27
+      },
+      {
+        "source_id": "S002",
+        "source_page": 28
+      },
+      {
+        "source_id": "S002",
+        "source_page": 29
+      },
+      {
+        "source_id": "S002",
+        "source_page": 30
+      },
+      {
+        "source_id": "S002",
+        "source_page": 31
+      }
+    ],
+    "output_pdf_pages": 7,
+    "docx": "current_outputs/忠实数字化稿/086/300001_第31讲_136-186_忠实数字化稿.docx",
+    "docx_sha256": "7ac5411fcea6bda8e8698983361476e6847bf2e17c7a6aab579abe4ef62e39aa",
+    "pdf": "current_outputs/忠实数字化稿/086/300001_第31讲_136-186_忠实数字化稿.pdf",
+    "pdf_sha256": "5f47c2e514049c934a24896e2e89420591688d043c9d9cb3e37593621f0ebb37"
+  },
+  {
+    "index": 87,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 25
+      },
+      {
+        "source_id": "S002",
+        "source_page": 26
+      },
+      {
+        "source_id": "S002",
+        "source_page": 27
+      },
+      {
+        "source_id": "S002",
+        "source_page": 28
+      },
+      {
+        "source_id": "S002",
+        "source_page": 29
+      },
+      {
+        "source_id": "S002",
+        "source_page": 30
+      },
+      {
+        "source_id": "S002",
+        "source_page": 31
+      }
+    ],
+    "output_pdf_pages": 16,
+    "docx": "current_outputs/新增答案解析/087/300001_第31讲_136-186_新增答案解析.docx",
+    "docx_sha256": "c655ad6492ca665c52225c94c85c81a66c90e6170a6b4c4ee8bde9d707821290",
+    "pdf": "current_outputs/新增答案解析/087/300001_第31讲_136-186_新增答案解析.pdf",
+    "pdf_sha256": "ea40a0cf9d796b49254e59cfa05d59aba416ac8104026b26471cedfdfb31b7b9"
+  },
+  {
+    "index": 88,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 32
+      },
+      {
+        "source_id": "S002",
+        "source_page": 33
+      },
+      {
+        "source_id": "S002",
+        "source_page": 34
+      },
+      {
+        "source_id": "S002",
+        "source_page": 35
+      },
+      {
+        "source_id": "S002",
+        "source_page": 36
+      },
+      {
+        "source_id": "S002",
+        "source_page": 37
+      },
+      {
+        "source_id": "S002",
+        "source_page": 38
+      },
+      {
+        "source_id": "S002",
+        "source_page": 39
+      },
+      {
+        "source_id": "S002",
+        "source_page": 40
+      },
+      {
+        "source_id": "S002",
+        "source_page": 41
+      },
+      {
+        "source_id": "S002",
+        "source_page": 42
+      },
+      {
+        "source_id": "S002",
+        "source_page": 43
+      }
+    ],
+    "output_pdf_pages": 19,
+    "docx": "current_outputs/忠实数字化稿/088/300001_第32讲_187-239_忠实数字化稿.docx",
+    "docx_sha256": "a93f9c2767cb079fa0fd11933212eaf5c0dd7ee9ecfd73a61ee6d126b77cd500",
+    "pdf": "current_outputs/忠实数字化稿/088/300001_第32讲_187-239_忠实数字化稿.pdf",
+    "pdf_sha256": "faa73de82ef759d601aa87699af60a3247d874bb333f5cba975394bd5d8bdc67"
+  },
+  {
+    "index": 89,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 32
+      },
+      {
+        "source_id": "S002",
+        "source_page": 33
+      },
+      {
+        "source_id": "S002",
+        "source_page": 34
+      },
+      {
+        "source_id": "S002",
+        "source_page": 35
+      },
+      {
+        "source_id": "S002",
+        "source_page": 36
+      },
+      {
+        "source_id": "S002",
+        "source_page": 37
+      },
+      {
+        "source_id": "S002",
+        "source_page": 38
+      },
+      {
+        "source_id": "S002",
+        "source_page": 39
+      },
+      {
+        "source_id": "S002",
+        "source_page": 40
+      },
+      {
+        "source_id": "S002",
+        "source_page": 41
+      },
+      {
+        "source_id": "S002",
+        "source_page": 42
+      },
+      {
+        "source_id": "S002",
+        "source_page": 43
+      }
+    ],
+    "output_pdf_pages": 30,
+    "docx": "current_outputs/新增答案解析/089/300001_第32讲_187-239_新增答案解析.docx",
+    "docx_sha256": "794ce148fa9c7f86fb416904122374914f41766f513dba4bf4f2c8a660df9eb2",
+    "pdf": "current_outputs/新增答案解析/089/300001_第32讲_187-239_新增答案解析.pdf",
+    "pdf_sha256": "ebece0980780fa96b9d014897ccd7f06a0be8823437cdad4cdd7e7f093e1cf87"
+  },
+  {
+    "index": 90,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 44
+      },
+      {
+        "source_id": "S002",
+        "source_page": 45
+      },
+      {
+        "source_id": "S002",
+        "source_page": 46
+      }
+    ],
+    "output_pdf_pages": 5,
+    "docx": "current_outputs/忠实数字化稿/090/300001_第33讲_240-281_忠实数字化稿.docx",
+    "docx_sha256": "9c570374f44af05ab5d4580b15f854f735d12d3246580ad1627eb7c4516cc542",
+    "pdf": "current_outputs/忠实数字化稿/090/300001_第33讲_240-281_忠实数字化稿.pdf",
+    "pdf_sha256": "2ac0d5196a4547081575d145a82063a5542cbee6c5febdd9bc3144f4655a1f79"
+  },
+  {
+    "index": 91,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 44
+      },
+      {
+        "source_id": "S002",
+        "source_page": 45
+      },
+      {
+        "source_id": "S002",
+        "source_page": 46
+      }
+    ],
+    "output_pdf_pages": 8,
+    "docx": "current_outputs/新增答案解析/091/300001_第33讲_240-281_新增答案解析.docx",
+    "docx_sha256": "724b0033dbb517e6cafd2f8103a4b211ea06bce744a484b63b4d060b132af2cc",
+    "pdf": "current_outputs/新增答案解析/091/300001_第33讲_240-281_新增答案解析.pdf",
+    "pdf_sha256": "1c60772e51a9edcccf3e8aee8e6334416b999d016c36d2dadced0cf72ba29579"
+  },
+  {
+    "index": 92,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 47
+      },
+      {
+        "source_id": "S002",
+        "source_page": 48
+      },
+      {
+        "source_id": "S002",
+        "source_page": 49
+      },
+      {
+        "source_id": "S002",
+        "source_page": 50
+      },
+      {
+        "source_id": "S002",
+        "source_page": 51
+      },
+      {
+        "source_id": "S002",
+        "source_page": 52
+      },
+      {
+        "source_id": "S002",
+        "source_page": 53
+      },
+      {
+        "source_id": "S002",
+        "source_page": 54
+      },
+      {
+        "source_id": "S002",
+        "source_page": 55
+      },
+      {
+        "source_id": "S002",
+        "source_page": 56
+      },
+      {
+        "source_id": "S002",
+        "source_page": 57
+      },
+      {
+        "source_id": "S002",
+        "source_page": 58
+      },
+      {
+        "source_id": "S002",
+        "source_page": 59
+      },
+      {
+        "source_id": "S002",
+        "source_page": 60
+      },
+      {
+        "source_id": "S002",
+        "source_page": 61
+      },
+      {
+        "source_id": "S002",
+        "source_page": 62
+      },
+      {
+        "source_id": "S002",
+        "source_page": 63
+      },
+      {
+        "source_id": "S002",
+        "source_page": 64
+      },
+      {
+        "source_id": "S002",
+        "source_page": 65
+      },
+      {
+        "source_id": "S002",
+        "source_page": 66
+      }
+    ],
+    "output_pdf_pages": 28,
+    "docx": "current_outputs/忠实数字化稿/092/300001_第34讲_282-322_完整章_忠实数字化稿.docx",
+    "docx_sha256": "4af8b729b93bce84efe880d6fd61345ff126b4aa39e334ccee5355f0bd3cb5a0",
+    "pdf": "current_outputs/忠实数字化稿/092/300001_第34讲_282-322_完整章_忠实数字化稿.pdf",
+    "pdf_sha256": "5619356d0927976cad9012025ef8975cff262e2d1b1a052ffa267552bd702011"
+  },
+  {
+    "index": 93,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 47
+      },
+      {
+        "source_id": "S002",
+        "source_page": 48
+      },
+      {
+        "source_id": "S002",
+        "source_page": 49
+      },
+      {
+        "source_id": "S002",
+        "source_page": 50
+      },
+      {
+        "source_id": "S002",
+        "source_page": 51
+      },
+      {
+        "source_id": "S002",
+        "source_page": 52
+      },
+      {
+        "source_id": "S002",
+        "source_page": 53
+      },
+      {
+        "source_id": "S002",
+        "source_page": 54
+      },
+      {
+        "source_id": "S002",
+        "source_page": 55
+      },
+      {
+        "source_id": "S002",
+        "source_page": 56
+      },
+      {
+        "source_id": "S002",
+        "source_page": 57
+      },
+      {
+        "source_id": "S002",
+        "source_page": 58
+      },
+      {
+        "source_id": "S002",
+        "source_page": 59
+      },
+      {
+        "source_id": "S002",
+        "source_page": 60
+      },
+      {
+        "source_id": "S002",
+        "source_page": 61
+      },
+      {
+        "source_id": "S002",
+        "source_page": 62
+      },
+      {
+        "source_id": "S002",
+        "source_page": 63
+      },
+      {
+        "source_id": "S002",
+        "source_page": 64
+      },
+      {
+        "source_id": "S002",
+        "source_page": 65
+      },
+      {
+        "source_id": "S002",
+        "source_page": 66
+      }
+    ],
+    "output_pdf_pages": 83,
+    "docx": "current_outputs/新增答案解析/093/300001_第34讲_282-322_完整章_新增答案解析.docx",
+    "docx_sha256": "f06bb841de3a3c4205b74cc8db0ff9077b9d07214da1e6be303d2193c424fb4a",
+    "pdf": "current_outputs/新增答案解析/093/300001_第34讲_282-322_完整章_新增答案解析.pdf",
+    "pdf_sha256": "ad3a0858e2be724e24ebbf5483c9ac8f2b75ddbda2181059ea77053f61825bec"
+  },
+  {
+    "index": 94,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 67
+      },
+      {
+        "source_id": "S002",
+        "source_page": 68
+      },
+      {
+        "source_id": "S002",
+        "source_page": 69
+      },
+      {
+        "source_id": "S002",
+        "source_page": 70
+      }
+    ],
+    "output_pdf_pages": 5,
+    "docx": "current_outputs/忠实数字化稿/094/300001_第35讲_323-326_完整章_忠实数字化稿.docx",
+    "docx_sha256": "095f1fef95f27990e37ec74f53e5d4a794610aa8fbaaf080b2bf9d5e0d078883",
+    "pdf": "current_outputs/忠实数字化稿/094/300001_第35讲_323-326_完整章_忠实数字化稿.pdf",
+    "pdf_sha256": "ac66263e372605e0e563e5c403e6c1c277d803739d026e8ef6312e0d9b85e073"
+  },
+  {
+    "index": 95,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 67
+      },
+      {
+        "source_id": "S002",
+        "source_page": 68
+      },
+      {
+        "source_id": "S002",
+        "source_page": 69
+      },
+      {
+        "source_id": "S002",
+        "source_page": 70
+      }
+    ],
+    "output_pdf_pages": 20,
+    "docx": "current_outputs/新增答案解析/095/300001_第35讲_323-326_完整章_新增答案解析.docx",
+    "docx_sha256": "bd740069b595033990395cb2a9d1e03856b08780c64c87b8a41028ddeabfef44",
+    "pdf": "current_outputs/新增答案解析/095/300001_第35讲_323-326_完整章_新增答案解析.pdf",
+    "pdf_sha256": "98c719b97022ac92929517c445694f40e7cb71246acb3082ab387fcdafc96984"
+  },
+  {
+    "index": 96,
+    "kind": "faithful_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 71
+      },
+      {
+        "source_id": "S002",
+        "source_page": 72
+      },
+      {
+        "source_id": "S002",
+        "source_page": 73
+      },
+      {
+        "source_id": "S002",
+        "source_page": 74
+      },
+      {
+        "source_id": "S002",
+        "source_page": 75
+      }
+    ],
+    "output_pdf_pages": 8,
+    "docx": "current_outputs/忠实数字化稿/096/300001_第36讲_完整章_327-331_忠实数字化稿.docx",
+    "docx_sha256": "b9b716c03a8693008bb9a25b66ae9564fcdd98c66e66603c5c975c8dbc29ff28",
+    "pdf": "current_outputs/忠实数字化稿/096/300001_第36讲_完整章_327-331_忠实数字化稿.pdf",
+    "pdf_sha256": "9fd599fe013c77da8eac76779bfbce4b6ae0cec83ef1b3b42b262ff69a4dc44d"
+  },
+  {
+    "index": 97,
+    "kind": "answer_outputs",
+    "source_keys": [
+      {
+        "source_id": "S002",
+        "source_page": 71
+      },
+      {
+        "source_id": "S002",
+        "source_page": 72
+      },
+      {
+        "source_id": "S002",
+        "source_page": 73
+      },
+      {
+        "source_id": "S002",
+        "source_page": 74
+      },
+      {
+        "source_id": "S002",
+        "source_page": 75
+      }
+    ],
+    "output_pdf_pages": 26,
+    "docx": "current_outputs/新增答案解析/097/300001_第36讲_完整章_327-331_新增答案解析.docx",
+    "docx_sha256": "9bc0d006daa79d02ac9a96d379557977f1cad723488e89d79593618cc222c33f",
+    "pdf": "current_outputs/新增答案解析/097/300001_第36讲_完整章_327-331_新增答案解析.pdf",
+    "pdf_sha256": "d203b289bac88170b1c2858c015fd28526dad05cf3951a3d06b7f85cfa3c8552"
+  }
+]
